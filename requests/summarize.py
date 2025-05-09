@@ -45,11 +45,25 @@ def summarize_text(text, api_key, model="gpt-4.1"):
     response.raise_for_status()
     return response.json()['choices'][0]['message']['content']
 
-filename = "neuroscience_news_2025-05-09_12-32.json"
-input_path = os.path.join("requests//json", filename)
+json_dir = "requests/json"
 
-with open(input_path, "r", encoding="utf-8") as f:
-    response_json = json.load(f)
+# get neuro news files
+json_files = [
+    os.path.join(json_dir, f)
+    for f in os.listdir(json_dir)
+    if f.startswith("neuroscience_news") and f.endswith(".json")
+]
+
+# Sort files by last modified time (most recent first)
+json_files.sort(key=os.path.getmtime, reverse=True)
+
+# Load the most recent file
+if json_files:
+    latest_file = json_files[0]
+    with open(latest_file, "r", encoding="utf-8") as f:
+        response_json = json.load(f)
+else:
+    raise FileNotFoundError("No neuroscience_news JSON files found.")
 
 def make_content(response_json, trim=5000):
     processed_articles = []
