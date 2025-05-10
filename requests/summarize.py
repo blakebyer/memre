@@ -11,7 +11,7 @@ load_dotenv() # load .env
 
 # load OpenAI API key
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-api_key = OPENAI_API_KEY
+WIKI_API_KEY = os.getenv("WIKI_API_KEY")
 
 def scrape_text(url):
     headers = { # impersonate a browser to prevent 403 access forbidden errors
@@ -26,7 +26,7 @@ def scrape_text(url):
         tag.decompose()
     return soup.get_text(separator="\n", strip=True)
 
-def summarize_text(text, api_key=api_key, model="gpt-4.1"):
+def summarize_text(text, api_key=OPENAI_API_KEY, model="gpt-4.1"):
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -46,7 +46,7 @@ def summarize_text(text, api_key=api_key, model="gpt-4.1"):
     response.raise_for_status()
     return response.json()['choices'][0]['message']['content']
 
-def get_image_url(title, api_key=api_key, model="gpt-4.1"):
+def get_image_url(title, api_key=OPENAI_API_KEY, model="gpt-4o"):
     """
     Uses OpenAI GPT-4 with browsing to return a real Wikimedia Commons image URL related to the given title.
     """
@@ -65,12 +65,14 @@ def get_image_url(title, api_key=api_key, model="gpt-4.1"):
         "model": model,
         "tools": [{ "type": "web_search_preview" }],
         "input": prompt,
-        "temperature": 0.2,
-        "max_tokens": 500
+        "temperature": 0.2
     }
 
     response = requests.post(url, headers=headers, json=data)
-    return response_json["content"][0]["text"].strip()
+    return response.json()['output'][1]['content'][0]['text']
+
+def get_wikimedia(title, api_key=WIKI_API_KEY):
+    True
 
 # # get neuro news files
 json_files = [
@@ -130,4 +132,4 @@ def make_content(response_json, trim=5000, limit=None):
 
     return processed_articles
 
-new_content = make_content(response_json, limit = 5) # only the first 5 articles 
+new_content = make_content(response_json, limit = 10) # only the first X articles 
