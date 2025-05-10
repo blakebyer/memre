@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 import random
 from bs4 import BeautifulSoup
+import re
 
 load_dotenv() # load .env
 
@@ -25,7 +26,7 @@ def scrape_text(url):
         tag.decompose()
     return soup.get_text(separator="\n", strip=True)
 
-def summarize_text(text, api_key, model="gpt-4.1"):
+def summarize_text(text, api_key=api_key, model="gpt-4.1"):
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -45,12 +46,36 @@ def summarize_text(text, api_key, model="gpt-4.1"):
     response.raise_for_status()
     return response.json()['choices'][0]['message']['content']
 
-json_dir = "requests/json"
+def get_image_url(title, api_key=api_key, model="gpt-4.1"):
+    """
+    Uses OpenAI GPT-4 with browsing to return a real Wikimedia Commons image URL related to the given title.
+    """
+    url = "https://api.openai.com/v1/responses"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    prompt = (
+        f"Search Wikimedia Commons, Unsplash, Shutterstock, Pexels, or Flickr for a publicly usable image related to the topic \"{title}\"."
+        "Try synonyms or broader concepts if needed (e.g., if the topic is PTSD, try 'brain', 'neuroscience', or 'mental health')."
+        "Pick one suitable, high-quality image and return only its direct image URL (ending in .jpg or .png). "
+        "Do not guess. Do not invent a link. If no image is found, return 'None'. Return only the URL, no extra text."
+    )
+    data = {
+        "model": model,
+        "tools": [{ "type": "web_search_preview" }],
+        "input": prompt,
+        "temperature": 0.2,
+        "max_tokens": 500
+    }
 
-# get neuro news files
+    response = requests.post(url, headers=headers, json=data)
+    return response_json["content"][0]["text"].strip()
+
+# # get neuro news files
 json_files = [
-    os.path.join(json_dir, f)
-    for f in os.listdir(json_dir)
+    os.path.join("requests/json", f)
+    for f in os.listdir("requests/json")
     if f.startswith("neuroscience_news") and f.endswith(".json")
 ]
 
@@ -65,10 +90,15 @@ if json_files:
 else:
     raise FileNotFoundError("No neuroscience_news JSON files found.")
 
-def make_content(response_json, trim=5000):
+def make_content(response_json, trim=5000, limit=None):
     processed_articles = []
 
-    for article in response_json.get("articles", []):
+    # Slice the list of articles if a limit is set
+    articles = response_json.get("articles", [])
+    if limit is not None:
+        articles = articles[:limit]
+
+    for article in articles:
         source = article.get("source", {}).get("name")
         author = article.get("author", "Unknown Author")
         title = article.get("title")
@@ -76,20 +106,28 @@ def make_content(response_json, trim=5000):
 
         try:
             text = scrape_text(url)
-            article["text"] = text[:trim]  # Trim if needed
-            article["summary"] = summarize_text(text[:trim], api_key)
-            processed_articles.append(article)
+            summary = summarize_text(text[:trim])
+            image = get_image_url(title)
+            processed_articles.append({
+                "title": title,
+                "source": source,
+                "author": author,
+                "url": url,
+                "summary": summary,
+                "image": image
+            })
+            
             print(f"Done: {title}")
         except Exception as e:
             print(f"Failed to process {title}: {e}")
+
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+    filename = f"neuro_news_content_{timestamp}.json"
+    output_path = os.path.join("requests/json", filename)
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(processed_articles, f, ensure_ascii=False, indent=2)
+
     return processed_articles
 
-timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-filename = f"summarized_news_{timestamp}.json"
-output_path = os.path.join("requests//json", filename)
-
-new_content = make_content(response_json)
-
-# save summarized content
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(new_content, f, ensure_ascii=False, indent=2)
+new_content = make_content(response_json, limit = 5) # only the first 5 articles 
