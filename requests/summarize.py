@@ -71,9 +71,6 @@ def get_image_url(title, api_key=OPENAI_API_KEY, model="gpt-4o"):
     response = requests.post(url, headers=headers, json=data)
     return response.json()['output'][1]['content'][0]['text']
 
-def get_wikimedia(title, api_key=WIKI_API_KEY):
-    True
-
 # # get neuro news files
 json_files = [
     os.path.join("requests/json", f)
@@ -132,4 +129,32 @@ def make_content(response_json, trim=5000, limit=None):
 
     return processed_articles
 
-new_content = make_content(response_json, limit = 10) # only the first X articles 
+#new_content = make_content(response_json, limit = 10) # only the first X articles 
+
+def get_wikimedia(title, api_key=WIKI_API_KEY, limit=10):
+    url = 'https://api.wikimedia.org/core/v1/commons/search/page'
+    headers = { # impersonate a browser to prevent 403 access forbidden errors
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/113.0.0.0 Safari/537.36"
+    }
+    params = {
+        'q' : title,
+        'limit' : limit
+    }
+    res = requests.get(url, headers = headers, params = params, timeout=10)
+    res.raise_for_status()
+    return res.json()
+
+new = get_wikimedia("Gliosis")
+print(new)
+
+# # Example usage
+# if __name__ == "__main__":
+#     query = "Diffusion tensor imaging"
+#     results = search_commons(query)
+#     for page in results.get('pages', []):
+#         title = page.get('title')
+#         description = page.get('description', '')
+#         url = f"https://commons.wikimedia.org/wiki/{title.replace(' ', '_')}"
+#         print(f"{title}: {url}")

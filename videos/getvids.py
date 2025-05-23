@@ -11,7 +11,8 @@ load_dotenv() # load .env
 
 def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), save=False):
     # default isbn is nature neuroscience online
-    # other feasible isbn options: 
+    # other feasible isbn options: Neuron = 1097-4199, Acta Neuropathologica = 1432-0533, Trends in Neurosciences = 1878-108X, The Journal of Neuroscience = 1529-2401, Brain = 1460-2156,
+    # eLife = 2050-084X, Annual Review of Neuroscience = 1545-4126, Current Opinion in Neurobiology = 1873-6882
     url = f"https://api.crossref.org/journals/{isbn}/works?filter=type:journal-article,from-pub-date:{start_date},until-pub-date:{end_date}&rows=100"
 
     headers = { # impersonate a browser to prevent 403 access forbidden errors
@@ -41,7 +42,7 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
 
     if (save):
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-        filename = f"nat_neuro_{timestamp}.json"
+        filename = f"{journal}_{timestamp}.json"
         output_path = os.path.join("videos//json", filename)
 
         # save json
@@ -50,7 +51,7 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
     
     return results
 
-nat_neuro = get_urls(start_date="2025-01-01", save = True)
+elife = get_urls(isbn= '2050-084X', start_date="2025-01-01", save = True)
 
 def get_vids(articles, extensions= ['.mp4'], save=False):
     all_videos = []
@@ -58,6 +59,7 @@ def get_vids(articles, extensions= ['.mp4'], save=False):
     for article in articles:
         url = article.get("url")
         print(f"Searching: {url}")
+        journal = article.get("journal")
 
         try:
             response = requests.get(url, timeout=10)
@@ -84,7 +86,7 @@ def get_vids(articles, extensions= ['.mp4'], save=False):
 
     if (save):
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-        filename = f"nat_neuro_vids_{timestamp}.json"
+        filename = f"{journal}_vids_{timestamp}.json"
         output_path = os.path.join("videos//json", filename)
 
         # save json
@@ -93,4 +95,4 @@ def get_vids(articles, extensions= ['.mp4'], save=False):
 
     return all_videos
 
-vids = get_vids(nat_neuro, save = True)
+vids = get_vids(elife, save = True)
