@@ -29,13 +29,16 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
 
     for article in response_json.get("message", {}).get("items", []):
         title = article.get("title", [""])[0]
+        authors = article.get("author", [])
+        formatted_names = [f"{a.get('family', '')}, {a.get('given', '')}" for a in authors]
+        abstract = article.get("abstract", [""])
         url_field = article.get("URL", "")
         journal = article.get("container-title", [""])[0]
-        links = article.get("link", [])[1].get("URL")
 
         results.append({
             "title": title,
-            "link": links,
+            "authors" : formatted_names,
+            "abstract" : abstract,
             "url": url_field,
             "journal": journal
         })
@@ -95,4 +98,4 @@ def get_vids(articles, extensions= ['.mp4'], save=False):
 
     return all_videos
 
-vids = get_vids(elife, save = True)
+#vids = get_vids(elife, save = True)

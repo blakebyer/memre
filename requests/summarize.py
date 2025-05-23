@@ -2,10 +2,9 @@ import requests
 import json
 import os 
 from dotenv import load_dotenv
-from datetime import datetime
-import random
+from datetime import datetime, date
 from bs4 import BeautifulSoup
-import re
+from playwright.sync_api import sync_playwright
 
 load_dotenv() # load .env
 
@@ -13,20 +12,90 @@ load_dotenv() # load .env
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 WIKI_API_KEY = os.getenv("WIKI_API_KEY")
 
-def scrape_text(url):
+def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), save=False):
+    # default isbn is nature neuroscience online
+    # other feasible isbn options: Neuron = 1097-4199, Acta Neuropathologica = 1432-0533, Trends in Neurosciences = 1878-108X, The Journal of Neuroscience = 1529-2401, Brain = 1460-2156,
+    # eLife = 2050-084X, Annual Review of Neuroscience = 1545-4126, Current Opinion in Neurobiology = 1873-6882
+    url = f"https://api.crossref.org/journals/{isbn}/works?filter=type:journal-article,from-pub-date:{start_date},until-pub-date:{end_date}&rows=100"
+
     headers = { # impersonate a browser to prevent 403 access forbidden errors
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/113.0.0.0 Safari/537.36"
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Referer': 'http://google.com'
     }
-    res = requests.get(url, headers=headers, timeout=10)
-    res.raise_for_status()
-    soup = BeautifulSoup(res.text, "html.parser")
+
+    # save response to json with filename specified with datetime
+    response = requests.get(url, headers = headers, timeout=10)
+    response.raise_for_status()
+    response_json = response.json()
+
+    results = []
+
+    for article in response_json.get("message", {}).get("items", []):
+        title = article.get("title", [""])[0]
+        authors = article.get("author", [])
+        formatted_names = [f"{a.get('family', '')}, {a.get('given', '')}" for a in authors]
+        abstract = article.get("abstract", [""])
+        url_field = article.get("URL", "")
+        journal = article.get("container-title", [""])[0]
+
+        results.append({
+            "title": title,
+            "authors" : formatted_names,
+            "abstract" : abstract,
+            "url": url_field,
+            "journal": journal
+        })
+
+    if (save):
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+        filename = f"{journal}_{timestamp}.json"
+        output_path = os.path.join("videos//json", filename)
+
+        # save json
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+    
+    return results
+
+# def scrape_text(url):
+#     headers = { # impersonate a browser to prevent 403 access forbidden errors
+#         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+#                       "AppleWebKit/537.36 (KHTML, like Gecko) "
+#                       "Chrome/113.0.0.0 Safari/537.36"
+#     }
+#     res = requests.get(url, headers=headers, timeout=30)
+#     res.raise_for_status()
+#     soup = BeautifulSoup(res.text, "html.parser")
+#     for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside']):
+#         tag.decompose()
+#     return soup.get_text(separator="\n", strip=True)
+
+def scrape_text(url):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(user_agent=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/113.0.0.0 Safari/537.36"
+        ))
+        page = context.new_page()
+        page.goto(url, wait_until="networkidle", timeout=60000)  # Wait for full JS load
+        html = page.content()
+        browser.close()
+
+    soup = BeautifulSoup(html, "html.parser")
+    
+    # Remove irrelevant elements
     for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside']):
         tag.decompose()
+
+    # Return clean text
     return soup.get_text(separator="\n", strip=True)
 
-def summarize_text(text, api_key=OPENAI_API_KEY, model="gpt-4.1"):
+
+def summarize_text(text, api_key=OPENAI_API_KEY, model="gpt-4o"):
+    results = []
     url = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -36,15 +105,34 @@ def summarize_text(text, api_key=OPENAI_API_KEY, model="gpt-4.1"):
         "model": model,
         "messages": [
             {"role": "system", "content": "You are a helpful assistant that summarizes web content to be used in an Instagram post caption."},
-            {"role": "user", "content": f"Summarize the following article, address its current relevance to neuroscience, and craft it into a succint (<250 words) Instagram caption with appropriate but sparse emojis and hashtags. Please do not mention figures within the article, author names, or tag an account using an @ symbol.\n\n{text}"}
+            {"role": "user", "content": f"Summarize the following article, address its current relevance to neuroscience, and craft it into a succint (<250 words) Instagram caption with appropriate but sparse emojis and hashtags. Please do not mention the name of the journal, figures within the article, author names, or tag an account using an @ symbol.\n\n{text}"}
         ],
         "temperature": 0.5,
         "max_tokens": 500
     }
+    keyword_data = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": "You are a helpful assistant that uses web content to find relevant keywords to be used to search an image database."},
+            {"role": "user", "content": f"Using the following article, find three specific keywords that could be used to search an image database such as Wikimedia Commons. Return the words in comma delimited string (i.e. 'neurodegeneration,gliosis'). Please do not use overly technical terms within the article, such as the name of a protein (e.g. PSEN1 or GFAP) or an acronym, instead return keywords relevant to the topics of the article (e.g. 'Parkinsonism' or 'diffusion tensor imaging'). Please do not mention author names and do not return any additional text besides the comma-delimited keyword string.\n\n{text}"}
+        ],
+        "temperature": 0.5,
+        "max_tokens": 20
+    }
 
-    response = requests.post(url, headers=headers, json=data)
-    response.raise_for_status()
-    return response.json()['choices'][0]['message']['content']
+    # get article summary as an Instagram caption
+    response1 = requests.post(url, headers=headers, json=data)
+    response1.raise_for_status()
+    summary = response1.json()['choices'][0]['message']['content']
+    
+    # get article keywords
+    response2 = requests.post(url, headers=headers, json=keyword_data)
+    keywords = response2.json()['choices'][0]['message']['content']
+    
+    return {
+    "summary": summary,
+    "keywords": keywords
+    }
 
 def get_image_url(title, api_key=OPENAI_API_KEY, model="gpt-4o"):
     """
@@ -71,67 +159,7 @@ def get_image_url(title, api_key=OPENAI_API_KEY, model="gpt-4o"):
     response = requests.post(url, headers=headers, json=data)
     return response.json()['output'][1]['content'][0]['text']
 
-# # get neuro news files
-json_files = [
-    os.path.join("requests/json", f)
-    for f in os.listdir("requests/json")
-    if f.startswith("neuroscience_news") and f.endswith(".json")
-]
-
-# Sort files by last modified time (most recent first)
-json_files.sort(key=os.path.getmtime, reverse=True)
-
-# Load the most recent file
-if json_files:
-    latest_file = json_files[0]
-    with open(latest_file, "r", encoding="utf-8") as f:
-        response_json = json.load(f)
-else:
-    raise FileNotFoundError("No neuroscience_news JSON files found.")
-
-def make_content(response_json, trim=5000, limit=None):
-    processed_articles = []
-
-    # Slice the list of articles if a limit is set
-    articles = response_json.get("articles", [])
-    if limit is not None:
-        articles = articles[:limit]
-
-    for article in articles:
-        source = article.get("source", {}).get("name")
-        author = article.get("author", "Unknown Author")
-        title = article.get("title")
-        url = article.get("url")
-
-        try:
-            text = scrape_text(url)
-            summary = summarize_text(text[:trim])
-            image = get_image_url(title)
-            processed_articles.append({
-                "title": title,
-                "source": source,
-                "author": author,
-                "url": url,
-                "summary": summary,
-                "image": image
-            })
-            
-            print(f"Done: {title}")
-        except Exception as e:
-            print(f"Failed to process {title}: {e}")
-
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-    filename = f"neuro_news_content_{timestamp}.json"
-    output_path = os.path.join("requests/json", filename)
-
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(processed_articles, f, ensure_ascii=False, indent=2)
-
-    return processed_articles
-
-#new_content = make_content(response_json, limit = 10) # only the first X articles 
-
-def get_wikimedia(title, api_key=WIKI_API_KEY, limit=10):
+def get_wikimedia(query, extensions= ('.jpg', '.jpeg', '.png'), limit=5):
     url = 'https://api.wikimedia.org/core/v1/commons/search/page'
     headers = { # impersonate a browser to prevent 403 access forbidden errors
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -139,22 +167,105 @@ def get_wikimedia(title, api_key=WIKI_API_KEY, limit=10):
                       "Chrome/113.0.0.0 Safari/537.36"
     }
     params = {
-        'q' : title,
+        'q' : query,
         'limit' : limit
     }
-    res = requests.get(url, headers = headers, params = params, timeout=10)
+    res = requests.get(url, headers = headers, params = params, timeout=30)
     res.raise_for_status()
-    return res.json()
 
-new = get_wikimedia("Gliosis")
-print(new)
+    res = requests.get(url, headers=headers, params=params, timeout=30)
+    res.raise_for_status()
+    pages = res.json().get("pages", [])
 
-# # Example usage
-# if __name__ == "__main__":
-#     query = "Diffusion tensor imaging"
-#     results = search_commons(query)
-#     for page in results.get('pages', []):
-#         title = page.get('title')
-#         description = page.get('description', '')
-#         url = f"https://commons.wikimedia.org/wiki/{title.replace(' ', '_')}"
-#         print(f"{title}: {url}")
+    results = []
+    for page in pages[:limit]:
+        title = page.get("title", "")
+
+        if not title.startswith("File:") or not title.lower().endswith(extensions):
+            continue
+
+        img_url = 'https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&format=json'
+        img_params = {
+            'titles' : title
+        }
+        metadata = requests.get(img_url, headers = headers, params = img_params, timeout=30)
+        metadata.raise_for_status()
+        data = metadata.json()
+
+        # Navigate to the page object
+        pages_dict = data.get("query", {}).get("pages", {})
+        page_info = next(iter(pages_dict.values()))  # safely get the first (and only) page
+
+        # get metadata
+        img_info = page_info.get("imageinfo", [{}])[0]
+        extmetadata = img_info.get("extmetadata", {})
+        author =  extmetadata.get("Artist", {}).get("value")
+        description = extmetadata.get("ImageDescription", {}).get("value")
+        credit =  extmetadata.get("Credit", {}).get("value")
+        license = extmetadata.get("License", {}).get("value")
+
+        link = f"https://commons.wikimedia.org/wiki/{title.replace(' ', '_')}"
+        results.append({
+            "title": title,
+            "author": author,
+            "description" : description,
+            "credit" : credit,
+            "license" : license,
+            "url": link
+        })
+
+    return results
+
+def make_content(isbn='1546-1726', start_date='2025-01-01', end_date=date.today(), trim=5000, limit=None, save=False):
+    processed_articles = []
+
+    articles = get_urls(isbn = isbn)
+
+    if limit is not None:
+        articles = articles[:limit]
+
+    for article in articles:
+        atitle = article.get("title")
+        aurl = article.get("url")
+        ajournal = article.get("journal")
+        authors = article.get("authors")
+        abstract = article.get("abstract")
+
+        try:
+            images = []
+            text = scrape_text(aurl)
+            sum_key = summarize_text(text[:trim])
+            summary = sum_key.get("summary")
+            keywords = sum_key.get("keywords").split(",") # convert to list
+
+            for keyword in keywords:
+                image = get_wikimedia(keyword)
+                images.append(image)
+
+            processed_articles.append({
+                "title": atitle,
+                "authors": authors,
+                "abstract" : abstract,
+                "url": aurl,
+                "journal": ajournal,
+                "keywords" : keywords,
+                "caption" : summary,
+                "images": images
+            })
+            print(f"Done: {atitle}")
+
+        except Exception as e:
+            print(f"Failed to process article {atitle} : {e}")
+    
+    if (save):
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+        filename = f"{ajournal}_content_{timestamp}.json"
+        output_path = os.path.join("requests//json", filename)
+
+        # save json
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(processed_articles, f, ensure_ascii=False, indent=2)
+    
+    return processed_articles
+
+new_content = make_content(isbn='1759-4766', limit = 5, save=True) # only the first X articles 

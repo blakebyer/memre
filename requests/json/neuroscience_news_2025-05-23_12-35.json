@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 169,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Allison Parshall",
+      "title": "Murderbot's Cyborg Brain Explained by Neuroscience",
+      "description": "What would it take to create a cyborg brain like the one in the new TV show Murderbot? The answer reveals what makes our own brain so unique",
+      "url": "https://www.scientificamerican.com/article/murderbots-cyborg-brain-explained-by-neuroscience/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3134d1896b7434d7/original/murderbot.jpg?m=1747679094.82&w=1200",
+      "publishedAt": "2025-05-20T11:00:00Z",
+      "content": "Murderbot, the titular character of a new television show on Apple TV+, doesn’t do much murdering. Instead it enjoys the freedom of having hacked its governor module, the internal control system that… [+8269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Allison Parshall",
+      "title": "Where Does Consciousness Come from? Two Neuroscience Theories Go Head-to-Head",
+      "description": "Two leading theories of consciousness went head-to-head—and the results may change how neuroscientists study one of the oldest questions about existence",
+      "url": "https://www.scientificamerican.com/article/where-does-consciousness-come-from-two-neuroscience-theories-go-head-to-head/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/6fda4676e9285894/original/Brain_Consciousness.jpg?m=1746025521.964&w=1200",
+      "publishedAt": "2025-04-30T15:35:00Z",
+      "content": "Where in the brain does consciousness originate? Theories abound, but neuroscientists still haven’t coalesced around one explanation, largely because it’s such a hard question to probe with the scien… [+8683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Vagus Nerve Stimulation Erases PTSD",
+      "description": "A pioneering clinical study found that pairing vagus nerve stimulation (VNS) with traditional therapy eliminated PTSD diagnoses in all participants up to six months post-treatment.",
+      "url": "https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/",
+      "urlToImage": "https://neurosciencenews.com/files/2025/05/vagus-nerve-stimulation-PTSD-neuroscience.jpg",
+      "publishedAt": "2025-05-07T19:38:16Z",
+      "content": "Summary: A pioneering clinical study found that pairing vagus nerve stimulation (VNS) with traditional therapy eliminated PTSD diagnoses in all participants up to six months post-treatment. The trial… [+9077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Clinical trial shows improvements for spinal cord injuries",
+      "description": "Researchers demonstrated unprecedented rates of recovery for spinal cord injuries. Individuals with incomplete spinal cord injury safely received a combination of stimulation of a nerve in the neck with progressive, individualized rehabilitation. This approac…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250521124108.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-21T16:41:08Z",
+      "content": "In a new clinical study, researchers from the Texas Biomedical Device Center (TxBDC) at The University of Texas at Dallas demonstrated unprecedented rates of recovery for spinal cord injuries.In this… [+6165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jake Hollis PsychD",
+      "title": "Can Neuroscience Explain What Makes Fatigue Chronic?",
+      "description": "The brain is a predictive machine. It creates physical sensations based on its reading of the body's needs. Can this unlock the mystery of chronic fatigue?",
+      "url": "https://www.psychologytoday.com/us/blog/the-fatigue-psychologist/202505/can-neuroscience-explain-what-makes-fatigue-chronic",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/brandon-morgan-3qucB7U2l7I-unsplash.jpg?itok=nLRtsvjW",
+      "publishedAt": "2025-05-13T12:29:45Z",
+      "content": "If you are living with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) or long COVID, youve likely learned to be very careful about not overdoing it. After meticulous efforts not to excee… [+7174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Lindsey Godwin Ph.D.",
+      "title": "Can a Playlist Save Your Mood? Neuroscience Says Yes",
+      "description": "Ever wonder why one song can lift your spirits while another brings you to tears? Here's how to use that power on purpose to shift your mood, spark memories, and reset your day.",
+      "url": "https://www.psychologytoday.com/us/blog/possibilitizing/202505/can-a-playlist-save-your-mood-neuroscience-says-yes",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/ChatGPT%20Image%20May%2021%2C%202025%20at%2005_24_08%20PM_0.png.jpg?itok=VfYQTQ3Z",
+      "publishedAt": "2025-05-22T00:24:35Z",
+      "content": "Last week, my daughter and I packed the car for a two-day drive to my college reunion. Thats a lot of miles. A lot of caffeine. And, as it turns out, a masterclass in the emotional power of music. Sh… [+5318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Boris Herzberg",
+      "title": "Why Do We Dream?",
+      "description": "Dreams can aid in processing emotions, solving problems, and even healing from trauma. From Freud to neuroscience, discover how your subconscious is speaking in dreams.",
+      "url": "https://www.psychologytoday.com/us/blog/the-psychology-of-relationships-and-emotional-intelligence/202505/why-do-we-dream",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-05/pexels-ketut-subiyanto-4473864.jpg?itok=qdjqGvwS",
+      "publishedAt": "2025-05-17T16:59:26Z",
+      "content": "Are you familiar with that lingering feeling after waking from a vivid dream? When you passionately want to believe that your mind has shown you something important, but you just cant figure out what… [+7258 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Cami Rosso",
+      "title": "AI Predicts Active Brain Cell Types With High Accuracy",
+      "description": "A neuroscience breakthrough has been achieved using AI to identify neuron cell types from the brain activity recordings of mice and monkeys with high accuracy.",
+      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202505/ai-predicts-active-brain-cell-types-with-high-accuracy",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/pic1095715.jpg?itok=icQyuxp_",
+      "publishedAt": "2025-05-13T12:05:39Z",
+      "content": "A major neuroscience breakthrough has been achieved with the help of an artificial intelligence (AI) deep learning algorithm. In a study published this month in Cell, a multinational team of twenty-t… [+3452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Alicia H. Clark Psy.D.",
+      "title": "The Myth of Fearlessness",
+      "description": "What if courage isn’t about being fearless? Learn how anxiety can fuel action and growth—drawing on Lincoln’s wisdom, neuroscience, and real-life psychological tools.",
+      "url": "https://www.psychologytoday.com/us/blog/hack-your-anxiety/202505/the-myth-of-fearlessness",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/shutterstock_416963164.jpg?itok=XbRVw3Wg",
+      "publishedAt": "2025-05-13T17:08:05Z",
+      "content": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear. Franklin D. Roosevelt\r\nWe live in a world that often confuses courage with fearlessness. F… [+5167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "PTSD patients show long-term benefits with vagus nerve stimulation",
+      "description": "In a recent clinical study, patients with treatment-resistant post-traumatic stress disorder were symptom-free up to six months after completing traditional therapy paired with vagus nerve stimulation.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250505170641.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-05T21:06:41Z",
+      "content": "In a first-of-its-kind clinical study, scientists at The University of Texas at Dallas and Baylor University Medical Center showed that patients with treatment-resistant PTSD were symptom-free up to … [+6114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Anjan Chatterjee MD, FAAN",
+      "title": "Neuroscams: Buyers Beware",
+      "description": "Neurotech companies promise to harness electrophysiology to help us flourish. How do you decide if their claims should be taken seriously?",
+      "url": "https://www.psychologytoday.com/us/blog/brain-behavior-and-beauty/202505/neuroscams-buyers-beware",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/moritz-kindler-G66K_ERZRhM-unsplash%201.jpg?itok=2QRuKlKA",
+      "publishedAt": "2025-05-19T20:25:56Z",
+      "content": "Neuro is everywhere. It would seem that neuroscience has cracked the brain code to well-being and human flourishing and neurotech is delivering on these advances. Devices claim to help us concentrate… [+5341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Are groovy brains more efficient?",
+      "description": "The smallest grooves on the brain's surface, unique to humans, have largely been ignored by anatomists, but recent studies show that they're related to cognitive performance, including face recognition and reasoning ability. A new study shows that the depths …",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250521161109.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-21T20:11:09Z",
+      "content": "Many grooves and dimples on the surface of the brain are unique to humans, but they're often dismissed as an uninteresting consequence of packing an unusually large brain into a too-small skull.But n… [+9164 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetransmitter.org"
+      },
+      "author": "Angie Voyles Askham",
+      "title": "Reconstructing dopamine's link to reward (2024)",
+      "description": "The field is grappling with whether to modify the long-standing theory of reward prediction error—or abandon it entirely.",
+      "url": "https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/",
+      "urlToImage": "https://www.thetransmitter.org/wp-content/uploads/2024/09/cropped-RPE-1200.png",
+      "publishedAt": "2025-05-02T01:19:17Z",
+      "content": "Its a more realistic way of thinking about the anatomy, says Ilana Witten, professor of neuroscience at Princeton University, who led the 2019 study and co-authored the new paper with Daw. The teams … [+11796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Robots learning without us? New study cuts humans from early testing",
+      "description": "Humans no longer have exclusive control over training social robots to interact effectively, thanks to a new study. The study introduces a new simulation method that lets researchers test their social robots without needing human participants, making research…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250519132026.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-19T17:20:26Z",
+      "content": "Humans no longer have exclusive control over training social robots to interact effectively, thanks to a new study from the University of Surrey and the University of Hamburg.The study, which will be… [+2153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Children as young as five can navigate a 'tiny town'",
+      "description": "Neuroscientists are developing methods to map the brain systems that allow us to recognize and get around our world.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250505170644.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-05T21:06:44Z",
+      "content": "Many behavioral studies suggest that using landmarks to navigate through large-scale spaces -- known as map-based navigation -- is not established until around age 12.A neuroscience study at Emory Un… [+7715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Kuan-Ju Huang",
+      "title": "How Nostalgia Keeps Friendships Alive",
+      "description": "The social and psychological consequences of yearning for the past are starting to come into focus",
+      "url": "https://www.scientificamerican.com/article/how-nostalgia-keeps-friendships-alive/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3081087502705e58/original/friends_looking_through_photo_album.jpg?m=1746559386.079&w=1200",
+      "publishedAt": "2025-05-08T12:00:00Z",
+      "content": "Nostalgia is a complex emotion. It blends sentimental longing for a cherished past and the bittersweet realization that one can never fully return to that time. Psychologists have long puzzled over w… [+5986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mit.edu"
+      },
+      "author": null,
+      "title": "Dopamine signals when a fear can be forgotten",
+      "description": "Study shows how a dopamine circuit between two brain regions enables mice to extinguish fear after a peril has passed.",
+      "url": "https://picower.mit.edu/news/dopamine-signals-when-fear-can-be-forgotten",
+      "urlToImage": "https://picower.mit.edu/sites/default/files/styles/open_graph/public/VTA-dopamine-pBLA.jpg?itok=YUoHFOWn",
+      "publishedAt": "2025-05-01T17:29:16Z",
+      "content": "Dangers come but dangers also go and when they do, the brain has an all-clear signal that teaches it to extinguish its fear. A new study in mice by MIT neuroscientists shows that the signal is the re… [+6926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Asian elephants have larger brains than their African relatives",
+      "description": "African elephants are the largest land animals on earth and significantly larger than their relatives in Asia, from which they are separated by millions of years of evolution. Nevertheless, Asian elephants have a 20 percent heavier brain, as scientists were a…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250520121427.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-20T16:14:27Z",
+      "content": "African elephants are the largest land animals on earth and significantly larger than their relatives in Asia, from which they are separated by millions of years of evolution. Nevertheless, Asian ele… [+5114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Aaron Shattuck",
+      "title": "Readers Respond to the February 2025 Issue",
+      "description": "Letters to the editors for the February 2025 issue of Scientific American",
+      "url": "https://www.scientificamerican.com/article/readers-respond-to-the-february-2025-issue/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/543570d6b59790d4/original/sa0625-Letters-IssueCover.jpg?m=1746540947.652&w=1200",
+      "publishedAt": "2025-05-20T13:00:00Z",
+      "content": "ORBITAL DEBRIS\r\nThe article “How to Recycle Space Junk,” by Moriba Jah, addresses how cluttering space with detritus will have, and is having, a deleterious effect on various activities, particularly… [+7044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Donna Jackson Nakazawa",
+      "title": "8 Neuroprotective Steps for Talking to Kids and Teens",
+      "description": "There are neuroprotective ways to build connection with our children and be the mirror that reflects their latent magic.",
+      "url": "https://www.psychologytoday.com/us/blog/the-last-best-cure/202505/8-neuroprotective-steps-for-talking-to-kids-and-teens",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/mother-and-daughter-3281388_1280%20copy.jpg?itok=-1XHn7LZ",
+      "publishedAt": "2025-05-15T16:42:53Z",
+      "content": "Todays young people need us to see and support them more than ever. Youve seen the headlines. Fifty-seven percent of girls now report feeling persistently sad or hopeless. Three in four high schooler… [+2381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists design gene delivery systems for cells in the brain and spinal cord",
+      "description": "Research teams funded by the National Institutes of Health (NIH) have created a versatile set of gene delivery systems that can reach different neural cell types in the human brain and spinal cord with exceptional accuracy. These delivery systems are a signif…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250521124115.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-21T16:41:15Z",
+      "content": "Research teams funded by the National Institutes of Health (NIH) have created a versatile set of gene delivery systems that can reach different neural cell types in the human brain and spinal cord wi… [+4745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Study suggests we don't just hear music, but 'become it'",
+      "description": "Psychologists suggest our brains and bodies don't just understand music, they physically resonate with it. These discoveries, based on findings in neuroscience, music, and psychology, support Neural Resonance Theory (NRT).",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250506170920.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-06T21:09:20Z",
+      "content": "An international study co-authored by McGill psychologist Caroline Palmer suggests our brains and bodies don't just understand music, they physically resonate with it. These discoveries, based on fin… [+1789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Chelom E. Leavitt, J.D., Ph.D.",
+      "title": "Sexual Mindfulness Is Not an Activity, It Is a Way of Life",
+      "description": "Our brains are designed to think, but thinking can, at times, get out of control and hijack our real aims. You can slow down and be more intentional in life and love.",
+      "url": "https://www.psychologytoday.com/us/blog/sexual-mindfulness/202505/sexual-mindfulness-is-not-an-activity-it-is-a-way-of-life",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/pexels-mikhail-nilov-6932441.jpg?itok=E_6-WUV3",
+      "publishedAt": "2025-05-14T21:10:14Z",
+      "content": "Our brains are designed to think. But when our brains are not trained, they may overthink, get stuck in loops of rumination, anxiety, and self-doubt.[i] From a neurological perspective, this mental p… [+5733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Eugene Rubin M.D., Ph.D.",
+      "title": "Demystifying Psychiatry: What's Changed in the Past 15 Years",
+      "description": "We published the book \"Demystifying Psychiatry\" in 2010. Although basic principles of psychiatric treatment remain unchanged, new treatments have become available since then.",
+      "url": "https://www.psychologytoday.com/us/blog/demystifying-psychiatry/202504/demystifying-psychiatry-whats-changed-in-the-past-15-years",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/IMG_2547.JPEG.jpg?itok=5VKyxvsS",
+      "publishedAt": "2025-04-23T17:06:08Z",
+      "content": "Co-authored by Eugene Rubin, M.D., Ph.D., and Charles Zorumski, M.D.\r\nWe published the book Demystifying Psychiatry: A Resource for Patients and Families 15 years ago. Since then, we have published 2… [+5097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Kate Schroeder LPC, LMHC, NCC",
+      "title": "How Somatic Work Enhances Psychedelic Healing of Trauma",
+      "description": "Explore how somatic therapy and psychedelic-assisted healing work together to access, process, and release trauma stored in the nervous system.",
+      "url": "https://www.psychologytoday.com/us/blog/next-change-is-inevitable-growth-is-optional/202505/how-somatic-work-enhances-psychedelic",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/Blog%20Image.jpg?itok=NWVRuAg6",
+      "publishedAt": "2025-05-05T21:06:12Z",
+      "content": "Theres a truth many of us know deep down, even if we cant quite name it: trauma doesnt just happen to us, it lodges within us. Its not just a memory. Its a held breath, a clenched jaw, a nervous syst… [+5882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Frank J. Ninivaggi M.D., DLF-A.P.A.",
+      "title": "How Eco-Corporeal Wholeness Can Transform Your Well-Being",
+      "description": "Biomental underscores eco-corporeality—the rootedness of individuals within the broader ecological context.",
+      "url": "https://www.psychologytoday.com/us/blog/envy-this/202505/how-eco-corporeal-wholeness-can-transform-your-well-being",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/IMG_1526.jpeg.jpg?itok=bCGSKFrG",
+      "publishedAt": "2025-05-21T18:04:21Z",
+      "content": "The biomental framework provides a holistic lens for understanding human experience as a dynamic interplay of somatic and psychological processes, embedded within a broader ecological context. It tra… [+7371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Temporary anxiety impacts learning",
+      "description": "Researchers found that a brief episode of anxiety may have a bigger influence on a person's ability to learn what is safe and what is not. A new study used a virtual reality game that involved picking flowers with bees in some of the blossoms that would 'stin…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250422131203.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-22T17:12:03Z",
+      "content": "A brief episode of anxiety may have a bigger influence on a person's ability to learn what is safe and what is not. The research recently published in NPJ Science of Learning used a virtual reality g… [+2342 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Bobby Hoffman Ph.D.",
+      "title": "I'm Putting My Passport Away: Maybe You Should Too",
+      "description": "Personal Perspective: After 17 years of globe-trotting, being American suddenly felt like a liability. My celebration trip to Europe revealed why science says our travel motivation may be at risk.",
+      "url": "https://www.psychologytoday.com/us/blog/motivate/202505/im-putting-my-passport-away-maybe-you-should-too",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/IMG_0259.jpg?itok=VRdLSJrk",
+      "publishedAt": "2025-05-05T15:14:29Z",
+      "content": "Picture this: You've just landed your dream job, crushed a major fitness goal, or finally finished that degree you've been working toward for years. What's next? For some of us, it's time to celebrat… [+6882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Westwood Institute for Anxiety Disorders",
+      "title": "New Triggers, Old Fears: How OCD Is Evolving",
+      "description": "Technology and cultural shifts are rapidly changing how OCD manifests and how clinicians must approach treatment. Here’s what every clinician and patient needs to know.",
+      "url": "https://www.psychologytoday.com/us/blog/inside-the-ocd-mind/202504/new-triggers-old-fears-how-ocd-is-evolving",
+      "urlToImage": "https://www.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/pexels-yankrukov-7640490.jpg?h=1ba4bc8b&itok=f8O5ZHMy",
+      "publishedAt": "2025-05-07T20:42:31Z",
+      "content": "In todays hyperconnected world, obsessive-compulsive disorder (OCD) is showing up in ways that would have surprised clinicians just a generation ago. Digital culture, public health scares, and shifti… [+7356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Laura Berger and Glen Tibaldeo",
+      "title": "From Inspiration to Impact",
+      "description": "What if your next breakthrough didn't require more hustle but more clarity? Discover how to spark growth with focus, courage, and intentional action.",
+      "url": "https://www.psychologytoday.com/us/blog/radical-sabbatical/202505/from-inspiration-to-impact",
+      "urlToImage": "https://www.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/matthew-Rg0ZWlsbZ0g-unsplash.jpg?h=09bf97d2&itok=bLH_jcY9",
+      "publishedAt": "2025-05-21T15:31:51Z",
+      "content": "Have you ever noticed how spring doesn't just arriveit unfolds?\r\nFirst, the soil softens. Then, tentative shoots push through. Slowly but surely, the bloom begins.\r\nLeadership works in much the same … [+2613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Knowing your Alzheimer's risk may ease anxiety but reduce motivation for healthy habits",
+      "description": "Learning about one's risk for Alzheimer's disease may not lead to emotional distress, but motivation to maintain healthy lifestyle changes tends to fade over time, even in people at high risk, according to a new study.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250507130352.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-07T17:03:52Z",
+      "content": "Learning about one's risk for Alzheimer's disease may not lead to emotional distress, but motivation to maintain healthy lifestyle changes tends to fade over time, even in people at high risk, accord… [+2857 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jneurosci.org"
+      },
+      "author": "Simor, P., Vekony, T., Farkas, B. C., Szalardy, O., Bogdany, T., Brezoczki, B., Csifcsak, G., Nemeth, D.",
+      "title": "Mind Wandering during Implicit Learning Is Associated with Increased Periodic EEG Activity and Improved Extraction of Hidden Probabilistic Patterns",
+      "description": "Mind wandering, occupying 30–50% of our waking time, remains an enigmatic phenomenon in cognitive neuroscience. A large number of studies showed a negative association between mind wandering and attention-demanding (model-based) tasks in both natural settings…",
+      "url": "https://www.jneurosci.org/content/45/19/e1421242025",
+      "urlToImage": "https://www.jneurosci.org/sites/default/files/highwire/jneuro/45/19.cover-source.jpg",
+      "publishedAt": "2025-05-07T16:30:32Z",
+      "content": "Mind wandering, occupying 3050% of our waking time, remains an enigmatic phenomenon in cognitive neuroscience. A large number of studies showed a negative association between mind wandering and atten… [+1484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jneurosci.org"
+      },
+      "author": "Landron, T., Lopez-Persem, A., Domenech, P., Lehongre, K., Navarro, V., Rheims, S., Kahane, P., Bastin, J., Pessiglione, M.",
+      "title": "Dissociation of Value and Confidence Signals in the Orbitofrontal Cortex during Decision-Making: An Intracerebral Electrophysiology Study in Humans",
+      "description": "Some decisions, such as selecting a food item in a novel menu, are not based on rational norms, or on trained habits, but on subjective preferences. How the human brain makes these preference-based decisions is still debated in cognitive neuroscience. Classic…",
+      "url": "https://www.jneurosci.org/content/45/18/e1740242025",
+      "urlToImage": "https://www.jneurosci.org/sites/default/files/highwire/jneuro/45/18.cover-source.jpg",
+      "publishedAt": "2025-04-30T16:30:26Z",
+      "content": "Some decisions, such as selecting a food item in a novel menu, are not based on rational norms, or on trained habits, but on subjective preferences. How the human brain makes these preference-based d… [+1459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard School of Engineering and Applied Sciences"
+      },
+      "author": "Bryce Fuemmeler",
+      "title": "The Friendship Recession: The Lost Art of Connecting",
+      "description": "February 2025 Issue       Carolyn Bruckmann, Harvard Kennedy School MPP ‘25     The so-called “Friendship Recession” is making its way into the vernacular—a profound shift in how Americans experience and sustain friendships. The data paints a stark picture. A…",
+      "url": "https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting",
+      "urlToImage": "http://static1.squarespace.com/static/6554db6c62a0492c6c1995bc/t/67c0897c360e510c70086370/1740671358922/unsplash-image-vYRAP3yMa3I.jpg?format=1500w",
+      "publishedAt": "2025-04-26T11:41:21Z",
+      "content": "February 2025 Issue\r\nCarolyn Bruckmann, Harvard Kennedy School MPP 25\r\nThe so-called Friendship Recession is making its way into the vernaculara profound shift in how Americans experience and sustain… [+19050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Rachel Nuwer",
+      "title": "New Class of Drugs Blocks Wakefulness Chemical and Offers Relief from Insomnia",
+      "description": "Drugs that target wakefulness, molecules in cannabis and wearable devices that modulate brain activity could help people with insomnia",
+      "url": "https://www.scientificamerican.com/article/new-class-of-drugs-blocks-wakefulness-chemical-and-offers-relief-from-insomnia/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/15849232af744ba2/original/Pulse_Oximeter_Sleeping.jpg?m=1747666511.162&w=1200",
+      "publishedAt": "2025-05-21T13:00:00Z",
+      "content": "This Nature Outlook is editorially independent, produced with financial support from Avadel.\r\nMiranda cannot remember a time in her life when she did not have insomnia. The 23 year old, who asked for… [+16814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jessica Koehler Ph.D.",
+      "title": "Why Your Sense of Self Might Be Holding You Back",
+      "description": "What happens to personal growth when your beliefs become who you are, not just what you think?",
+      "url": "https://www.psychologytoday.com/us/blog/beyond-school-walls/202505/why-your-sense-of-self-might-be-holding-you-back",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-05/Young%20woman%20camera.jpg?itok=WNcjeptM",
+      "publishedAt": "2025-05-11T00:57:46Z",
+      "content": "Who are you? Its a simple question that carries heavy weight. \r\nMaybe you say: Im a doctor. A mother. A photographer. A liberal. A survivor. A skeptic. A leader. A lifelong learner. \r\nWe all carry la… [+5133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Study reveals a deep brain region that links the senses",
+      "description": "Humans perceive and navigate the world around us with the help of our five senses: sight, hearing, touch, taste and smell. And while scientists have long known that these different senses activate different parts of the brain, a new study indicates that multi…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250515191140.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-15T23:11:40Z",
+      "content": "A Yale-led study shows that the senses stimulate a region of the brain that controls consciousness -- a finding that might inform treatment for disorders related to attention, arousal, and more.Human… [+3411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Doreen Samelson Ed.D., MSCP",
+      "title": "Autism, Rubella and the Rising Fear of Vaccines",
+      "description": "Personal Perspective: A forgotten virus changed my son's life forever; now, dropping vaccination rates may bring it back. Science, not fear, must guide our choices.",
+      "url": "https://www.psychologytoday.com/us/blog/along-the-care-path/202505/autism-rubella-and-the-rising-fear-of-vaccines",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/Flower_DeborahHudsonCrafted_Pixabay4905417_1920.jpg?itok=f_vX05Eg",
+      "publishedAt": "2025-05-09T16:05:43Z",
+      "content": "Every day, my family lives with the impact of a disease that most Americans have largely forgotten: Rubella.\r\nMy adult sons birth mother had rubella during her pregnancy. Thanks to widespread vaccina… [+4207 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jennice Vilhauer Ph.D.",
+      "title": "Why Healing the Past Won’t Make You Happy",
+      "description": "You don’t have to fix your past to feel good now. The secret to happiness lies in what you choose to focus on—and it’s simpler than you think.",
+      "url": "https://www.psychologytoday.com/us/blog/living-forward/202505/why-healing-the-past-wont-make-you-happy",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/chermiti-mohamed-oVi586BZ2lY-unsplash.jpg?itok=oB9Qouf_",
+      "publishedAt": "2025-05-17T20:22:09Z",
+      "content": "Many people believe that in order to feel happy, they need to heal the past. Its a logical assumption. If something hurt you once, its easy to think that the pain needs to be resolved before you can … [+4126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Kyle Davies BSc MPhil CPsychol",
+      "title": "Are You Tired All the Time?",
+      "description": "Tired but can’t switch off? Foggy for no reason? Fatigue has many faces. You can identify what kind you’re feeling.",
+      "url": "https://www.psychologytoday.com/us/blog/the-mind-body-link/202504/are-you-tired-all-the-time",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/pexels-karolina-grabowska-6028540.jpg?itok=W3Lwz4Dj",
+      "publishedAt": "2025-04-30T15:00:18Z",
+      "content": "Fatigue is often framed as a simple energy deficit, a message from the body that the battery is running low. The interpretation being: a problem to solve with more sleep, better nutrition, or a new s… [+5913 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jennifer Gerlach LCSW",
+      "title": "Depression Makes It Hard to Think Clearly",
+      "description": "Depression can cloud the mind, but we can improve our ability to think clearly.",
+      "url": "https://www.psychologytoday.com/us/blog/beyond-mental-health/202504/depression-makes-it-hard-to-think-clearly",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/pexels-icecloudxx-572772944-20707949.jpg?itok=U9IIeIOP",
+      "publishedAt": "2025-04-30T14:40:05Z",
+      "content": "What was her name? I could vividly picture her. I could remember all kinds of stories and times we shared. Why couldn't I think of her name? I put my head down, trying to figure out how I could find … [+4408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Grant Hilary Brenner MD, DFAPA",
+      "title": "A Wandering Mind Improves Inferential Learning",
+      "description": "Leveraging the power of the spontaneously wandering mind to enhance learning, problem-solving, and creativity.",
+      "url": "https://www.psychologytoday.com/us/blog/experimentations/202505/a-wandering-mind-improves-inferential-learning",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/pexels-ahmetmert-26893044.jpg?itok=bpp-RdPZ",
+      "publishedAt": "2025-05-09T01:41:31Z",
+      "content": "Mind wandering is an intriguing phenomenonthe average person spends up to 50% of their waking hours in this semi-dreamlike state. While it is notorious for undermining performance on tasks requiring … [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Shari Geller, Ph.D.",
+      "title": "How Does Therapeutic Presence Promote Real Change?",
+      "description": "If you want to strengthen the therapeutic alliance and promote change for your clients, then cultivating therapeutic presence is your first step.",
+      "url": "https://www.psychologytoday.com/us/blog/therapeutic-presence-and-self-compassion/202505/how-does-therapeutic-presence-promote-real",
+      "urlToImage": "https://www.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/pexels-alex-green-5699431.jpg?h=d18a08ac&itok=l5IZuvGP",
+      "publishedAt": "2025-05-13T01:10:05Z",
+      "content": "Being fully present with a client requires you, as a therapist, to bring your whole self to the encounter: physically, emotionally, psychologically, spiritually, and relationally (Geller &amp; Greenb… [+6070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Francine Toder Ph.D.",
+      "title": "What’s So Fearful About Silence?",
+      "description": "Finding places away from incessant electronic sounds in current life is hard to do and requires planning. It can be so uncomfortable that we may find destructive ways to avoid it.",
+      "url": "https://www.psychologytoday.com/us/blog/enhance-your-vintage-years/202505/whats-so-fearful-about-silence",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/IMG_0084.jpeg.jpg?itok=Eh0gr21g",
+      "publishedAt": "2025-05-11T19:36:27Z",
+      "content": "Have you ever gone somewhere to listen to the silence? Probably not. We are a sensation-seeking society and most comfortable when our five senses are engaged and attending to something. \r\nSilence is … [+4193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Leslie E. Korn Ph.D., MPH, LMHC, ACS, FNTP",
+      "title": "Understanding Trauma's Impact on Your Mind and Body",
+      "description": "Explore how trauma impacts mental and physical health—and how holistic, somatic healing offers a path toward lasting integration and balance.",
+      "url": "https://www.psychologytoday.com/us/blog/rhythms-of-recovery/202505/understanding-traumas-impact-on-your-mind-and-body",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/woman-nature.png.jpg?itok=aVXj20ob",
+      "publishedAt": "2025-05-16T17:26:30Z",
+      "content": "During Mental Health Awareness Month, I would like to address some common misconceptions. First and foremost, it is essential to remember that many of the conditions we treat in mental health do not … [+5318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "James M. Hyman Ph.D.",
+      "title": "Today’s Been a Heck of a Week!",
+      "description": "Our brains construct our sense of time by counting our number of experiences. Recent events have created a disconnect between our perception of time passing and the calendar.",
+      "url": "https://www.psychologytoday.com/us/blog/a-neuroscientists-guide-to-psychology/202504/todays-been-a-heck-of-a-week",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/pexels-thirdman-5060976.jpg?itok=j88dM9Q_",
+      "publishedAt": "2025-04-22T23:14:40Z",
+      "content": "Around Wednesday of each week, Ive found myself gobsmacked that its only Wednesday! How could there still be half the week left when it feels like this week has already lasted so long? And it extends… [+4230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jeff DeGraff Ph.D.",
+      "title": "Our Two Lives",
+      "description": "Why do some people grow from failure while others stay stuck? Personal stories shape resilience—and the choice to live a second life.",
+      "url": "https://www.psychologytoday.com/us/blog/innovation-you/202505/our-two-lives",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-05/The%20Natural%20-%20Rotten%20Tomatoes.jpg?itok=i9jx0Ld3",
+      "publishedAt": "2025-05-01T17:17:31Z",
+      "content": "Im a bit of a romantic. That might not seem like a high-risk confession, but in my line of workwhere coolheaded objectivity and calculated disruption are the normromanticism can make you vulnerable. … [+5353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jennifer Verdolin Ph.D.",
+      "title": "Reconnect With Nature to Improve Mental Well-Being",
+      "description": "Simple, accessible experiences—like stepping outside to observe birds, journaling about what you see, or watching ants—can meaningfully improve mental health.",
+      "url": "https://www.psychologytoday.com/us/blog/wild-connections/202505/reconnect-with-nature-to-improve-mental-well-being",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/IMG_5336.jpeg.jpg?itok=iSWplSTh",
+      "publishedAt": "2025-05-03T20:28:02Z",
+      "content": "Whether it is mental, emotional, or physical pain, the science is clear: nature can bring a sense of calm, restore peace, and reduce physiological pain levels. In my new Audible course, Reconnect wit… [+5382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Sam Goldstein Ph.D.",
+      "title": "The Plan to Find the Causes of Autism Is Doomed to Fail",
+      "description": "Kennedy's autism plan overlooks scientific evidence. Only population-wide, longitudinal studies can reveal the complex roots of autism. Simpler approaches lead to dead ends.",
+      "url": "https://www.psychologytoday.com/us/blog/common-sense-science/202504/the-plan-to-find-the-causes-of-autism-is-doomed-to-fail",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/pexels-leeloothefirst-5428833.jpg?itok=7XnfiAVG",
+      "publishedAt": "2025-04-24T13:43:29Z",
+      "content": "Health and Human Services Secretary Kennedys recently unveiled plan to identify the causes of autism relies heavily on chart reviews and retrospective data. While framed as a step toward addressing a… [+6380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elifesciences.org"
+      },
+      "author": "matthew.rosenblatt@yale.edu (Brendan D Adkinson), matthew.rosenblatt@yale.edu (Dustin Scheinost), matthew.rosenblatt@yale.edu (Hannah Peterson), matthew.rosenblatt@yale.edu (Javid Dadashkarimi), matthew.rosenblatt@yale.edu (Jean Ye), matthew.rosenblatt@yale.edu (Margaret L Westwater), matthew.rosenblatt@yale.edu (Marie C McCusker), matthew.rosenblatt@yale.edu (Matthew Rosenblatt), matthew.rosenblatt@yale.edu (Max J Rolison), matthew.rosenblatt@yale.edu (Maya L Foster), matthew.rosenblatt@yale.edu (Michael C Farruggia), matthew.rosenblatt@yale.edu (Qinghao Liang), matthew.rosenblatt@yale.edu (Raimundo Rodriguez), matthew.rosenblatt@yale.edu (Rongtao Jiang), matthew.rosenblatt@yale.edu (Saloni Mehta), matthew.rosenblatt@yale.edu (Stephanie Noble), matthew.rosenblatt@yale.edu (Violet M Kimble)",
+      "title": "Trends in self-citation rates in high-impact neurology, neuroscience, and psychiatry journals",
+      "description": "Citation metrics influence academic reputation and career trajectories. Recent works have highlighted flaws in citation practices in the Neurosciences, such as the under-citation of women. However, self-citation rates—or how much authors cite themselves—have …",
+      "url": "https://elifesciences.org/articles/88540",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2025-05-14T00:00:00Z",
+      "content": "Several previous works have explored gender differences in self-citation practices. King et al., 2017 found that men self-cited 70% more than women from 1991 to 2011, but they did not account for the… [+6380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Nina Ahuja BScHons, MD, FRCSC, CHE",
+      "title": "5 Vital Steps to Help You Overcome Resistance",
+      "description": "Struggling with change? Learn science-backed strategies to break through resistance and move forward with confidence.",
+      "url": "https://www.psychologytoday.com/us/blog/striving-high/202504/5-vital-steps-to-help-you-overcome-resistance",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-04/marrio31%20from%20Getty%20Images%20Signature.png.jpg?itok=veb9ra7X",
+      "publishedAt": "2025-04-28T13:26:53Z",
+      "content": "Resistancethe pushback we feel when facing changeisnt a flaw; its data. It signals unmet needs, unprocessed fears, or a lack of clarity. Why do we hesitate, avoid, or resist whats ahead? With science… [+7260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "T. Alexander Puutio Ph.D.",
+      "title": "Evolution Hates Your Cubicle—Here’s How to Thrive Anyway",
+      "description": "Humans didn’t evolve for spreadsheets, yet we’re chained to them. Learn why the brain rebels against cubicles, and how to redesign work so it fuels purpose, mastery, and belonging.",
+      "url": "https://www.psychologytoday.com/us/blog/curiosity-code/202505/evolution-hates-your-cubicle-heres-how-to-thrive-anyway",
+      "urlToImage": "https://www.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/pexels-shvetsa-4226215.jpg?h=486aca63&itok=FKwWgQAe",
+      "publishedAt": "2025-05-14T13:43:09Z",
+      "content": "Work is a most unnatural thing to happen to a human if you stop and think about it. \r\nFor most of our species' time on this planet, we've labored only in exchange for immediate returns. Food, shelter… [+6293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Mitchell B. Liester M.D.",
+      "title": "When the Body Remembers",
+      "description": "Your body remembers what your mind forgets. Discover how trauma lives in your cells and the breakthrough therapies that can help heal these hidden wounds at their source.",
+      "url": "https://www.psychologytoday.com/us/blog/the-leading-edge/202504/when-the-body-remembers",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/Trauma%20-%20Mart%20Protduction%20-%20Pexels.jpg?itok=LNm2N0qk",
+      "publishedAt": "2025-04-27T16:11:47Z",
+      "content": "In the quiet moments between conscious thoughts, our bodies hold stories. These are not the narratives we deliberately recall, but rather the implicit memories etched into our cellsmemories that can … [+8783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Diane E Dreher Ph.D.",
+      "title": "How to Build Hope in Troubled Times",
+      "description": "If today's distressing news is dragging you down, you can increase your positivity by building hope.",
+      "url": "https://www.psychologytoday.com/us/blog/your-personal-renaissance/202504/how-to-build-hope-in-troubled-times",
+      "urlToImage": "https://www.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-04/20190727_124414.jpg?h=2985ef7a&itok=y56DWZhh",
+      "publishedAt": "2025-04-24T19:24:41Z",
+      "content": "Todays avalanche of distressing news can make some of us feel helpless and hopeless. And research shows that we have an inherent negativity bias to focus on our problems, which can further drag us do… [+6547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Ilene Strauss Cohen Ph.D.",
+      "title": "The Truth About Family Cutoff",
+      "description": "Cutting ties with family is a tough choice that carries hidden, often long-term and painful, costs. Explore the impact of family estrangement and some alternatives to total cutoff.",
+      "url": "https://www.psychologytoday.com/us/blog/your-emotional-meter/202504/the-truth-about-family-cutoff",
+      "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2025-04/iStock-1147369899.jpg?itok=0kPM2us6",
+      "publishedAt": "2025-04-29T19:02:16Z",
+      "content": "Family relationships can bring profound joy but also deep frustration. Recently, theres been a growing trend to cut family out of ones life when conflicts arise or emotional pain becomes too much to … [+6805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Harvard School of Engineering and Applied Sciences"
+      },
+      "author": "Elizabeth Zonarich",
+      "title": "‘The goal is to understand who you are’",
+      "description": "Studying neuroscience gives Nghia Nguyen insights into ‘technical, tangible’ reasons for the things he does every day",
+      "url": "https://news.harvard.edu/gazette/story/2025/05/grads-research-sparks-questions-about-brains-ability-to-see-future/",
+      "urlToImage": "https://news.harvard.edu/wp-content/uploads/2025/05/andermann-lab-2019-10.jpg",
+      "publishedAt": "2025-05-09T19:39:55Z",
+      "content": "A collection of features and profiles covering Harvard Universitys 374th Commencement.\r\nFor someone who studies the brains ability to predict future experiences, there is little about Nghia Nguyens l… [+6786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Unique model of rare epileptic disease helps pinpoint potential treatment route",
+      "description": "Scientists have developed a cortical organoid model for UBA5-associated encephalopathy, revealing a new way to possibly address developmental defects.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250508172454.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-08T21:24:54Z",
+      "content": "While extremely rare, encephalopathy (a condition affecting brain function) triggered by mutations in the UBA5 gene has devastating impacts, with affected individuals reaching few developmental miles… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Mapping a new brain network for naming",
+      "description": "Researchers identified two brain networks involved in word retrieval -- the cognitive process of accessing words we need to speak. A semantic network processes meaning in middle/inferior frontal gyri, while an articulatory network in inferior frontal/precentr…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250513172018.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-13T21:20:18Z",
+      "content": "How are we able to recall a word we want to say? This basic ability, called word retrieval, is often compromised in patients with brain damage. Interestingly, many patients who can name words they se… [+4001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "What behavioral strategies motivate environmental action?",
+      "description": "A collaborative study tested 17 strategies in an 'intervention tournament.' Interventions targeting future thinking, such as writing a letter for a child to read in the future, are the most effective ways to motivate climate action.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250514180737.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-14T22:07:37Z",
+      "content": "Survey data show that most people believe climate change is happening, but many don't act, and as a postdoctoral fellow in Annenberg School for Communication Professor Emily Falk's Communication Neur… [+6235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Researchers restore antibiotic effect in the event of resistance",
+      "description": "Bacterial resistance negates the effect of antibiotics in the treatment of infection. Using mouse models, researchers now show that if antibiotics are administered with an enzyme called endolysin, the combined effect protects against infection by resistant ba…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250507125659.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-07T16:56:59Z",
+      "content": "Bacterial resistance negates the effect of antibiotics in the treatment of infection. Using mouse models, researchers now show that if antibiotics are administered with an enzyme called endolysin, th… [+3900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Discovery of dopamine receptors in a previously overlooked part of the brain sheds light on the complex circuitry for anxiety and depression",
+      "description": "Researchers have discovered distinct roles for two dopamine receptors located on nerve cells within the portion of the brain that controls approach vs. avoidance behavior.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250507152241.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-07T19:22:41Z",
+      "content": "Mount Sinai researchers have discovered distinct roles for two dopamine receptors located on nerve cells within the portion of the brain that controls approach vs. avoidance behavior. These receptors… [+4113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Vitamin supplements slow down the progression of glaucoma",
+      "description": "A vitamin supplement that improves metabolism in the eye appears to slow down damage to the optic nerve in glaucoma. The researchers behind the study have now started a clinical trial on patients.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250508112321.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-08T15:23:21Z",
+      "content": "A vitamin supplement that improves metabolism in the eye appears to slow down damage to the optic nerve in glaucoma. Promising results have been published in the journal Cell Reports Medicine. The re… [+3025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Psychology Today"
+      },
+      "author": "Jeffry Ricker Ph.D.",
+      "title": "Sight Recovery After a Lifetime of Blindness",
+      "description": "Adapting to sightedness after a lifetime of blindness can be as difficult as the opposite. These cases teach us much about the complexity of visual perception.",
+      "url": "https://www.psychologytoday.com/us/blog/blindness-visible/202505/sight-recovery-after-a-lifetime-of-blindness",
+      "urlToImage": "https://www.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2025-05/Portrait_of_Henri_Matisse_1933_May_20.jpg?h=b419b0f5&itok=RFHl9tQx",
+      "publishedAt": "2025-05-16T20:10:41Z",
+      "content": "In 1963, Richard Gregory and Jean Wallace from the University of Cambridge published a case study of a man, functionally blind since infancy, whose sight was restored in adulthood. The man, identifie… [+8740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Patients with glioblastoma who received gabapentin lived longer, study suggests",
+      "description": "A new study suggests that gabapentin, a relatively common anti-seizure/pain medication, is linked to improved survival in patients with glioblastoma (GBM) -- the most common and deadly form of brain cancer in adults. The findings are based on a retrospective …",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250515131950.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-15T17:19:50Z",
+      "content": "A new study by investigators from Mass General Brigham suggests that gabapentin, a relatively common anti-seizure/pain medication, is linked to improved survival in patients with glioblastoma (GBM) -… [+3348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Brain decoder controls spinal cord stimulation",
+      "description": "A lab develops brain wave decoder that may help in spinal cord injury rehabilitation.",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250428220418.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-29T02:04:18Z",
+      "content": "When a person sustains an injury to the spinal cord, the normal communication between the brain and the spinal circuits below the injury are interrupted, resulting in paralysis. Because the brain is … [+3434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Overlooked cell type orchestrates brain rewiring",
+      "description": "Researchers have shown in mice that brain cells known as astrocytes are required for a signaling chemical called norepinephrine to modify brain activity, changing the textbook understanding that norepinephrine acts directly on neurons.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250516134834.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-16T17:48:34Z",
+      "content": "Researchers at Washington University School of Medicine in St. Louis have upended decades-old dogma of how connections between brain cells are rearranged during states of heightened vigilance or atte… [+3855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "AI overconfidence mirrors human brain condition",
+      "description": "Agents, chatbots and other tools based on artificial intelligence (AI) are increasingly used in everyday life by many. So-called large language model (LLM)-based agents, such as ChatGPT and Llama, have become impressively fluent in the responses they form, bu…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250515132458.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-15T17:24:58Z",
+      "content": "Agents, chatbots and other tools based on artificial intelligence (AI) are increasingly used in everyday life by many. So-called large language model (LLM)-based agents, such as ChatGPT and Llama, ha… [+3761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Compelling new insights into dynamics of the brain's serotonin system",
+      "description": "A new study sheds new light on these big questions, illuminating a general principle of neural processing in a mysterious region of the midbrain that is the very origin of our central serotonin (5-HT) system, a key part of the nervous system involved in a rem…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250425113347.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-25T15:33:47Z",
+      "content": "Our lives are filled with binary decisions -- choices between one of two alternatives. But what's really happening inside our brains when we engage in this kind of decision making?A University of Ott… [+4808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "How dopamine helps us learn to avoid bad outcomes",
+      "description": "Dopamine is the brain's motivational spark, driving us to chase what feels good, say scrolling another reel on social media, and steer clear of what doesn't, like touching a hot stove. But scientists haven't fully understood how dopamine helps us learn to avo…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250422131213.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-22T17:12:13Z",
+      "content": "Dopamine is the brain's motivational spark, driving us to chase what feels good, say scrolling another reel on social media, and steer clear of what doesn't, like touching a hot stove.But scientists … [+4978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Remembering the cold: Scientists discover how memories control metabolism",
+      "description": "New multidisciplinary research shows that the brain forms memories of cold experiences and uses them to control our metabolism. The study shows that cold memories form in the brain -- and map out how they subsequently drive thermoregulation. The discovery may…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250423111753.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-23T15:17:53Z",
+      "content": "New multidisciplinary research led by Prof. Tomás Ryan from Trinity College Dublin shows that the brain forms memories of cold experiences and uses them to control our metabolism. This newly publishe… [+4854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Yukako Yamane, Yuzhe Li, Keita Matsumoto, Ryota Kanai, Miles Desforges, Carlos Enrique Gutierrez, Kenji Doya",
+      "title": "Optical Neuroimage Studio (OptiNiSt): Intuitive, scalable, extendable framework for optical neuroimage data analysis",
+      "description": "Author summary Streamlining data analysis workflows in optical neural recording is essential as data volumes increase. Challenges include ensuring data quality, selecting optimal algorithms for analyses, and maintaining reproducibility. To address these, we d…",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013087",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013087.g008&size=inline",
+      "publishedAt": "2025-05-19T14:00:00Z",
+      "content": "Abstract\r\nAdvancements in calcium indicators and optical techniques have made optical neural recording common in neuroscience. As data volumes grow, streamlining the analysis pipelines for image prep… [+28821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jneurosci.org"
+      },
+      "author": "Bigand, F., Bianco, R., Abalde, S. F., Nguyen, T., Novembre, G.",
+      "title": "EEG of the Dancing Brain: Decoding Sensory, Motor, and Social Processes during Dyadic Dance",
+      "description": "Real-world social cognition requires processing and adapting to multiple dynamic information streams. Interpreting neural activity in such ecological conditions remains a key challenge for neuroscience. This study leverages advancements in denoising technique…",
+      "url": "https://www.jneurosci.org/content/45/21/e2372242025",
+      "urlToImage": "https://www.jneurosci.org/sites/default/files/highwire/jneuro/45/21.cover-source.jpg",
+      "publishedAt": "2025-05-21T16:30:26Z",
+      "content": "The EEG, EOG, EMG, and kinematic data analyzed here were collected as part of a previous study (Bigand et al., 2024), where participant dyads engaged in spontaneous dance under a 2×2 experimental des… [+246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetransmitter.org"
+      },
+      "author": "Laura Dattaro",
+      "title": "Connectomics 2.0: Simulating the brain",
+      "description": "Laura Dattaro, \nThe Transmitter: Neuroscience News and Perspectives, \nMay 02, 2025\n\n\n \n \r\nIt's one thing to build a complete connectome of a fly brain. It's quite another to understand how that brain works. \"Even if you could incorporate every detail about th…",
+      "url": "https://www.thetransmitter.org/connectome/connectomics-2-0-simulating-the-brain/",
+      "urlToImage": "https://www.thetransmitter.org/wp-content/uploads/2025/05/cropped-525-social-connectivity-neural-activity-drosophila.png",
+      "publishedAt": "2025-05-02T15:37:00Z",
+      "content": "In 2012, neuroscientists Sebastian Seung and J. Anthony Movshon squared off at a Columbia University event over the usefulness of connectomesmaps of every connection between every cell in the brain o… [+7771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Study finds one protein that mitigates Huntington's disease, and one that exacerbates it",
+      "description": "Researchers found that inhibiting GSK-3 led to less defects in the axonal transport process and less neuronal cell death, while inhibiting ERK1 led to more transport problems and more cell death.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250505171020.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-05T21:10:20Z",
+      "content": "A decade ago, University at Buffalo researchers shed some light on an enduring neuroscience mystery: How exactly does a mutated huntingtin protein (HTT) cause Huntington's disease?They found that HTT… [+4663 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "MRI can replace painful spinal tap to diagnose MS more quickly, according to a new study",
+      "description": "Experts have demonstrated that multiple sclerosis (MS) can successfully be diagnosed using an MRI scan, meaning patients no longer need to undergo a painful lumbar puncture. Experts found that by using a new MRI scan, they could successfully diagnose MS in 8 …",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250520121558.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-20T16:15:58Z",
+      "content": "Experts from the University of Nottingham have proven that multiple sclerosis (MS) can successfully be diagnosed using an MRI scan, meaning patients no longer need to undergo a painful lumbar punctur… [+3730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "ATP prevents harmful aggregation of proteins associated with Parkinson's and ALS",
+      "description": "While a comprehensive cure-all to these neurological conditions is unlikely, scientists are making headway into understanding their fundamental characteristics with the hope of preventing or alleviating cognitive and motor impairments. Researchers have now di…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250423164044.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-23T20:40:44Z",
+      "content": "Neurodegenerative disease like Alzheimer's, Parkinson's, and ALS (amyotrophic lateral sclerosis) are debilitating conditions that affect millions of people worldwide every year. These pathologies are… [+4229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Mechanism by which the brain weighs positive vs. negative social experience is revealed",
+      "description": "Researchers have identified the neural mechanisms in the brain that regulate both positive and negative impressions of a social encounter, as well as how an imbalance between the two could lead to common neuropsychiatric disorders.",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250430142231.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-30T18:22:31Z",
+      "content": "Mount Sinai researchers have identified for the first time the neural mechanisms in the brain that regulate both positive and negative impressions of a social encounter, as well as how an imbalance b… [+3947 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "How Is handedness linked to neurological disorders?",
+      "description": "The fact that left-handedness resp. mixed-handedness are strikingly common in patients with certain neurological disorders such as autism spectrum disorders is a frequently reported observation in medical practice. The reason why handedness is associated with…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250505121757.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-05T16:17:57Z",
+      "content": "Linguistic symptoms and an onset early in life: Disorders to which this applies are frequently associated with left-handedness resp. mixed-handedness.The fact that left-handedness resp. mixed-handedn… [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "New chronic pain therapy retrains the brain to process emotions",
+      "description": "Researchers have created an effective therapy for chronic pain that reduces pain intensity by focusing on emotional regulation.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250506131322.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-06T17:13:22Z",
+      "content": "A new study led by UNSW Sydney and Neuroscience Research Australia (NeuRA) shows that targeting emotional processing is key to treating and managing chronic pain.The study is based on a randomised co… [+6664 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Dopamine signals when a fear can be forgotten",
+      "description": "A new study shows how a dopamine circuit between two brain regions enables mice to extinguish fear after a peril has passed.",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250428220605.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-29T02:06:05Z",
+      "content": "Dangers come but dangers also go and when they do, the brain has an \"all-clear\" signal that teaches it to extinguish its fear. A new study in mice by MIT neuroscientists shows that the signal is the … [+6753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "The origins of language",
+      "description": "Wild chimpanzees alter the meaning of single calls when embedding them into diverse call combinations, mirroring linguistic operations in human language. Human language, however, allows an infinite generation of meaning by combining phonemes into words and wo…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250509154213.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-09T19:42:13Z",
+      "content": "Chimpanzees are capable of complex communication: The human capacity for language may not be as unique as previously thought. Chimpanzees have a complex communication system that allows them to combi… [+5194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A repurposed anti-inflammatory drug may help treat alcohol use disorder and related pain",
+      "description": "A preclinical study finds that a drug already FDA-approved for treating inflammatory conditions may help reduce both alcohol intake and pain sensitivity -- two issues that commonly co-occur with alcohol use disorder (AUD).",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250422155830.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-22T19:58:30Z",
+      "content": "A preclinical study from scientists at Scripps Research finds that a drug already FDA-approved for treating inflammatory conditions may help reduce both alcohol intake and pain sensitivity -- two iss… [+4064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Plos.org"
+      },
+      "author": "Elnaz Nemati, David B. Grayden, Anthony N. Burkitt, Parvin Zarei Eskikand",
+      "title": "Balancing prior knowledge and sensory data in a predictive coding model of coherent motion detection",
+      "description": "Author summary Our study introduces a biologically inspired computational neural model that simulates how the brain balances sensory information and prior experiences to detect motion. The model combines predictive coding, which is a framework where the brain…",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013116",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013116.g010&size=inline",
+      "publishedAt": "2025-05-21T14:00:00Z",
+      "content": "Citation: Nemati E, Grayden DB, Burkitt AN, Eskikand PZ (2025) Balancing prior knowledge and sensory data in a predictive coding model of coherent motion detection. PLoS Comput Biol 21(5):\r\n e1013116… [+73313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Researchers find that increase of 'CLU' protein promotes brain resilience and could provide protection from Alzheimer's disease",
+      "description": "Recently approved Alzheimer's drugs offer a step forward for treating the disease, but new therapeutic strategies are needed to complement them and provide personalized therapeutic approaches. Researchers have identified a potential strategy to protect agains…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250430142241.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-30T18:22:41Z",
+      "content": "Recently approved Alzheimer's drugs offer a step forward for treating the disease, but new therapeutic strategies are needed to complement them and provide personalized therapeutic approaches. Mass G… [+2817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Psychedelics can reverse neuroimmune interactions that boost fear",
+      "description": "A new study suggests that fear and the immune system are connected in previously unknown ways. Researchers found that the immune system can influence stress and fear behaviors by changing how brain cells communicate.",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250423111905.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-23T15:19:05Z",
+      "content": "Mass General Brigham researchers found that interactions between immune and brain cells drive fear responses, but treatment with psychedelics like MDMA and psilocybin may reverse these effects.A new … [+2996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Decoding the brainstem: A new window into brain--body--mind interactions",
+      "description": "Researchers have developed a new imaging method, D-PSCAN, which enables minimally invasive, wide-field, high-resolution imaging of the nucleus tractus solitarii (NTS) in living mice. This technique allows detailed investigation of NTS activity and offers broa…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250502102919.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-02T14:29:19Z",
+      "content": "The communication between the brain and bodily organs is fundamental to emotion regulation and overall mental health. The nucleus tractus solitarii (NTS) in the brainstem is a critical hub structure … [+3406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "National Institutes of Health"
+      },
+      "author": null,
+      "title": "Notice of Change: NINDS and Blueprint Participation in PA-25-168: Ruth L. Kirschstein National Research Service Award (NRSA) Institutional Research Training Grant (Parent T32)",
+      "description": "NIH Funding Opportunities and Notices in the NIH Guide for Grants and Contracts: Notice of Change: NINDS and Blueprint Participation in PA-25-168: Ruth L. Kirschstein National Research Service Award (NRSA) Institutional Research Training Grant (Parent T32) NO…",
+      "url": "https://grants.nih.gov/grants/guide/notice-files/NOT-NS-25-020.html",
+      "urlToImage": null,
+      "publishedAt": "2025-04-24T17:08:40Z",
+      "content": "The purpose of this Notice is to inform potential applicants that the National Institute of Neurological Disorders and Stroke (NINDS) and the NIH Blueprint for Neuroscience Research (NIH Blueprint) a… [+7894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Landmark experiment sheds new light on the origins of consciousness",
+      "description": "An experiment seven years in the making has uncovered new insights into the nature of consciousness and challenges two prominent, competing scientific theories: Integrated Information Theory (IIT) and Global Neuronal Workspace Theory (GNWT). The findings mark…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250430142233.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-30T18:22:33Z",
+      "content": "An experiment seven years in the making has uncovered new insights into the nature of consciousness and challenges two prominent, competing scientific theories: Integrated Information Theory (IIT) an… [+4480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Brain scans reveal what happens in the mind when insight strikes",
+      "description": "That 'aha' moment when you come back to a puzzle and immediately figure it out? Something fascinating is going on in your brain. A new study using functional magnetic resonance imaging shows that these flashes of insight aren't just satisfying -- they create …",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250514175431.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-14T21:54:31Z",
+      "content": "Have you ever been stuck on a problem, puzzling over something for what felt like ages without getting anywhere, but then suddenly the answer came to you like a bolt from the blue?We've all experienc… [+4165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "How hunting harriers home in on their prey",
+      "description": "Owls, well adapted to hearing the exact location of prey, have something in common with an unrelated group of raptors -- harriers. A new study has found that harriers across the world are able to keep a much better ear out for their next meal than previously …",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250506105359.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-06T14:53:59Z",
+      "content": "Owls, well adapted to hearing the exact location of prey, have something in common with an unrelated group of raptors -- harriers.A new study led by Canadian and Australian researchers has found that… [+4621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "What happens in the brain when your mind blanks",
+      "description": "Mind blanking is a common experience with a wide variety of definitions ranging from feeling 'drowsy' to 'a complete absence of conscious awareness.' Neuroscientists and philosophers compile what we know about mind blanking, including insights from their own …",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250424120758.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-24T16:07:58Z",
+      "content": "Mind blanking is a common experience with a wide variety of definitions ranging from feeling \"drowsy\" to \"a complete absence of conscious awareness.\" In an opinion article publishing April 24 in the … [+5288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A pipette that can activate individual neurons",
+      "description": "Researchers have developed a new type of pipette that can deliver ions to individual neurons without affecting the sensitive extracellular milieu. Controlling the concentration of different ions can provide important insights into how individual brain cells a…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250507130747.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-07T17:07:47Z",
+      "content": "Researchers at Linköping University have developed a new type of pipette that can deliver ions to individual neurons without affecting the sensitive extracellular milieu. Controlling the concentratio… [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Brain-inspired AI breakthrough: Making computers see more like humans",
+      "description": "Researchers have developed a new artificial intelligence (AI) technique that brings machine vision closer to how the human brain processes images. Called Lp-Convolution, this method improves the accuracy and efficiency of image recognition systems while reduc…",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250422131924.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-22T17:19:24Z",
+      "content": "A team of researchers from the Institute for Basic Science (IBS), Yonsei University, and the Max Planck Institute have developed a new artificial intelligence (AI) technique that brings machine visio… [+4070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elifesciences.org"
+      },
+      "author": "AChurchland@mednet.ucla.edu (Alejandro Pan-Vazquez), AChurchland@mednet.ucla.edu (Anne E Urai), AChurchland@mednet.ucla.edu (Anne K Churchland), AChurchland@mednet.ucla.edu (Anup Khanal), AChurchland@mednet.ucla.edu (Berk Gerçek), AChurchland@mednet.ucla.edu (Christopher Krasniak), AChurchland@mednet.ucla.edu (Christopher Langfield), AChurchland@mednet.ucla.edu (Cole Lincoln Hurwitz), AChurchland@mednet.ucla.edu (Cyrille Rossant), AChurchland@mednet.ucla.edu (Dan Biderman), AChurchland@mednet.ucla.edu (Daniel Birman), AChurchland@mednet.ucla.edu (Fei Hu), AChurchland@mednet.ucla.edu (Gaelle A Chapuis), AChurchland@mednet.ucla.edu (Guido T Meijer), AChurchland@mednet.ucla.edu (Hyun Dong Lee), AChurchland@mednet.ucla.edu (Ilana B Witten), AChurchland@mednet.ucla.edu (Jai Bhagat), AChurchland@mednet.ucla.edu (Jean-Paul Noel), AChurchland@mednet.ucla.edu (Julia Huntenburg), AChurchland@mednet.ucla.edu (Julius Benson), AChurchland@mednet.ucla.edu (Karel Svoboda), AChurchland@mednet.ucla.edu (Karolina Z Socha), AChurchland@mednet.ucla.edu (Kelly Buchanan), AChurchland@mednet.ucla.edu (Kush Banga), AChurchland@mednet.ucla.edu (Liam Paninski), AChurchland@mednet.ucla.edu (Marsa Taheri), AChurchland@mednet.ucla.edu (Matteo Carandini), AChurchland@mednet.ucla.edu (Matthew R Whiteway), AChurchland@mednet.ucla.edu (Mayo Faulkner), AChurchland@mednet.ucla.edu (M Felicia Davatolhagh), AChurchland@mednet.ucla.edu (Michael Schartner), AChurchland@mednet.ucla.edu (Miles Wells), AChurchland@mednet.ucla.edu (Nancy Mackenzie), AChurchland@mednet.ucla.edu (Nathaniel J Miska), AChurchland@mednet.ucla.edu (Niccolò Bonacchi), AChurchland@mednet.ucla.edu (Nicholas A Steinmetz), AChurchland@mednet.ucla.edu (Noam Roth), AChurchland@mednet.ucla.edu (Olivier Winter), AChurchland@mednet.ucla.edu (Petrina Lau), AChurchland@mednet.ucla.edu (Robert AA Campbell), AChurchland@mednet.ucla.edu (Sebastian A Bruijns), AChurchland@mednet.ucla.edu (Shuqi Wang), AChurchland@mednet.ucla.edu (Steven J West),…",
+      "title": "Reproducibility of in vivo electrophysiological measurements in mice",
+      "description": "Understanding brain function relies on the collective work of many labs generating reproducible results. However, reproducibility has not been systematically assessed within the context of electrophysiological recordings during cognitive behaviors. To address…",
+      "url": "https://elifesciences.org/articles/100840",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2025-05-12T00:00:00Z",
+      "content": "Concerns about reproducibility extend not only to electrophysiological properties but also to functional properties. To address this, we analyzed the reproducibility of neural activity driven by perc… [+13059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Impact of oft-overlooked cell in brain function revealed",
+      "description": "An often-ignored type of cell in the brain plays a dynamic and surprisingly complex role in our ability to process information, according to new research.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250515141544.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-15T18:15:44Z",
+      "content": "An often-ignored type of cell in the brain plays a dynamic and surprisingly complex role in our ability to process information, according to new research from Oregon Health &amp; Science University.T… [+4685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Promising new way to modulate brain cell activity to potentially treat major depressive disorder in adults",
+      "description": "A mechanism involving potassium channels in the brain that control brain cell activity could provide a new and fundamentally different way of treating depression symptoms in adults with major depressive disorder.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250521124629.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-21T16:46:29Z",
+      "content": "A mechanism involving potassium channels in the brain that control brain cell activity could provide a new and fundamentally different way of treating depression symptoms in adults with major depress… [+4192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Hormone cycles shape the structure and function of key memory regions in the brain",
+      "description": "Hormone levels fluctuate like the tides, ebbing and flowing according to carefully orchestrated cycles. These hormones not only influence the body, but can cross into the brain and shape the behavior of our neurons and cognitive processes. Recently, researche…",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250513150241.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-13T19:02:41Z",
+      "content": "Hormone levels fluctuate like the tides, ebbing and flowing according to carefully orchestrated cycles. These hormones not only influence the body, but can cross into the brain and shape the behavior… [+5990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Trouble hearing in noisy places and crowded spaces? Researchers say new algorithm could help hearing aid users",
+      "description": "BU researchers develop a brain-inspired algorithm that can help people with hearing loss pick out conversations in noisy, crowded spaces.",
+      "url": "https://www.sciencedaily.com/releases/2025/04/250428220638.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-04-29T02:06:38Z",
+      "content": "When a group of friends gets together at a bar or gathers for an intimate dinner, conversations can quickly multiply and mix, with different groups and pairings chatting over and across one another. … [+6404 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Different anesthetics, same result: Unconsciousness by shifting brainwave phase",
+      "description": "A new study finds that an easily measurable brain wave shift of phase may be a universal marker of unconsciousness under general anesthesia.",
+      "url": "https://www.sciencedaily.com/releases/2025/05/250512105543.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2025-05-12T14:55:43Z",
+      "content": "At the level of molecules and cells, ketamine and dexmedetomidine work very differently, but in the operating room they do the same exact thing: anesthetize the patient. By demonstrating how these di… [+5567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Elifesciences.org"
+      },
+      "author": "wehrl@gmx.de (Andreas Maurer), wehrl@gmx.de (Bharat Biswal), wehrl@gmx.de (Hans F Wehrl), wehrl@gmx.de (Kristina Herfert), wehrl@gmx.de (Mario Amend), wehrl@gmx.de (Rakibul Hafiz), wehrl@gmx.de (Tudor M Ionescu)",
+      "title": "Mapping serotonergic dynamics using drug-modulated molecular connectivity in rats",
+      "description": "Understanding the complex workings of the brain is one of the most significant challenges in neuroscience, providing insights into normal brain function, neurological diseases, and the effects of potential therapeutics. A major challenge in this field lies in…",
+      "url": "https://elifesciences.org/articles/97864",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2025-05-15T00:00:00Z",
+      "content": "One limitation of our study is that our experimental protocols predate the recently published consensus recommendations for rat fMRI (Grandjean et al., 2023), particularly concerning anesthesia and p… [+3491 chars]"
+    }
+  ]
+}
