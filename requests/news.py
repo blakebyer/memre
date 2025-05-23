@@ -3,7 +3,6 @@ import json
 import os 
 from dotenv import load_dotenv
 from datetime import datetime
-import random
 
 load_dotenv() # load .env
 

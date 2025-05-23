@@ -1,0 +1,407 @@
+[
+  {
+    "title": "Local Differences in Network Organization in the Auditory and Parietal Cortex, Revealed with Single Neuron Activation",
+    "authors": [
+      "Khoury, Christine F.",
+      "Ferrone, Michael",
+      "Runyan, Caroline A."
+    ],
+    "date": "2025-01-31T18:50:18Z",
+    "abstract": "<jats:p>The structure of local circuits is highly conserved across the cortex, yet the spatial and temporal properties of population activity differ fundamentally in sensory-level and association-level areas. In the sensory cortex, population activity has a shorter timescale and decays sharply over distance, supporting a population code for the fine-scale features of sensory stimuli. In the association cortex, population activity has a longer timescale and spreads over wider distances, a code that is suited to holding information in memory and driving behavior. We tested whether these differences in activity dynamics could be explained by differences in network structure. We targeted photostimulations to single excitatory neurons of layer 2/3, while monitoring surrounding population activity using two-photon calcium imaging. Experiments were performed in the auditory (AC) and posterior parietal cortex (PPC) within the same mice of both sexes, which also expressed a red fluorophore in somatostatin-expressing interneurons (SOM). In both cortical regions, photostimulations resulted in a spatially restricted zone of positive influence on neurons closely neighboring the targeted neuron and a more spatially diffuse zone of negative influence affecting more distant neurons (akin to a network-level “suppressive surround”). However, the relative spatial extents of positive and negative influence were different in AC and PPC. In PPC, the central zone of positive influence was wider, but the negative suppressive surround was more narrow than in AC, which could account for the larger-scale network dynamics in PPC. The more narrow central positive influence zone and wider suppressive surround in AC could serve to sharpen sensory representations.</jats:p>",
+    "url": "https://doi.org/10.1523/jneurosci.1385-24.2025",
+    "journal": "The Journal of Neuroscience",
+    "keywords": [
+      "auditory cortex",
+      "parietal cortex",
+      "neuron activation"
+    ],
+    "caption": "🧠✨ Discoveries in the brain's auditory and parietal cortices reveal how local neural networks differ to support sensory perception and behavioral control! Researchers found that in the auditory cortex, neuron activity is sharp and focused, enhancing sensory details. Meanwhile, the parietal cortex shows broader activity, ideal for memory and behavior. Using single-neuron activation and advanced imaging, these findings highlight the brain's tailored network organization for different functions. This study enhances our understanding of how the brain processes information, with implications for neuroscience and cognitive research. 🌟🔬\n\n#Neuroscience #BrainResearch #AuditoryCortex #ParietalCortex #NeuralNetworks #Optogenetics #CognitiveScience #ScienceDiscovery",
+    "images": [
+      [
+        {
+          "title": "File:The Auditory Cortex.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Readerpop73&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Readerpop73 (page does not exist)\">Readerpop73</a>",
+          "description": "Infographic explaining what the auditory cortex is and how it works.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Auditory_Cortex.png"
+        },
+        {
+          "title": "File:Tonotopic maps in human auditory cortex.jpg",
+          "author": "Sandra Da Costa, Wietske van der Zwaag, Jose P. Marques, Richard S. J. Frackowiak, Stephanie Clarke and Melissa Saenz",
+          "description": "Tonotopic maps in auditory cortex. A, Sound stimuli were pure tone bursts presented in cycled progressions from low frequencies to high: 88 to 8000 Hz in half-octave steps. Each 28 s progression from low to high (red-to-blue color scale) was followed by a 4 s stimulus pause. Sound stimuli were designed to induce a traveling wave of response across cortical tonotopic maps: fMRI responses peak sooner in map regions preferring low frequencies and progressively later in regions preferring higher frequencies. Linear cross-correlation analysis was used to determine the temporal delay that best fit the observed fMRI response time course of each voxel and to assign a corresponding best frequency. B, Analyses were performed in each individual subject's (n = 10) volumetric space. C, Resulting color-coded frequency maps were projected onto each subject's cortical surface meshes. Surfaces were minimally inflated to expose the auditory cortex on the temporal plane. D, In 20/20 hemispheres, two primary mirror-symmetric tonotopic maps (high-to-low-low-to-high) were observed, and three sample right hemispheres are shown with a voxelwise threshold of p &lt; 0.05 (FDR corrected). The posterior (high-to-low) and anterior (low-to-high) maps contain the regions hA1 and hR, respectively, and the low-frequency union between the two maps is the hA1–R border. Dotted lines indicate how surface patches containing the two maps were defined for the next step of analysis. E, Group averaged tonotopic maps across all 10 subjects after cortex-based alignment indicates the consistency of tonotopic map location relative to HG. Correlation threshold R &gt; 0.15. hA1 refer to human A1 part of primary auditory cortex, and hR refer to human R part of primary auditory cortex.  \nSource: Da Costa, S., van der Zwaag, W., Marques, J. P., Frackowiak, R. S., Clarke, S., &amp; Saenz, M. (2011). Human primary auditory cortex follows the shape of Heschl's gyrus. Journal of Neuroscience, 31(40), 14067-14075.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.jneurosci.org/content/31/40/14067.short\">https://www.jneurosci.org/content/31/40/14067.short</a>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Tonotopic_maps_in_human_auditory_cortex.jpg"
+        },
+        {
+          "title": "File:Cajal actx inter.jpg",
+          "author": "Santiago Ramón y Cajal",
+          "description": "From \"Texture of the Nervous System of Man and the Vertebrates\" by <a href=\"https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal\" class=\"extiw\" title=\"en:Santiago Ramón y Cajal\">Santiago Ramón y Cajal</a>. The figure illustrates the diversity of <a href=\"https://en.wikipedia.org/wiki/Neuron\" class=\"extiw\" title=\"en:Neuron\">neuronal</a> morphologies in the <a href=\"https://en.wikipedia.org/wiki/auditory_cortex\" class=\"extiw\" title=\"en:auditory cortex\">auditory cortex</a>. <br>\nFound at <a rel=\"nofollow\" class=\"external free\" href=\"http://www.anat.ucl.ac.uk/research/linden/\">http://www.anat.ucl.ac.uk/research/linden/</a>",
+          "credit": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Cajal_actx_inter.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Tectogenetic layers of cerebral cortex, human fetus 8 months (K. Brodmann, 1909, p. 23, Fig. 2).jpg",
+          "author": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Korbinian_Brodmann\" class=\"extiw\" title=\"w:en:Korbinian Brodmann\"><span title=\"German neurologist (1868–1918)\">Korbinian Brodmann</span></a></bdi>",
+          "description": "Tectogenetic stratification in the 8th fetal month on an overview section through the cortex of the parietal lobe. 20:1, 10 μm section. The layers stand out more clearly from each other and line the winding surface [gyrus] and the furrow's depth [sulcus] equally. (K. Brodmann, 1909, p. 23, Fig. 2)",
+          "credit": "<cite class=\"book\" style=\"font-style:normal\" id=\"Reference-Brodmann-1909\">Brodmann, Korbinian (1909)    (in german)  <i> <a rel=\"nofollow\" class=\"external text\" href=\"https://ia800403.us.archive.org/30/items/b28062449/b28062449.pdf\">Vergleichende Lokalisationslehre der Grosshirnrinde in ihren Prinzipien dargestellt auf Grund des Zellenbaues</a></i>, <a href=\"https://en.wikipedia.org/wiki/en:Leipzig\" class=\"extiw\" title=\"w:en:Leipzig\"><span title=\"largest city in Saxony, Germany\">Leipzig</span></a>:  Johann Ambrosius Barth  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/OCLC\" class=\"extiw\" title=\"en:OCLC\"><span lang=\"en\" dir=\"ltr\">OCLC</span></a></span>:   <a rel=\"nofollow\" class=\"external text\" href=\"https://www.worldcat.org/oclc/1040552818\">1040552818</a>. </small></cite>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Tectogenetic_layers_of_cerebral_cortex,_human_fetus_8_months_(K._Brodmann,_1909,_p._23,_Fig._2).jpg"
+        },
+        {
+          "title": "File:Brainlobes-sv.png",
+          "author": null,
+          "description": null,
+          "credit": null,
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Brainlobes-sv.png"
+        },
+        {
+          "title": "File:Medial Parietal Cortex and Self-Motion.jpg",
+          "author": "Pitzalis S, Fattori P and Galletti C",
+          "description": "Medial Parietal Cortex and Self-Motion. Left: Schematic representation of motion-related areas within the human superior parieto-occipital cortex in some fMRI studies. Activation foci are shown on the medial surface of one representative subject's left hemisphere. The cortical surface was defined at the gray-white matter border and has been partially inflated to reveal regions within the sulci (concavities, in dark gray) and on the gyri (convexities, in light gray). Foci are schematically represented based on their sizes and anatomical locations relative to the parieto-occipital, calcarine, and cingulate sulci, as depicted in figures from the original studies: V6 (green), retinotopy (Pitzalis et al., 2006) and function (Cardin and Smith, 2010; Pitzalis et al., 2010); CSv (light blu) (Wall and Smith, 2008) and Precuneus (yellow) (Kovács et al., 2008; Wolbers et al., 2008). Modified from Culham et al., 2008. Right: Examples of retinal optic flow. Expanding optic flow during forward motion. Panel shows a typical retinal optic flow during a landing. The landing field, the mountains and the clouds are visible. Contracting optic flow during inward motion. Panel shows a typical retinal optic flow seen by an observer sitting on a moving train and looking in the opposite direction respect to the motion direction of the train. In both panels, the arrows indicate the optic flow direction. The arrows length is proportional to the speed of motion. Modified from Bruce et al. (1996).",
+          "credit": "Pitzalis S, Fattori P and Galletti C (2013) The functional role of the medial motion area V6. Front. Behav. Neurosci. 6:91. doi: 10.3389/fnbeh.2012.00091 <a rel=\"nofollow\" class=\"external free\" href=\"http://journal.frontiersin.org/article/10.3389/fnbeh.2012.00091/full\">http://journal.frontiersin.org/article/10.3389/fnbeh.2012.00091/full</a>",
+          "license": "cc-by-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Medial_Parietal_Cortex_and_Self-Motion.jpg"
+        },
+        {
+          "title": "File:Tool-use-induced expansion of the parietal cortex of monkeys.png",
+          "author": "Atsushi Iriki, Miki Taoka",
+          "description": "chematic illustrating how tool-use-induced expansion of the parietal cortex of monkeys (i,ii) may contribute to the establishment of a precursor for the formation of human inferior parietal areas (iii), thus creating a novel neural niche that subserves further higher cognitive functions.",
+          "credit": "<p>Atsushi Iriki, Miki Taoka\n</p>\nPhil. Trans. R. Soc. B 2012 367 10-23; DOI: 10.1098/rstb.2011.0190. Published 21 November 2011 <a rel=\"nofollow\" class=\"external free\" href=\"http://rstb.royalsocietypublishing.org/content/367/1585/10\">http://rstb.royalsocietypublishing.org/content/367/1585/10</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Tool-use-induced_expansion_of_the_parietal_cortex_of_monkeys.png"
+        }
+      ],
+      [
+        {
+          "title": "File:Anatomy of neuron.png",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Studentne\" title=\"User:Studentne\">Curtis Neveu</a>",
+          "description": "The neuron contains dendrites that receives information, a cell body called the soma, an an axon that sends information.  Schwann cells make activity move faster down axon.  Synapses allow neurons to activate other neurons.  The dendrites receive a signal, the axon hillock funnels the signal to the initial segment and the initial segment triggers the activity (action potential) that is sent along the axon towards the synapse.  Please see <a rel=\"nofollow\" class=\"external text\" href=\"https://www.learnbio.org/neuron.html\">learnbio.org</a> for interactive version",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Anatomy_of_neuron.png"
+        },
+        {
+          "title": "File:Single Neuron XOR Gate.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:M.Zkuba&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M.Zkuba (page does not exist)\">Mathew Mithra Noel</a>",
+          "description": "Single neurons using Swish, Mish, ReLU, Leaky ReLU and sigmoidal activation functions cannot learn the XOR function. However this limitation does not apply to oscillatory activation functions with multiple zeros like the Growing Cosine Unit (GCU) activation function. For more information: <a rel=\"nofollow\" class=\"external free\" href=\"https://arxiv.org/abs/2108.12943\">https://arxiv.org/abs/2108.12943</a>",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Single_Neuron_XOR_Gate.png"
+        },
+        {
+          "title": "File:Shifted Quadratic Unit (SQU) activation function.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:M.Zkuba&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:M.Zkuba (page does not exist)\">Mathew Mithra Noel</a>",
+          "description": "<a rel=\"nofollow\" class=\"external free\" href=\"https://arxiv.org/abs/2111.04020\">https://arxiv.org/abs/2111.04020</a>",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Shifted_Quadratic_Unit_(SQU)_activation_function.png"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Common Neocortical and Hippocampal Correlates of Performance Errors in a Timing Task",
+    "authors": [
+      "Gielow, Matthew R.",
+      "Headley, Drew B.",
+      "Herzallah, Mohammad M.",
+      "Paré, Denis"
+    ],
+    "date": "2025-01-10T19:25:19Z",
+    "abstract": "<jats:p>We aimed to identify the neuronal correlates of performance errors in a difficult timing task. Male rats were trained to seek rewards and avoid shocks depending on the position of photic conditioned stimuli (CS-R and CS-S, respectively). Then, they were exposed to conflict trials where they had to time the interval between the CS-R and CS-S to obtain rewards while avoiding footshocks. There were pronounced individual differences in behavioral strategies on conflict trials. When presented with a CS-S, some rats quickly left the shock sector, forsaking the option of earning a reward, and rarely got shocked. Others earned rewards by delaying avoidance based on the interval between the CS-R and CS-S but were shocked more often. The probability rats would fail a given trial was not stable across trials as rats engaged in incorrect trial runs that were longer than expected by chance. Since this finding suggested that rats shift between two quasi-stable processing modes, we next examined the neuronal correlates of errors. Incorrect trials coincided with reduced firing rates in CA1 and sensory cortical neurons. Moreover, trial-to-trial variations in the firing rates of simultaneously recorded neurons were more strongly correlated on error than correct trials. Last, the power of low-frequency local field potential oscillations was higher during incorrect trials. The finding that the neuronal correlates of correct and error trials are similar in the hippocampus and neocortex lead us to hypothesize that they depend on changes in the activity of common afferents, such as neuromodulatory inputs.</jats:p>",
+    "url": "https://doi.org/10.1523/jneurosci.2003-23.2024",
+    "journal": "The Journal of Neuroscience",
+    "keywords": [
+      "hippocampus",
+      "timing",
+      "neocortex"
+    ],
+    "caption": "🧠✨ New insights into how our brains handle timing errors! A recent study explores the neocortical and hippocampal activity linked to performance mistakes in a timing task. 🐀 Researchers observed that individual differences in strategy led to varied success rates among rats. Some avoided shocks but missed rewards, while others risked shocks for rewards. The study found that errors were linked to reduced neuronal firing rates and increased low-frequency oscillations, suggesting common neural pathways in the hippocampus and neocortex. This highlights the dynamic nature of brain processing during decision-making and error correction. 🤔🔍\n\nStay curious, because understanding these neural mechanisms might pave the way for better insights into human cognition and behavior! #Neuroscience #BrainResearch #LearningFromMistakes #CognitiveScience #NeuralNetworks",
+    "images": [
+      [
+        {
+          "title": "File:Sabella pavonina - Hippocampus hippocampus - Porto Cesareo, Italy (DSC2314M).jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Romano_Gianluca&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Romano Gianluca (page does not exist)\">Romano Gianluca</a>",
+          "description": "Peacock worms <i>(Sabella pavonina)</i> and short-snouted seahorse <i>(Hippocampus hippocampus)</i> in a protected marine natural area at Porto Cesareo, Italy",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sabella_pavonina_-_Hippocampus_hippocampus_-_Porto_Cesareo,_Italy_(DSC2314M).jpg"
+        },
+        {
+          "title": "File:Hippocampus hippocampus (on Ascophyllum nodosum).jpg",
+          "author": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Biopics\" title=\"User:Biopics\">Hans Hillewaert</a></div>",
+          "description": "Short-snouted seahorse on knotted wrack.<br>\nThe animal was caught at <span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=File:Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg&amp;params=51_36_18.48_N_2_40_56.92_E_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">51°36′18.48″N</span> <span class=\"longitude\">2°40′56.92″E</span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span></span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">51.6051333°N 2.6824778°E</span><span style=\"display:none\">﻿ / <span class=\"geo\">51.6051333; 2.6824778</span></span></span></a></span> on the Oosthinder banks in the Belgian part of the North Sea",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg"
+        },
+        {
+          "title": "File:Caballito de mar común (Hippocampus hippocampus), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 74.jpg",
+          "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q28147777\" class=\"extiw\" title=\"d:Q28147777\"><span title=\"Spanish photographer\">Diego Delso</span></a></bdi>",
+          "description": "This is a photography of a protected area of Portugal indexed in the <a href=\"https://en.wikipedia.org/wiki/World_Database_on_Protected_Areas\" class=\"extiw\" title=\"en:World Database on Protected Areas\">World Database on Protected Areas</a> with the ID:",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Caballito_de_mar_común_(Hippocampus_hippocampus),_Parque_natural_de_la_Arrábida,_Portugal,_2020-07-21,_DD_74.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Peugeot 8Aa timing.jpg",
+          "author": "E.H Sherbody and Douglas G Wardrop",
+          "description": "Peugeot 8Aa valve timing diagram",
+          "credit": "Textbook of Aero Engines - E.H Sherbody and Douglas G Wardrop. Published 1920 United States by Frederick A Stokes Company",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Peugeot_8Aa_timing.jpg"
+        },
+        {
+          "title": "File:A broken Timing Chain.png",
+          "author": "Pomen Terengganu",
+          "description": "The timing chain in motorcycle engines is a small chain to drive the Camshaft. A broken Timing Chain can cause damage to your motorcycle engine, broken cylinder block, etc",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://baikimotor.com/wp-content/uploads/2021/09/blog-thumbnail-timing-chain-putus.png\">https://baikimotor.com/wp-content/uploads/2021/09/blog-thumbnail-timing-chain-putus.png</a>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:A_broken_Timing_Chain.png"
+        }
+      ],
+      [
+        {
+          "title": "File:11-dimension.jpg",
+          "author": "Blue Brain Project",
+          "description": "Left: digital copy of a part of the neocortex, the most evolved part of the brain. Right: shapes of different sizes and geometries that represent structures ranging from 1 dimension to 7 dimensions and more. The \"black-hole\" in the middle symbolizes a complex of multi-dimensional spaces aka cavities.",
+          "credit": "Blue Brain Project",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:11-dimension.jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Large Donor CRISPR for Whole-Coding Sequence Replacement of Cell Adhesion Molecule LRRTM2",
+    "authors": [
+      "Pollitt, Stephanie L.",
+      "Levy, Aaron D.",
+      "Anderson, Michael C.",
+      "Blanpied, Thomas A."
+    ],
+    "date": "2025-01-17T18:50:24Z",
+    "abstract": "<jats:p>The cell adhesion molecule leucine-rich repeat transmembrane neuronal protein 2 (LRRTM2) is crucial for synapse development and function. However, our understanding of its endogenous trafficking has been limited due to difficulties in manipulating its coding sequence (CDS) using standard genome editing techniques. Instead, we replaced the entire LRRTM2 CDS by adapting a two-guide CRISPR knock-in method, enabling complete control of LRRTM2. In primary rat hippocampal cultures dissociated from embryos of both sexes, N-terminally tagged, endogenous LRRTM2 was found in 80% of synapses, and synaptic LRRTM2 content correlated with PSD-95 and AMPAR levels. LRRTM2 was also enriched with AMPARs outside synapses, demonstrating the sensitivity of this method to detect relevant new biology. Finally, we leveraged total genomic control to increase the synaptic levels of LRRTM2 via simultaneous mutation of its C-terminal domain, which did not correspondingly increase AMPAR enrichment. The coding region of thousands of genes span lengths suitable for whole-CDS replacement, suggesting this simple approach will enable straightforward structure–function analysis in neurons.</jats:p>",
+    "url": "https://doi.org/10.1523/jneurosci.1461-24.2024",
+    "journal": "The Journal of Neuroscience",
+    "keywords": [
+      "synapse",
+      "hippocampal",
+      "cultures"
+    ],
+    "caption": "🔬 Exciting breakthroughs in neuroscience! Using a novel two-guide CRISPR method, researchers have replaced the entire coding sequence of the cell adhesion molecule LRRTM2, crucial for synapse development. This innovative approach provides full control over LRRTM2, allowing deeper insights into its role in synaptic function and protein trafficking. The study revealed that LRRTM2 is present in 80% of synapses and is associated with key proteins like PSD-95 and AMPARs. This method could revolutionize how we study thousands of genes, paving the way for more precise structure-function analyses in neurons. 🌟\n\n#Neuroscience #CRISPR #Synapse #Genomics #Innovation #Research #ScienceMagic",
+    "images": [
+      [
+        {
+          "title": "File:Synapse Software Corporation logo.png",
+          "author": "Synapse Software",
+          "description": "Synapse software logo. (The actual logo used on Synapse's own advertising and some games, not the \"SynSoft\" one U.S. Gold used on stuff they distributed).",
+          "credit": "Magazine advertisement",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Synapse_Software_Corporation_logo.png"
+        },
+        {
+          "title": "File:Synapse films.jpg",
+          "author": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "description": "Logo",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.rykodistribution.com/\">http://www.rykodistribution.com/</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Synapse_films.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:HippocampalRegions.jpg",
+          "author": null,
+          "description": null,
+          "credit": null,
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:HippocampalRegions.jpg"
+        },
+        {
+          "title": "File:Left Hippocampal Sclerosis on MRI.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User_talk:Uhomachinky\" title=\"User talk:Uhomachinky\">Uhomachinky</a>",
+          "description": "The case of hippocampal sclerosis detected by MRI, volume loss is observed in the left hippocampus compared to the right hippocampus.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Left_Hippocampal_Sclerosis_on_MRI.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Seattle (WA, USA), Museum of Pop Culture, Fassade -- 2022 -- 1588.jpg",
+          "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+          "description": "Part of the facade of the <a href=\"https://en.wikipedia.org/wiki/Museum_of_Pop_Culture\" class=\"extiw\" title=\"en:Museum of Pop Culture\">Museum of Pop Culture</a> in <a href=\"https://en.wikipedia.org/wiki/Seattle\" class=\"extiw\" title=\"en:Seattle\">Seattle</a>, <a href=\"https://en.wikipedia.org/wiki/Washington_(state)\" class=\"extiw\" title=\"en:Washington (state)\">Washington</a>, USA",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Museum_of_Pop_Culture,_Fassade_--_2022_--_1588.jpg"
+        },
+        {
+          "title": "File:Masque eharo MHNT ETH AC NB9.jpg",
+          "author": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/wiki/User:Ruthven\" title=\"User:Ruthven\">Ruthven</a></div>",
+          "description": "<i>Eharo</i>  mask (Elema culture). Papua New Guinea.<br>\nThe <i>eharo</i>  masks were wore during ritual dances, before formal sacred rituals. They were intended to be humorous figures, dancing with groups of women to the amusement of all.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Masque_eharo_MHNT_ETH_AC_NB9.jpg"
+        },
+        {
+          "title": "File:Luxor Souq R01.jpg",
+          "author": "Marc Ryckaert (<a href=\"//commons.wikimedia.org/wiki/User:MJJR\" title=\"User:MJJR\">MJJR</a>)",
+          "description": "Luxor (Egypt): the souq (open-air market)",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Luxor_Souq_R01.jpg"
+        },
+        {
+          "title": "File:Cultures in China 2000 BCE (Steppe Arc cultures, Longshan culture, Southern cultures).png",
+          "author": "Kanguole",
+          "description": "Cultures in China 2000 BCE (Longshan culture and Arc cultures)",
+          "credit": "This image has been <b>extracted</b> from another file",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Cultures_in_China_2000_BCE_(Steppe_Arc_cultures,_Longshan_culture,_Southern_cultures).png"
+        },
+        {
+          "title": "File:Maker unknown, India - Krishna and Radha - Google Art Project.jpg",
+          "author": "<bdi>Attributed to <a href=\"https://en.wikipedia.org/wiki/en:Nih%C3%A2l_Chand\" class=\"extiw\" title=\"w:en:Nihâl Chand\"><span title=\"Indian painter\">Nihâl Chand</span></a></bdi>",
+          "description": null,
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://artsandculture.google.com/asset/wd/pAH9lmP65LaQbw\">https://artsandculture.google.com/asset/wd/pAH9lmP65LaQbw</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Maker_unknown,_India_-_Krishna_and_Radha_-_Google_Art_Project.jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Retrieval of an Ethanol-Conditioned Taste Aversion Promotes GABAergic Plasticity in the Anterior Insular Cortex",
+    "authors": [
+      "Taxier, Lisa R.",
+      "Neira, Sofia",
+      "Flanigan, Meghan E.",
+      "Haun, Harold L.",
+      "Eberle, Maya R.",
+      "Kooyman, Lili S.",
+      "Markowitz, Sloan Y.",
+      "Kash, Thomas L."
+    ],
+    "date": "2025-01-08T18:50:25Z",
+    "abstract": "<jats:p>Blunted sensitivity to ethanol’s aversive effects can increase motivation to consume ethanol; yet, the neurobiological circuits responsible for encoding these aversive properties are not fully understood. Plasticity in cells projecting from the anterior insular cortex (aIC) to the basolateral amygdala (BLA) is critical for taste aversion learning and retrieval, suggesting this circuit’s potential involvement in modulating the aversive properties of ethanol. Here, we tested the hypothesis that GABAergic currents onto aIC→BLA projections would be facilitated as a consequence of retrieval of an ethanol-conditioned taste aversion (CTA). Consistent with this hypothesis, frequency of mIPSCs was increased 1 h following retrieval of an ethanol-CTA across cell layers in aIC→BLA projection neurons. This increase in GABAergic plasticity occurred in a circuit-specific, time-limited, and ethanol-CTA retrieval-dependent manner. Additionally, local inhibitory inputs onto layer 2/3 aIC→BLA projection neurons were greater in number and strength following ethanol-CTA. Finally, DREADD-mediated inhibition of aIC parvalbumin-expressing cells blunted the retrieval of ethanol-CTA in male, but not female, mice. Collectively, this work implicates a circuit-specific and memory retrieval-dependent increase in GABAergic tone following retrieval of an ethanol-CTA, thereby advancing our understanding of how the aversive effects of ethanol are encoded in the brain.</jats:p>",
+    "url": "https://doi.org/10.1523/jneurosci.0525-24.2024",
+    "journal": "The Journal of Neuroscience",
+    "keywords": [
+      "ethanol",
+      "insular cortex",
+      "amygdala"
+    ],
+    "caption": "🧠✨ New insights alert! Recent research reveals how the brain processes the aversive effects of alcohol. When retrieving an ethanol-conditioned taste aversion, there's an increase in GABAergic plasticity within the anterior insular cortex, specifically in the circuit projecting to the basolateral amygdala. This circuit-specific change highlights how our brains encode aversive experiences, potentially affecting alcohol consumption behavior. Interestingly, inhibiting certain brain cells altered this aversion retrieval in male mice but not females, pointing to intriguing gender differences in brain response. This study advances our understanding of the neural basis of taste aversion and its link to alcohol's effects. 🍷🧬\n\n#Neuroscience #BrainResearch #GABA #TasteAversion #AlcoholEffects #Neuroplasticity #ScienceNews",
+    "images": [
+      [
+        {
+          "title": "File:Ethanol plant.jpg",
+          "author": null,
+          "description": null,
+          "credit": null,
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Ethanol_plant.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Cell types in human frontal agranular insular cortex.png",
+          "author": "Rebecca D. Hodge et al.",
+          "description": "Image from the article \"Transcriptomic evidence that von Economo neurons are regionally specialized extratelencephalic-projecting excitatory neurons\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.nature.com/articles/s41467-020-14952-3\">https://www.nature.com/articles/s41467-020-14952-3</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Cell_types_in_human_frontal_agranular_insular_cortex.png"
+        }
+      ],
+      [
+        {
+          "title": "File:Amygdala.png",
+          "author": "Images are generated by Life Science Databases(LSDB).",
+          "description": "amygdala. \nImages are from Anatomography maintained by Life Science Databases(LSDB).",
+          "credit": "<p>from Anatomography, website maintained by Life Science Databases(LSDB). \n</p><p>You can get this image through URL below. 次のアドレスからこのファイルで使用している画像を取得できます\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://lifesciencedb.jp/ag/edit?lng=jp&amp;tp_ap=08020601%3aIF09000006000600FFFFFF1NANANANANANANANANANANANA006060%7cFMA50801%3aNANANANANANANANANAS010S%7cFMA79876%3aNANANANANANANANANAS100S%7cFMA61965%3aNANANANANANANANANAS100S%7cFMA62001%3aNANANANANANANANANAS100S%7cFMA75351%3aNANANANANANANANANAS000S%7cFMA62493%3aNANANANANANANANANAS100S%7cFMA61833%3aNANANANANANANANANAS100S%7cFMA77615%3aNANANANANANANANANAS100S%7cFMA61841%3aFF0000NANANANANANAS100S%7cFMA61835%3aNANANANANANANANANAS000S%7cFMA62001nsn%3aNANANANANANANANANAS000S\">URL</a>.",
+          "license": "cc-by-sa-2.1-jp",
+          "url": "https://commons.wikimedia.org/wiki/File:Amygdala.png"
+        },
+        {
+          "title": "File:The Amygdala.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:BrainParts72&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:BrainParts72 (page does not exist)\">BrainParts72</a>",
+          "description": "Infographic describing the amygdala and functions.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Amygdala.png"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "CCKergic Tufted Cells Regulate Odor Sensitivity by Controlling Mitral Cell Output in the Mouse Olfactory Bulb",
+    "authors": [
+      "Starr, Eric",
+      "Budhathoki, Rashika",
+      "Gilhooly, Dylan",
+      "Castillo, Laura",
+      "Hu, Meigeng",
+      "Zhao, Dan",
+      "Li, Yaping",
+      "Liu, Shaolin"
+    ],
+    "date": "2025-03-24T17:52:37Z",
+    "abstract": "<jats:p>Despite the importance of odor detection to the survival of most animals, mechanisms governing olfactory sensitivity remain unclear, especially beyond the olfactory sensory neurons. Here, we leverage opto- and chemo-genetics to selectively modulate activities of CCKergic tufted cells (TCs) in the mouse olfactory bulb (OB) of either sex, which form the intrabulbar associational system (IAS) to link isofunctional glomeruli, to determine the functional impact on OB output via mitral cells (MCs) and odor detection in behaving animals. NMDA receptors in CCKergic TCs remarkably amplify the OSN-evoked monosynaptic responses in these excitatory neurons, which provide a long-lasting feedforward excitation to MCs via both chemical transmission and electrical synapses between their apical dendrites. NMDA receptors in MCs mediate late components of the dendrodendritic TC→MC transmission to significantly boost MC output. Congruently, optogenetic inhibition of the CCKerigic TCs dramatically reduces the OSN-evoked MC responses. Unexpectedly, optogenetic activation of the axons projecting from CCKergic TCs on the opposite side of the same bulb produces mainly AMPA receptor-mediated excitatory responses in MCs, leading us to speculate that CCKergic TCs functionally synchronize MC output from mirror glomeruli. Furthermore, chemogenetic inhibition of CCKergic TCs reduces animal’s sensitivity to odors by elevating the detection threshold, consistent with the key role of these TCs in functionally controlling MC output. Collectively, our results delineate the cellular and circuit mechanisms allowing the CCKergic TCs to regulate MC output from glomeruli on both the medial and lateral sides of each OB and the system’s sensitivity to odors possibly via the IAS.</jats:p>",
+    "url": "https://doi.org/10.1523/jneurosci.1243-24.2025",
+    "journal": "The Journal of Neuroscience",
+    "keywords": [
+      "olfactory bulb",
+      "mitral cell",
+      "odor detection"
+    ],
+    "caption": "🐭✨ Unveiling the secrets of scent! Recent research has spotlighted CCKergic tufted cells in the mouse olfactory bulb, revealing their pivotal role in odor sensitivity. These cells control mitral cell output, crucial for odor detection. By modulating these cells, scientists observed changes in how mice perceive smells, shedding light on the complex neural circuits behind scent processing. This discovery not only deepens our understanding of olfactory function but also highlights the intricate dance of neurons in sensory processing. 🔬👃\n\nUnderstanding these mechanisms is vital for neuroscience, offering insights into how our brains interpret the world through scent. Stay curious and keep exploring the wonders of the brain! 🌟\n\n#Neuroscience #Olfaction #BrainResearch #ScentScience #NeuralCircuits #OdorDetection #ScienceDiscovery",
+    "images": [
+      [
+        {
+          "title": "File:Olfactory bulb 2 diagram.png",
+          "author": "<p>Servier Medical Art by Servier\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://smart.servier.com/\">https://smart.servier.com/</a>",
+          "description": "Olfactory bulb, respiratory system, human body",
+          "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://smart.servier.com/smart_image/olfactory-bulb-2/\">https://smart.servier.com/smart_image/olfactory-bulb-2/</a>\n</p><p>CREATIVE COMMONS LICENCE\n</p>\nServier Medical Art by Servier is licensed under a Creative Commons Attribution 3.0 Unported License",
+          "license": "cc-by-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Olfactory_bulb_2_diagram.png"
+        },
+        {
+          "title": "File:BrdU-positive cells in the mouse olfactory bulb after migration via rostral migratory stream.jpg",
+          "author": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Olfactory_bulb_adult_neurogenesis.jpg\" title=\"File:Olfactory bulb adult neurogenesis.jpg\">Olfactory_bulb_adult_neurogenesis.jpg</a>: Bagley J, LaRocca G, Jimenez DA, Urban NN.</li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:CopperKettle\" title=\"User:CopperKettle\">CopperKettle</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:CopperKettle\" title=\"User talk:CopperKettle\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+          "description": "BrdU-positive cells and also cells staining for the biochemical subtype markers CB, CR, GABA, TH, and NC are differentially distributed throughout the olfactory bulb. Low magnification images (10×) of sagittal sections through the olfactory bulb show positive immunoreactivity for (A) BrdU, (B) CB, (C) CR, (D) GABA, (E) TH, and (F) NC predominately within the GLL and GCL. Scale bars, 100 μm. CB, calbindin; CR, calretinin; TH, tyrosine-hydroxylase; NC, N-copine; GLL, glomerular layer; GCL, granule cell layer. Bagley et al. BMC Neuroscience 2007 8:92   doi:10.1186/1471-2202-8-92",
+          "credit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Olfactory_bulb_adult_neurogenesis.jpg\" title=\"File:Olfactory bulb adult neurogenesis.jpg\">Olfactory_bulb_adult_neurogenesis.jpg</a></li></ul>",
+          "license": "cc-by-2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:BrdU-positive_cells_in_the_mouse_olfactory_bulb_after_migration_via_rostral_migratory_stream.jpg"
+        },
+        {
+          "title": "File:1543,Vesalius'OlfactoryBulbs.jpg",
+          "author": "<a href=\"https://en.wikipedia.org/wiki/User:Ancheta_Wis\" class=\"extiw\" title=\"w:User:Ancheta Wis\">Ancheta Wis</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"w:\">English Wikipedia</a>",
+          "description": "<a href=\"https://en.wikipedia.org/wiki/De_Humani_Corporis_Fabrica_Libri_Septem\" class=\"extiw\" title=\"w:De Humani Corporis Fabrica Libri Septem\">1543 Andreas Vesalius' <i>Fabrica</i></a>, <a href=\"https://en.wikipedia.org/wiki/Olfactory_bulb\" class=\"extiw\" title=\"w:Olfactory bulb\">Olfactory bulbs</a>  and <a href=\"https://en.wikipedia.org/wiki/olfactory_nerve\" class=\"extiw\" title=\"w:olfactory nerve\">olfactory nerve</a> outlined in red.",
+          "credit": "Transferred from <span class=\"plainlinks\"><a class=\"external text\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Cohesion\" title=\"User:Cohesion\">cohesion</a>.",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:1543,Vesalius'OlfactoryBulbs.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Figure 07 - Mitral cell development (Flat).png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Chefyingi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Chefyingi (page does not exist)\">Chefyingi</a>",
+          "description": "Olfactory bulb mitral cell development. The image displays the stages of development of a single mitral cell relative to the formation of the various layers of the olfactory bulb.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Figure_07_-_Mitral_cell_development_(Flat).png"
+        }
+      ],
+      []
+    ]
+  }
+]

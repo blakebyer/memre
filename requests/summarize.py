@@ -12,7 +12,7 @@ load_dotenv() # load .env
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 WIKI_API_KEY = os.getenv("WIKI_API_KEY")
 
-def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), save=False):
+def get_urls(isbn='1546-1726', start_date='2024-01-01', end_date=date.today(), save=False):
     # default isbn is nature neuroscience online
     # other feasible isbn options: Neuron = 1097-4199, Acta Neuropathologica = 1432-0533, Trends in Neurosciences = 1878-108X, The Journal of Neuroscience = 1529-2401, Brain = 1460-2156,
     # eLife = 2050-084X, Annual Review of Neuroscience = 1545-4126, Current Opinion in Neurobiology = 1873-6882
@@ -25,7 +25,7 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
     }
 
     # save response to json with filename specified with datetime
-    response = requests.get(url, headers = headers, timeout=10)
+    response = requests.get(url, headers = headers, timeout=30)
     response.raise_for_status()
     response_json = response.json()
 
@@ -34,6 +34,7 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
     for article in response_json.get("message", {}).get("items", []):
         title = article.get("title", [""])[0]
         authors = article.get("author", [])
+        date = article.get("created", []).get("date-time")
         formatted_names = [f"{a.get('family', '')}, {a.get('given', '')}" for a in authors]
         abstract = article.get("abstract", [""])
         url_field = article.get("URL", "")
@@ -42,6 +43,7 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
         results.append({
             "title": title,
             "authors" : formatted_names,
+            "date" : date,
             "abstract" : abstract,
             "url": url_field,
             "journal": journal
@@ -49,27 +51,14 @@ def get_urls(isbn='1546-1726', start_date='2020-01-01', end_date=date.today(), s
 
     if (save):
         timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
-        filename = f"{journal}_{timestamp}.json"
-        output_path = os.path.join("videos//json", filename)
+        filename = f"article_urls_{timestamp}.json"
+        output_path = os.path.join("requests//json", filename)
 
         # save json
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
     
     return results
-
-# def scrape_text(url):
-#     headers = { # impersonate a browser to prevent 403 access forbidden errors
-#         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-#                       "AppleWebKit/537.36 (KHTML, like Gecko) "
-#                       "Chrome/113.0.0.0 Safari/537.36"
-#     }
-#     res = requests.get(url, headers=headers, timeout=30)
-#     res.raise_for_status()
-#     soup = BeautifulSoup(res.text, "html.parser")
-#     for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside']):
-#         tag.decompose()
-#     return soup.get_text(separator="\n", strip=True)
 
 def scrape_text(url):
     with sync_playwright() as p:
@@ -80,7 +69,7 @@ def scrape_text(url):
             "Chrome/113.0.0.0 Safari/537.36"
         ))
         page = context.new_page()
-        page.goto(url, wait_until="networkidle", timeout=60000)  # Wait for full JS load
+        page.goto(url, wait_until="load", timeout=60000)  # Wait for full JS load
         html = page.content()
         browser.close()
 
@@ -159,7 +148,7 @@ def get_image_url(title, api_key=OPENAI_API_KEY, model="gpt-4o"):
     response = requests.post(url, headers=headers, json=data)
     return response.json()['output'][1]['content'][0]['text']
 
-def get_wikimedia(query, extensions= ('.jpg', '.jpeg', '.png'), limit=5):
+def get_wikimedia(query, extensions= ('.jpg', '.jpeg', '.png', '.svg'), limit=5):
     url = 'https://api.wikimedia.org/core/v1/commons/search/page'
     headers = { # impersonate a browser to prevent 403 access forbidden errors
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -219,7 +208,7 @@ def get_wikimedia(query, extensions= ('.jpg', '.jpeg', '.png'), limit=5):
 def make_content(isbn='1546-1726', start_date='2025-01-01', end_date=date.today(), trim=5000, limit=None, save=False):
     processed_articles = []
 
-    articles = get_urls(isbn = isbn)
+    articles = get_urls(isbn = isbn, start_date=start_date, end_date=end_date)
 
     if limit is not None:
         articles = articles[:limit]
@@ -229,6 +218,7 @@ def make_content(isbn='1546-1726', start_date='2025-01-01', end_date=date.today(
         aurl = article.get("url")
         ajournal = article.get("journal")
         authors = article.get("authors")
+        date = article.get("date")
         abstract = article.get("abstract")
 
         try:
@@ -245,6 +235,7 @@ def make_content(isbn='1546-1726', start_date='2025-01-01', end_date=date.today(
             processed_articles.append({
                 "title": atitle,
                 "authors": authors,
+                "date" : date,
                 "abstract" : abstract,
                 "url": aurl,
                 "journal": ajournal,
@@ -268,4 +259,4 @@ def make_content(isbn='1546-1726', start_date='2025-01-01', end_date=date.today(
     
     return processed_articles
 
-new_content = make_content(isbn='1759-4766', limit = 5, save=True) # only the first X articles 
+new_content = make_content(isbn='1545-4126', limit = 5, save=True) # only the first X articles 

@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Predicting individual traits from models of brain dynamics accurately and reliably using the Fisher kernel",
+    "authors": [
+      "Ahrends, Christine",
+      "Woolrich, Mark W",
+      "Vidaurre, Diego"
+    ],
+    "date": "2024-03-07T11:20:54Z",
+    "abstract": "<jats:p>Predicting an individual’s cognitive traits or clinical condition using brain signals is a central goal in modern neuroscience. This is commonly done using either structural aspects, such as structural connectivity or cortical thickness, or aggregated measures of brain activity that average over time. But these approaches are missing a central aspect of brain function: the unique ways in which an individual’s brain activity unfolds over time. One reason why these dynamic patterns are not usually considered is that they have to be described by complex, high-dimensional models; and it is unclear how best to use these models for prediction. We here propose an approach that describes dynamic functional connectivity and amplitude patterns using a Hidden Markov model (HMM) and combines it with the Fisher kernel, which can be used to predict individual traits. The Fisher kernel is constructed from the HMM in a mathematically principled manner, thereby preserving the structure of the underlying model. We show here, in fMRI data, that the HMM-Fisher kernel approach is accurate and reliable. We compare the Fisher kernel to other prediction methods, both time-varying and time-averaged functional connectivity-based models. Our approach leverages information about an individual’s time-varying amplitude and functional connectivity for prediction and has broad applications in cognitive neuroscience and personalised medicine.</jats:p>",
+    "url": "https://doi.org/10.7554/elife.95125",
+    "journal": "eLife",
+    "keywords": [
+      "brain dynamics",
+      "Fisher kernel",
+      "individual traits"
+    ],
+    "caption": "🧠✨ Exciting advancements in neuroscience! Researchers are now using the Fisher kernel to predict individual traits from brain dynamics with greater accuracy and reliability. This innovative approach could revolutionize how we understand personal traits and behaviors by analyzing brain activity patterns. As we continue to explore the complexities of the human brain, these findings pave the way for personalized neuroscience applications, enhancing mental health treatments and cognitive assessments. Stay tuned for more breakthroughs in brain science! 🧩🔍\n\n#Neuroscience #BrainResearch #Innovation #MentalHealth #ScienceNews #BrainDynamics #ResearchBreakthrough",
+    "images": [
+      [
+        {
+          "title": "File:Gut Brain Axis Dynamics.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Eldeane&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Eldeane (page does not exist)\">Eldeane</a>",
+          "description": "Gut brain axis schema adapted from the following review: \nLiu, R. T. (2017). The microbiome as a novel paradigm in studying stress and mental health. The American Psychologist, 72(7), 655–667. <a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1037/amp0000058\">https://doi.org/10.1037/amp0000058</a>",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Gut_Brain_Axis_Dynamics.png"
+        }
+      ],
+      [],
+      [
+        {
+          "title": "File:Wolffian Symbol.svg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Intervex\" title=\"User:Intervex\">Intervex</a>",
+          "description": "Astronomy-style symbol for an individual who is Wolffian (i.e. having typical phenotypic sex traits associated with being male)",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Wolffian_Symbol.svg"
+        },
+        {
+          "title": "File:Mullerian Symbol.svg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Intervex\" title=\"User:Intervex\">Intervex</a>",
+          "description": "Astronomy-style symbol for an individual who is Müllerian (i.e. having typical phenotypic sex traits associated with being male)",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Mullerian_Symbol.svg"
+        },
+        {
+          "title": "File:Nonbinary Mullerian Symbol.svg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Intervex\" title=\"User:Intervex\">Intervex</a>",
+          "description": "Astronomy-style symbol for a nonbinary individual who is Müllerian (i.e. having typical phenotypic sex traits associated with being male)",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Nonbinary_Mullerian_Symbol.svg"
+        },
+        {
+          "title": "File:Transmasculine Mullerian Symbol.svg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Intervex\" title=\"User:Intervex\">Intervex</a>",
+          "description": "Astronomy-style symbol for an individual who is Müllerian (i.e. having typical phenotypic sex traits associated with being male)",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Transmasculine_Mullerian_Symbol.svg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Aberrant FGF signaling promotes granule neuron precursor expansion in SHH subgroup infantile medulloblastoma",
+    "authors": [
+      "Yabut, Odessa R",
+      "Arela, Jessica",
+      "Gomez, Hector G",
+      "Castillo, Jesse Garcia",
+      "Ngo, Thomas",
+      "Pleasure, Samuel J"
+    ],
+    "date": "2024-09-12T16:25:59Z",
+    "abstract": "<jats:p>Mutations in Sonic Hedgehog (SHH) signaling pathway genes, for example, <jats:italic>Suppressor of Fused</jats:italic> (SUFU), drive granule neuron precursors (GNP) to form medulloblastomas (MB<jats:sup>SHH</jats:sup>). However, how different molecular lesions in the Shh pathway drive transformation is frequently unclear, and <jats:italic>SUFU</jats:italic> mutations in the cerebellum seem distinct. In this study, we show that fibroblast growth factor 5 (FGF5) signaling is integral for many infantile MB<jats:sup>SHH</jats:sup> cases and that <jats:italic>FGF5</jats:italic> expression is uniquely upregulated in infantile MB<jats:sup>SHH</jats:sup> tumors. Similarly, mice lacking SUFU (Sufu-cKO) ectopically express <jats:italic>Fgf5</jats:italic> specifically along the secondary fissure where GNPs harbor preneoplastic lesions and show that FGFR signaling is also ectopically activated in this region. Treatment with an FGFR antagonist rescues the severe GNP hyperplasia and restores cerebellar architecture. Thus, direct inhibition of FGF signaling may be a promising and novel therapeutic candidate for infantile MB<jats:sup>SHH</jats:sup>.</jats:p>",
+    "url": "https://doi.org/10.7554/elife.100767",
+    "journal": "eLife",
+    "keywords": [
+      "granule neuron",
+      "medulloblastoma",
+      "infantile"
+    ],
+    "caption": "🧠 Exciting advancements in neuroscience! Recent research highlights how abnormal FGF signaling contributes to the expansion of granule neuron precursors in the SHH subgroup of infantile medulloblastoma. This discovery sheds light on the cellular mechanisms driving this aggressive brain tumor in children. Understanding these pathways opens doors to potential therapeutic targets, offering hope for more effective treatments. 🌟🔬\n\nThe study's insights are crucial as they pave the way for innovative strategies to combat this challenging condition, emphasizing the importance of continued research in neuro-oncology. Let's keep pushing the boundaries of science for a healthier future! 💪✨\n\n#Neuroscience #Medulloblastoma #BrainHealth #Research #Innovation #ScienceForGood",
+    "images": [
+      [],
+      [
+        {
+          "title": "File:CT brain scan of child with medulloblastoma and resulting hydrocephalus.jpg",
+          "author": null,
+          "description": null,
+          "credit": null,
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:CT_brain_scan_of_child_with_medulloblastoma_and_resulting_hydrocephalus.jpg"
+        },
+        {
+          "title": "File:Medulloblastoma with rosettes.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jensflorian&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jensflorian (page does not exist)\">Jensflorian</a>",
+          "description": "Medulloblastoma with rosettes",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Medulloblastoma_with_rosettes.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Comparison of CSF methyl-folate levels and FRa autoantibodies in infantile CFD, autism with neurologic deficits (Autism + ND), infantile autism and healthy controls - RUS.png",
+          "author": "Vincent Ramaekers, E. Quadros",
+          "description": "Рисунок 3. Сравнение уровней метилфолата в спинномозговой жидкости и титров аутоантител к FRa при ЦФН с младенческим дебютом, аутизме с неврологическими нарушениями, раннем детском аутизме и при отсутствии заболеваний (контрольная группа).",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9370123/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9370123/</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Comparison_of_CSF_methyl-folate_levels_and_FRa_autoantibodies_in_infantile_CFD,_autism_with_neurologic_deficits_(Autism_+_ND),_infantile_autism_and_healthy_controls_-_RUS.png"
+        },
+        {
+          "title": "File:Vêgio azîlo infantîle Cav. Antönio Màssa (Bardinêo) - vìsta (1).jpg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:N.Longo\" title=\"User:N.Longo\">N.Longo</a>",
+          "description": "Bardinêo, vìsta do vêgio azîlo infantîle Cav. Antönio Màssa.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Vêgio_azîlo_infantîle_Cav._Antönio_Màssa_(Bardinêo)_-_vìsta_(1).jpg"
+        },
+        {
+          "title": "File:Sarcofago infantile, V sec. a.C. Da Himera -FG.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fabrizio_Garrisi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fabrizio Garrisi (page does not exist)\">Fabrizio Garrisi</a>",
+          "description": "Sarcofago infantile, V sec. a.C. Da Himera, necropoli ovest, tomba W870. Museo Pirro Marconi, Parco Archeologico di Himera.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sarcofago_infantile,_V_sec._a.C._Da_Himera_-FG.jpg"
+        },
+        {
+          "title": "File:Sepoltura infantile all'interno di un coppo, da Ugento -FG.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fabrizio_Garrisi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fabrizio Garrisi (page does not exist)\">Fabrizio Garrisi</a>",
+          "description": "Sepoltura infantile all'interno di un coppo, da Ugento. Datazione non menzionata. Museo Archeologico Castromediano, Lecce.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sepoltura_infantile_all'interno_di_un_coppo,_da_Ugento_-FG.jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Cortico-striatal action control inherent of opponent cognitive-motivational styles",
+    "authors": [
+      "Avila, Cassandra",
+      "Sarter, Martin"
+    ],
+    "date": "2024-09-26T16:25:31Z",
+    "abstract": "<jats:p>Turning on cue or stopping at a red light requires attending to such cues to select action sequences, or suppress action, in accordance with learned cue-associated action rules. Cortico-striatal projections are an essential part of the brain’s attention–motor interface. Glutamate-sensing microelectrode arrays were used to measure glutamate transients in the dorsomedial striatum (DMS) of male and female rats walking a treadmill and executing cued turns and stops. Prelimbic–DMS projections were chemogenetically inhibited to determine their behavioral necessity and the cortico-striatal origin of cue-evoked glutamate transients. Furthermore, we investigated rats exhibiting preferably goal-directed (goal trackers, GTs) versus cue-driven attention (sign-trackers, STs), to determine the impact of such cognitive-motivational biases on cortico-striatal control. GTs executed more cued turns and initiated such turns more slowly than STs. During turns, but not missed turns or cued stops, cue-evoked glutamate concentrations were higher in GTs than in STs. In STs, turn cue-locked glutamate concentrations frequently peaked twice or three times, contrasting with predominately single peaks in GTs. In GTs, but not STs, inhibition of prelimbic–DMS projections attenuated turn rates and turn cue-evoked glutamate concentrations and increased the number of turn cue-locked glutamate peaks. These findings indicate that turn cue-evoked glutamate release in GTs is tightly controlled by cortico-striatal neuronal activity. In contrast, in STs, glutamate release from DMS glutamatergic terminals may be regulated by other striatal circuitry, preferably mediating cued suppression of action and reward tracking. As cortico-striatal dysfunction has been hypothesized to contribute to a wide range of disorders, including complex movement control deficits in Parkinson’s disease and compulsive drug taking, the demonstration of phenotypic contrasts in cortico-striatal control implies the presence of individual vulnerabilities for such disorders.</jats:p>",
+    "url": "https://doi.org/10.7554/elife.100988",
+    "journal": "eLife",
+    "keywords": [
+      "cognitive-motivation",
+      "action-control",
+      "cortico-striatal"
+    ],
+    "caption": "🧠 New insights into how our brains manage decision-making have emerged! Recent research highlights the cortico-striatal pathways' role in shaping our cognitive-motivational styles. This groundbreaking study uncovers how these brain circuits influence whether we lean towards proactive or reactive decision-making. Understanding these mechanisms is crucial for grasping how we approach challenges and opportunities in daily life. 🌟\n\nThis revelation holds immense potential for advancing neuroscience, offering pathways to explore personalized strategies in mental health and cognitive therapies. Stay tuned as we continue to unravel the mysteries of the mind! 🔍\n\n#Neuroscience #BrainResearch #MindMatters #CognitiveScience #Innovation #MentalHealthAwareness",
+    "images": [
+      [],
+      [
+        {
+          "title": "File:Control-of-stomach-acid-sec.png",
+          "author": "see <a href=\"#File_history_English_Wikipedia\">#File history English Wikipedia</a>",
+          "description": "Diagram summarising control of stomach acid secretion. There is an blank version of this (ie. no text) ready for other languages <a href=\"//commons.wikimedia.org/wiki/File:Control-of-stomach-acid-sec-notext.png\" title=\"File:Control-of-stomach-acid-sec-notext.png\">here</a>.  If you want the Photoshop .pdf file directly just let me know on my talk page (It's quite large so wouldn't want to host on wikipedia).",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Control-of-stomach-acid-sec.png"
+        },
+        {
+          "title": "File:UV Action Spectra, extracted from Introduction to industrial hygiene engineering and control (552) - nonionizing and ionizing radiation (1978).png",
+          "author": "<p>McClintock, James C., Hritz, Ronald J., Byers, Bruce B.\n</p>\nNational Institute for Occupational Safety and Health.",
+          "description": "UV Action Spectra, extracted from Introduction to industrial hygiene engineering and control (552) - nonionizing and ionizing radiation (1978)",
+          "credit": "<p>Introduction to industrial hygiene engineering and control (552) : nonionizing and ionizing radiation, student (1978)\n</p>\n<a href=\"//archive.org/details/mcclintock_introductiontoindustrialhygieneengineeringandcontrol552nonionizingandionizin_student_1978\" class=\"extiw\" title=\"iarchive:mcclintock introductiontoindustrialhygieneengineeringandcontrol552nonionizingandionizin student 1978\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: mcclintock_introductiontoindustrialhygieneengineeringandcontrol552nonionizingandionizin_student_1978</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:UV_Action_Spectra,_extracted_from_Introduction_to_industrial_hygiene_engineering_and_control_(552)_-_nonionizing_and_ionizing_radiation_(1978).png"
+        },
+        {
+          "title": "File:Gametronics Conference (1977) - p18.jpg",
+          "author": "Electronic Engineering Times",
+          "description": "Trazor videogame controller. Gametronics Conference (1977) - p18",
+          "credit": "<a class=\"external free\" href=\"https://en.wikisource.org/wiki/Page:Gametronics_Proceedings.djvu/18\">https://en.wikisource.org/wiki/Page:Gametronics_Proceedings.djvu/18</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Gametronics_Conference_(1977)_-_p18.jpg"
+        },
+        {
+          "title": "File:Camp in Golden Gate Park Under Military Control After the 1906 San Francisco Earthquake.jpg",
+          "author": "Committee Papers of the Senate Committee on Printing of the 60th Congress, 12/1907 - 03/1909",
+          "description": "Photograph of a Camp in Golden Gate Park Under Military Control After the 1906 San Francisco Earthquake, 1906",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/usnationalarchives/6647444535/\">https://www.flickr.com/photos/usnationalarchives/6647444535/</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Camp_in_Golden_Gate_Park_Under_Military_Control_After_the_1906_San_Francisco_Earthquake.jpg"
+        },
+        {
+          "title": "File:BRAC Framework Idealized RT Pattern for Binding Retrieval.jpg",
+          "author": null,
+          "description": null,
+          "credit": null,
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:BRAC_Framework_Idealized_RT_Pattern_for_Binding_Retrieval.jpg"
+        }
+      ],
+      []
+    ]
+  },
+  {
+    "title": "The effect of transcutaneous auricular vagus nerve stimulation on cardiovascular function in subarachnoid hemorrhage patients: A randomized trial",
+    "authors": [
+      "Tan, Gansheng",
+      "Huguenard, Anna L",
+      "Donovan, Kara M",
+      "Demarest, Phillip",
+      "Liu, Xiaoxuan",
+      "Li, Ziwei",
+      "Adamek, Markus",
+      "Lavine, Kory",
+      "Vellimana, Ananthv K",
+      "Kummer, Terrance T",
+      "Osbun, Joshua W",
+      "Zipfel, Gregory J",
+      "Brunner, Peter",
+      "Leuthardt, Eric C"
+    ],
+    "date": "2025-01-09T15:20:52Z",
+    "abstract": "<jats:sec id=\"abs1\"><jats:title>Background:</jats:title><jats:p>Subarachnoid hemorrhage (SAH) is characterized by intense central inflammation, leading to substantial post-hemorrhagic complications such as vasospasm and delayed cerebral ischemia. Given the anti-inflammatory effect of transcutaneous auricular vagus nerve stimulation (taVNS) and its ability to promote brain plasticity, taVNS has emerged as a promising therapeutic option for SAH patients. However, the effects of taVNS on cardiovascular dynamics in critically ill patients, like those with SAH, have not yet been investigated. Given the association between cardiac complications and elevated risk of poor clinical outcomes after SAH, it is essential to characterize the cardiovascular effects of taVNS to ensure this approach is safe in this fragile population. Therefore, this study assessed the impact of both acute and repetitive taVNS on cardiovascular function.</jats:p></jats:sec><jats:sec id=\"abs2\"><jats:title>Methods:</jats:title><jats:p>In this randomized clinical trial, 24 SAH patients were assigned to either a taVNS treatment or a sham treatment group. During their stay in the intensive care unit, we monitored patient electrocardiogram readings and vital signs. We compared long-term changes in heart rate, heart rate variability (HRV), QT interval, and blood pressure between the two groups. Additionally, we assessed the effects of acute taVNS by comparing cardiovascular metrics before, during, and after the intervention. We also explored acute cardiovascular biomarkers in patients exhibiting clinical improvement.</jats:p></jats:sec><jats:sec id=\"abs3\"><jats:title>Results:</jats:title><jats:p>We found that repetitive taVNS did not significantly alter heart rate, QT interval, blood pressure, or intracranial pressure (ICP). However, repetitive taVNS increased overall HRV and parasympathetic activity compared to the sham treatment. The increase in parasympathetic activity was most pronounced from 2 to 4 days after initial treatment (Cohen’s <jats:italic>d</jats:italic> = 0.50). Acutely, taVNS increased heart rate, blood pressure, and peripheral perfusion index without affecting the corrected QT interval, ICP, or HRV. The acute post-treatment elevation in heart rate was more pronounced in patients who experienced a decrease of more than one point in their modified Rankin Score at the time of discharge.</jats:p></jats:sec><jats:sec id=\"abs4\"><jats:title>Conclusions:</jats:title><jats:p>Our study found that taVNS treatment did not induce adverse cardiovascular effects, such as bradycardia or QT prolongation, supporting its development as a safe immunomodulatory treatment approach for SAH patients. The observed acute increase in heart rate after taVNS treatment may serve as a biomarker for SAH patients who could derive greater benefit from this treatment.</jats:p></jats:sec><jats:sec id=\"abs5\"><jats:title>Funding:</jats:title><jats:p>The American Association of Neurological Surgeons (ALH), The Aneurysm and AVM Foundation (ALH), The National Institutes of Health R01-EB026439, P41-EB018783, U24-NS109103, R21-NS128307 (ECL, PB), McDonnell Center for Systems Neuroscience (ECL, PB), and Fondazione Neurone (PB).</jats:p></jats:sec><jats:sec id=\"abs6\"><jats:title>Clinical trial number:</jats:title><jats:p><jats:related-object document-id=\"NCT04557618\" document-id-type=\"clinical-trial-number\" id=\"RO1\" source-id=\"ClinicalTrials.gov\" source-id-type=\"registry-name\" source-type=\"clinical-trials-registry\" xlink:href=\"https://clinicaltrials.gov/show/NCT04557618\">NCT04557618</jats:related-object>.</jats:p></jats:sec>",
+    "url": "https://doi.org/10.7554/elife.100088.3",
+    "journal": "eLife",
+    "keywords": [
+      "transcutaneous auricular",
+      "vagus nerve",
+      "subarachnoid hemorrhage"
+    ],
+    "caption": "🌟 Exciting advancements in neuroscience! A recent study explored how transcutaneous auricular vagus nerve stimulation (taVNS) can impact cardiovascular function in patients with subarachnoid hemorrhage. This non-invasive technique showed promising results in stabilizing heart rates and improving overall cardiovascular health. This breakthrough could pave the way for innovative treatments in neurological recovery and cardiovascular care. 🧠💓\n\nAs we continue to uncover the vast potential of neurostimulation, these findings highlight the importance of integrating new technologies into medical practice. With ongoing research, taVNS might soon become a staple in supporting recovery for those affected by severe brain injuries. Stay tuned for more updates on this exciting journey! 🚀\n\n#Neuroscience #Innovation #CardiovascularHealth #Neurostimulation #MedicalResearch #VagusNerve #HealthRevolution",
+    "images": [
+      [],
+      [
+        {
+          "title": "File:Hindbrain Neurons and The Vagus Nerve.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mikedanroz&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mikedanroz (page does not exist)\">Mikedanroz</a>",
+          "description": "Vagus nerve infographic",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Hindbrain_Neurons_and_The_Vagus_Nerve.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Gross pathology of subarachnoid hemorrhage.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Gross pathology of an <a href=\"https://en.wikipedia.org/wiki/Autopsy\" class=\"extiw\" title=\"en:Autopsy\">autopsy</a> case with fatal acute <a href=\"https://en.wikipedia.org/wiki/Subarachnoid_hemorrhage\" class=\"extiw\" title=\"en:Subarachnoid hemorrhage\">subarachnoid hemorrhage</a>, cut with a coronal section. The arachnoid mater is left in place on the exterior surface, containing extensive hemorrhage that also fills the <a href=\"https://en.wikipedia.org/wiki/Sulcus_(neuroanatomy)\" class=\"extiw\" title=\"en:Sulcus (neuroanatomy)\">sulci</a>, as detailed in magnified image.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Gross_pathology_of_subarachnoid_hemorrhage.jpg"
+        },
+        {
+          "title": "File:An illustration of the different types of brain hemorrhage.png",
+          "author": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.myupchar.com/en\">https://www.myupchar.com/en</a>",
+          "description": "An illustration of the different types of brain hemorrhage",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.myupchar.com/en/disease/brain-hemorrhage\">https://www.myupchar.com/en/disease/brain-hemorrhage</a>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:An_illustration_of_the_different_types_of_brain_hemorrhage.png"
+        },
+        {
+          "title": "File:Subarachnoid hemorrhage CT.jpg",
+          "author": "Dr. George Jallo, pediatric neurosurgeon at Johns Hopkins",
+          "description": "An image showing a CT scan of a subarachnoid hemorrhage, modified from <a href=\"//commons.wikimedia.org/wiki/File:SAHCT2.jpg\" class=\"mw-redirect\" title=\"File:SAHCT2.jpg\">Image:SAHCT2.jpg</a>",
+          "credit": "Dr. George Jallo, pediatric neurosurgeon at Johns Hopkins",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Subarachnoid_hemorrhage_CT.jpg"
+        },
+        {
+          "title": "File:Subarachnoid hemorrhage CT (uncropped).jpg",
+          "author": "Dr. George Jallo",
+          "description": "An image showing a subarachnoid hemorrhage",
+          "credit": "Dr. George Jallo, pediatric neurosurgeon at Johns Hopkins",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Subarachnoid_hemorrhage_CT_(uncropped).jpg"
+        },
+        {
+          "title": "File:CT of subarachnoid hemorrhage.png",
+          "author": "<p><span class=\"noprint plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:Mirza_et_al_-_authors&amp;action=edit\">edit</a></span>\n<br>Shazia Mirza and Sankalp Gokhale\n</p>\n<br>See also source article for additional image creators.",
+          "description": "<span class=\"noprint plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:Mirza_et_al_-_description&amp;action=edit\">edit</a></span>\n<br>CT of subarachnoid hemorrhage.png. For context, see <a href=\"https://en.wikipedia.org/wiki/Imaging_in_stroke\" class=\"extiw\" title=\"wikipedia:Imaging in stroke\">Wikipedia:Imaging in stroke</a>.",
+          "credit": "<p><span class=\"noprint plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:Mirza_et_al_-_source&amp;action=edit\">edit</a></span>\n</p>\n<br>Shazia Mirza and Sankalp Gokhale (<span class=\"mw-formatted-date\" title=\"2016-07-25\">2016-07-25</span>). <a rel=\"nofollow\" class=\"external text\" href=\"http://www.smgebooks.com/neuroimaging/chapters/NI-16-06.pdf\">Neuroimaging in Acute Stroke</a>.<br><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Attribution 4.0 International (CC BY 4.0)</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:CT_of_subarachnoid_hemorrhage.png"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "An emerging view of neural geometry in motor cortex supports high-performance decoding",
+    "authors": [
+      "Perkins, Sean M",
+      "Amematsro, Elom A",
+      "Cunningham, John",
+      "Wang, Qi",
+      "Churchland, Mark M"
+    ],
+    "date": "2025-02-03T14:35:41Z",
+    "abstract": "<jats:p>Decoders for brain-computer interfaces (BCIs) assume constraints on neural activity, chosen to reflect scientific beliefs while yielding tractable computations. Recent scientific advances suggest that the true constraints on neural activity, especially its geometry, may be quite different from those assumed by most decoders. We designed a decoder, MINT, to embrace statistical constraints that are potentially more appropriate. If those constraints are accurate, MINT should outperform standard methods that explicitly make different assumptions. Additionally, MINT should be competitive with expressive machine learning methods that can implicitly learn constraints from data. MINT performed well across tasks, suggesting its assumptions are well-matched to the data. MINT outperformed other interpretable methods in every comparison we made. MINT outperformed expressive machine learning methods in 37 of 42 comparisons. MINT’s computations are simple, scale favorably with increasing neuron counts, and yield interpretable quantities such as data likelihoods. MINT’s performance and simplicity suggest it may be a strong candidate for many BCI applications.</jats:p>",
+    "url": "https://doi.org/10.7554/elife.89421.3",
+    "journal": "eLife",
+    "keywords": [
+      "motor cortex",
+      "neural geometry",
+      "decoding"
+    ],
+    "caption": "🧠✨ Unveiling the secrets of the motor cortex! Recent insights into neural geometry reveal how our brain's motor regions are organized to support high-performance decoding. This breakthrough enhances our understanding of how complex movements are controlled and could lead to advancements in brain-machine interfaces. Imagine a future where neural decoding helps restore mobility for those with motor impairments! 🚀🔬 #Neuroscience #BrainPower #Innovation #MotorCortex #NeuralDecoding #FutureTech",
+    "images": [
+      [
+        {
+          "title": "File:The primary motor cortex.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Blacka1226&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Blacka1226 (page does not exist)\">Blacka1226</a>",
+          "description": "motor cortex",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:The_primary_motor_cortex.png"
+        },
+        {
+          "title": "File:The Primary Motor Cortex Infogram.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JWinston13&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JWinston13 (page does not exist)\">JWinston13</a>",
+          "description": "An infogram with key facts and information about the primary motor cortex.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Primary_Motor_Cortex_Infogram.jpg"
+        },
+        {
+          "title": "File:Motor Cortex (1).jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:1234dg42456fgheru46734245sdbfnndfjjt7i&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:1234dg42456fgheru46734245sdbfnndfjjt7i (page does not exist)\">1234dg42456fgheru46734245sdbfnndfjjt7i</a>",
+          "description": "the function of the motor cortex",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Motor_Cortex_(1).jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Bright pupil by infrared or near infrared illumination.jpg",
+          "author": "Massimo Gneo, Maurizio Schmid, Silvia Conforto, and Tommaso D’Alessio",
+          "description": "Bright pupil created by on-axis infrared/near infrared illumination (IR light source is placed near the camera) captured by a charge-coupled device (CCD) camera.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543256/figure/F1/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543256/figure/F1/</a>",
+          "license": "cc-by-2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Bright_pupil_by_infrared_or_near_infrared_illumination.jpg"
+        },
+        {
+          "title": "File:Dark pupil by infrared or near infrared illumination.jpg",
+          "author": "Massimo Gneo, Maurizio Schmid, Silvia Conforto, and Tommaso D’Alessio",
+          "description": "Dark pupil by off-axis infrared/near infrared illumination (IR light source is placed away from the camera) captured by a charge-coupled device (CCD) camera. The reflection of infrared source is seen as the glint (small white dot).",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543256/figure/F1/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543256/figure/F1/</a>",
+          "license": "cc-by-2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dark_pupil_by_infrared_or_near_infrared_illumination.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Architectures of neural decoding.jpg",
+          "author": "YUANRUI DONG, SHIRONG WANG, QIANG HUANG, RUNE W. BERG, GUANGHUI LI, AND JIPING HE",
+          "description": "(A) Naive Bayes models were trained separately on LFP and electroencephalogram (EEG) features, and the predicted kinematics were obtained through decision fusion and posterior probability from Bayes classifiers. (B) The DNN, consisting of LSTM and a convolutional layer, used MWP features in multiscale to predict movement. (C) TCN was used as the decoder for predicting kinematics. (D) The LFP-based decoder used LSTM, as illustrated in the gray-shaded block.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://spj.science.org/doi/full/10.34133/cbsystems.0044\">https://spj.science.org/doi/full/10.34133/cbsystems.0044</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Architectures_of_neural_decoding.jpg"
+        },
+        {
+          "title": "File:Decoding-wheel-open-German.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Peterriegler&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Peterriegler (page does not exist)\">Peterriegler</a>",
+          "description": "Graphical representation of the Decoding the Disciplines Prozess",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Decoding-wheel-open-German.jpg"
+        },
+        {
+          "title": "File:Decoding-wheel-open-English.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Peterriegler&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Peterriegler (page does not exist)\">Peterriegler</a>",
+          "description": "Graphical representation of the Decoding the Disciplines process",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Decoding-wheel-open-English.jpg"
+        },
+        {
+          "title": "File:Ldpc code fragment factor graph w erasures decode step 2.svg",
+          "author": null,
+          "description": null,
+          "credit": null,
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Ldpc_code_fragment_factor_graph_w_erasures_decode_step_2.svg"
+        }
+      ]
+    ]
+  }
+]

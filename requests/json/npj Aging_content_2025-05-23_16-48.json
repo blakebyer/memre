@@ -1,0 +1,448 @@
+[
+  {
+    "title": "Adaptation of the Spalax galili transcriptome to hypoxia may underlie the complex phenotype featuring longevity and cancer resistance",
+    "authors": [
+      "Poetzsch, Gesa",
+      "Jelacic, Luca",
+      "Dammer, Leon",
+      "Hellmann, Sören Lukas",
+      "Balling, Michelle",
+      "Andrade-Navarro, Miguel",
+      "Avivi, Aaron",
+      "Shams, Imad",
+      "Bicker, Anne",
+      "Hankeln, Thomas"
+    ],
+    "date": "2025-03-06T00:12:01Z",
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>In the subterranean rodent <jats:italic>(Nanno)spalax galili</jats:italic>, evolutionary adaptation to hypoxia is correlated with longevity and tumor resistance. Adapted gene-regulatory networks of <jats:italic>Spalax</jats:italic> might pinpoint strategies to maintain health in humans. Comparing liver, kidney and spleen transcriptome data from <jats:italic>Spalax</jats:italic> and rat at hypoxia and normoxia, we identified differentially expressed gene pathways common to multiple organs in both species. Body-wide interspecies differences affected processes like cell death, antioxidant defense, DNA repair, energy metabolism, immune response and angiogenesis, which may play a crucial role in <jats:italic>Spalax</jats:italic>’s adaptation to environmental hypoxia. In all organs, transcription of genes for genome stability maintenance and DNA repair was elevated in <jats:italic>Spalax</jats:italic> versus rat, accompanied by lower expression of aerobic energy metabolism and proinflammatory genes. These transcriptomic changes might account for the extraordinary lifespan of <jats:italic>Spalax</jats:italic> and its cancer resistance. The identified gene networks present candidates for further investigating the molecular basis underlying the complex <jats:italic>Spalax</jats:italic> phenotype.</jats:p>",
+    "url": "https://doi.org/10.1038/s41514-025-00206-3",
+    "journal": "npj Aging",
+    "keywords": [
+      "hypoxia",
+      "longevity",
+      "cancer resistance"
+    ],
+    "caption": "🧬✨ Discover the secrets of longevity and cancer resistance in the fascinating Spalax galili, a subterranean rodent with extraordinary adaptations! 🌱🔬 By comparing gene expression between Spalax and rats under different oxygen conditions, researchers have uncovered unique pathways that enhance DNA repair, antioxidant defense, and immune response. These adaptations help Spalax thrive in low-oxygen environments, contributing to its impressive lifespan and tumor resistance. 🌿🧠\n\nThis groundbreaking research offers potential insights into human health, revealing strategies for maintaining genome stability and reducing inflammation. As we explore these gene networks, we edge closer to understanding the molecular basis of healthy aging. 🕵️‍♂️🔍\n\nLet's celebrate the wonders of nature and the possibilities they hold for our future! 🌟 #Longevity #CancerResearch #Neuroscience #Spalax #GeneExpression #HealthyAging #ScienceInnovation",
+    "images": [
+      [
+        {
+          "title": "File:IMAGE-Map of measured Gulf hypoxia zone, July 25-31, 2021-LUMCON-NOAA.png",
+          "author": "<p>NOAA.\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://oceantoday.noaa.gov/about.html#one\">https://oceantoday.noaa.gov/about.html#one</a>",
+          "description": "The 2021 Gulf of Mexico Hypoxic Zone, or Dead Zone, an area of low oxygen that can kill fish and marine life near the bottom of the sea, measures 2,116 square miles. This is the 3rd smallest dead zone in the Gulf since mapping of the zone began in 1985.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://oceantoday.noaa.gov/happenowdeadzone/\">https://oceantoday.noaa.gov/happenowdeadzone/</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:IMAGE-Map_of_measured_Gulf_hypoxia_zone,_July_25-31,_2021-LUMCON-NOAA.png"
+        },
+        {
+          "title": "File:PDB 1h2n EBI.jpg",
+          "author": "Jawahar Swaminathan and MSD staff at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/European_Bioinformatics_Institute\" class=\"extiw\" title=\"en:European Bioinformatics Institute\"><span lang=\"en\" dir=\"ltr\">European Bioinformatics Institute</span></a></span>",
+          "description": "Cartoon representation of the molecular structure of protein registered with 1h2n code.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/static/entry/1h2n_deposited_chain_front_image-800x800.png\">https://www.ebi.ac.uk/pdbe/static/entry/1h2n_deposited_chain_front_image-800x800.png</a>, displayed on <a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/entry/pdb/1h2n\">https://www.ebi.ac.uk/pdbe/entry/pdb/1h2n</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:PDB_1h2n_EBI.jpg"
+        },
+        {
+          "title": "File:PDB 1yci EBI.jpg",
+          "author": "Jawahar Swaminathan and MSD staff at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/European_Bioinformatics_Institute\" class=\"extiw\" title=\"en:European Bioinformatics Institute\"><span lang=\"en\" dir=\"ltr\">European Bioinformatics Institute</span></a></span>",
+          "description": "Cartoon representation of the molecular structure of protein registered with 1yci code.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/static/entry/1yci_deposited_chain_front_image-800x800.png\">https://www.ebi.ac.uk/pdbe/static/entry/1yci_deposited_chain_front_image-800x800.png</a>, displayed on <a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/entry/pdb/1yci\">https://www.ebi.ac.uk/pdbe/entry/pdb/1yci</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:PDB_1yci_EBI.jpg"
+        },
+        {
+          "title": "File:PDB 2cgn EBI.jpg",
+          "author": "Jawahar Swaminathan and MSD staff at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/European_Bioinformatics_Institute\" class=\"extiw\" title=\"en:European Bioinformatics Institute\"><span lang=\"en\" dir=\"ltr\">European Bioinformatics Institute</span></a></span>",
+          "description": "Cartoon representation of the molecular structure of protein registered with 2cgn code.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/static/entry/2cgn_deposited_chain_front_image-800x800.png\">https://www.ebi.ac.uk/pdbe/static/entry/2cgn_deposited_chain_front_image-800x800.png</a>, displayed on <a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/entry/pdb/2cgn\">https://www.ebi.ac.uk/pdbe/entry/pdb/2cgn</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:PDB_2cgn_EBI.jpg"
+        },
+        {
+          "title": "File:PDB 2cgo EBI.jpg",
+          "author": "Jawahar Swaminathan and MSD staff at the <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/European_Bioinformatics_Institute\" class=\"extiw\" title=\"en:European Bioinformatics Institute\"><span lang=\"en\" dir=\"ltr\">European Bioinformatics Institute</span></a></span>",
+          "description": "Cartoon representation of the molecular structure of protein registered with 2cgo code.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/static/entry/2cgo_deposited_chain_front_image-800x800.png\">https://www.ebi.ac.uk/pdbe/static/entry/2cgo_deposited_chain_front_image-800x800.png</a>, displayed on <a rel=\"nofollow\" class=\"external free\" href=\"https://www.ebi.ac.uk/pdbe/entry/pdb/2cgo\">https://www.ebi.ac.uk/pdbe/entry/pdb/2cgo</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:PDB_2cgo_EBI.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Vase of Longevity (Kalasha) with Buddha Amitabha, Nepal, 17th century.jpg",
+          "author": "Art Institute of Chicago",
+          "description": "Vase of Longevity (Kalasha) with Buddha Amitabha. Nepal, 17th century.\n<p>Gilded copper inlaid with semiprecious stones, with brass elements.\n</p><p>H. 76 cm (29 7/8 in.)\n</p>\nDiam. 34 cm (13 3/8 in.)",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.artic.edu/artworks/140601/vase-of-longevity-kalasha-with-buddha-amitabha\">https://www.artic.edu/artworks/140601/vase-of-longevity-kalasha-with-buddha-amitabha</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Vase_of_Longevity_(Kalasha)_with_Buddha_Amitabha,_Nepal,_17th_century.jpg"
+        },
+        {
+          "title": "File:Bowl decorated with ten symbols of longevity MET DP702970.jpg",
+          "author": null,
+          "description": null,
+          "credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Bowl_decorated_with_ten_symbols_of_longevity_MET_DP702970.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Fphar-04-00028-g001.jpg",
+          "author": "Hiba Zahreddine Katherine L. B. Borden",
+          "description": "FIGURE 1. A MAJOR IMPEDIMENT IN THE TREATMENT OF CANCER IS THE DEVELOPMENT OF RESISTANCE. While most tumors initially respond to the given therapy, the majority will relapse following treatment, and in some cases resistance even predates clinical intervention. Therefore cancer resistance can be classified in to two broad classes: primary or acquired. In both cases, the emergence of resistant cells could be due to, at least, two mechanisms: (A) presence of multiple initial clones some of which emerge as dominant after treatment. These subpopulations could possess stem-like characteristics and/or use their interactions with the surrounding microenvironment to enter into a dormant state, thus surviving the insult of therapy. (B) Acquisition of stochastic alterations within the cancer cells per se. In all cases, the surviving population is less likely to respond to any further therapy and will be responsible for the minimal residual disease and cancer relapse. The biochemical underpinnings of resistance include: alterations to drug metabolism, increased drug efflux, decreased drug uptake, modification of the drug targets, amplification of targeted protein, genetic rewiring, enhanced DNA repair, inactivation of apoptotic proteins, or activation of anti-apoptotic ones, among others.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.frontiersin.org/articles/10.3389/fphar.2013.00028/full\">https://www.frontiersin.org/articles/10.3389/fphar.2013.00028/full</a>",
+          "license": "cc-by-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Fphar-04-00028-g001.jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "An epigenetic clock for Xenopus tropicalis",
+    "authors": [
+      "Bennett, Ronan",
+      "Morselli, Marco",
+      "Petrova, Kseniya",
+      "Peshkin, Leonid",
+      "Pellegrini, Matteo"
+    ],
+    "date": "2025-05-22T09:14:23Z",
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>DNA methylation clocks have been widely used for accurate age prediction, but most studies have been carried out on mammals. Here we present an epigenetic clock for the aquatic frog <jats:italic>Xenopus tropicalis</jats:italic>, a widely used model organism in developmental biology and genomics. To construct the clock, we collected DNA methylation data from 192 frogs using targeted bisulfite sequencing at genomic regions containing CpG sites previously shown to have age-associated methylation in <jats:italic>Xenopus</jats:italic>. We found highly positively and negatively age-correlated CpGs are enriched in heterochromatic regions marked with H4K20me3 and H3K9me3. Positively age-correlated CpGs are enriched in bivalent chromatin and gene bodies with H3K36me3, and tend to be proximal to lowly expressed genes. These epigenetic features of aging are similar to those found in mammals, suggesting evolutionary conservation of epigenetic aging mechanisms. Our clock enables future aging biology experiments that leverage the unique properties of amphibians.</jats:p>",
+    "url": "https://doi.org/10.1038/s41514-025-00236-x",
+    "journal": "npj Aging",
+    "keywords": [
+      "epigenetic clock",
+      "Xenopus tropicalis",
+      "DNA methylation"
+    ],
+    "caption": "🧬 Exciting news in the world of neuroscience! Researchers have developed an epigenetic clock for the frog species *Xenopus tropicalis*. This breakthrough uses DNA methylation to predict age, a technique previously applied mainly to mammals. The study reveals that age-related methylation patterns in these frogs share similarities with mammals, highlighting evolutionary conservation across species. This innovative tool opens up new possibilities for aging research, especially in amphibians, and could accelerate studies on aging interventions. 🌿🔬\n\nUnderstanding these mechanisms is crucial for future research in developmental biology and genomics. By leveraging the unique properties of amphibians, scientists can explore new dimensions in aging biology. This could lead to insights into age-related diseases and longevity, making it a significant advancement in the field. \n\nStay tuned for more updates on how this could revolutionize our understanding of aging! 🌟\n\n#Neuroscience #AgingResearch #Epigenetics #XenopusTropicalis #ScienceInnovation #BiologyBreakthroughs",
+    "images": [
+      [],
+      [
+        {
+          "title": "File:Xenopus tropicalis et Xenopus muelleri-Africa Museum.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Ji-Elle\" title=\"User:Ji-Elle\">Ji-Elle</a>",
+          "description": "<i>Xenopus tropicalis</i> et <i>Xenopus muelleri</i> au Musée royal d'Afrique centrale (Belgique).",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Xenopus_tropicalis_et_Xenopus_muelleri-Africa_Museum.jpg"
+        },
+        {
+          "title": "File:Xenopus tropicalis-Africa Museum.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Ji-Elle\" title=\"User:Ji-Elle\">Ji-Elle</a>",
+          "description": "* Xenopus tropicalis, collecté en Sierra Leone\n<ul><li>Musée royal de l'Afrique centrale</li></ul>",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Xenopus_tropicalis-Africa_Museum.jpg"
+        },
+        {
+          "title": "File:FISH Xenopus tropicalis.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:N_pollet&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:N pollet (page does not exist)\">Nicolas Pollet</a>",
+          "description": "Photo de FISH sur chromosomes métaphasiques à partir de cellules speedy de Xenopus tropicalis",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:FISH_Xenopus_tropicalis.jpg"
+        },
+        {
+          "title": "File:Xenopus tropicalis male.png",
+          "author": "Narbonne P, Simpson D, Gurdon J (2011)",
+          "description": "Xenopus tropicalis male",
+          "credit": "<a href=\"//doi.org/10.1371/journal.pbio.1001197.s001\" class=\"extiw\" title=\"doi:10.1371/journal.pbio.1001197.s001\">Fig. S1</a> of<br><cite style=\"font-style:normal\">Narbonne P, Simpson D, Gurdon J (2011). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217020\">Deficient Induction Response in a Xenopus Nucleocytoplasmic Hybrid</a>\". <i>PLOS Biology</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1371/journal.pbio.1001197\">10.1371/journal.pbio.1001197</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/22131902\">22131902</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217020\">3217020</a>.</cite>",
+          "license": "cc-by-2.5",
+          "url": "https://commons.wikimedia.org/wiki/File:Xenopus_tropicalis_male.png"
+        },
+        {
+          "title": "File:Ke - Xenopus tropicalis - 1.jpg",
+          "author": "Emőke Dénes",
+          "description": "<b>Xenopus tropicalis</b> at the Cambridge University Museum of Zoology, England.",
+          "credit": "kindly granted by the author",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Ke_-_Xenopus_tropicalis_-_1.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:DNA methylation and demethylation molecular mechanisms.png",
+          "author": "Ana Valente,Luís Vieira,Maria João Silva and Célia Ventura",
+          "description": "Simplified schematic representation of DNA methylation and demethylation molecular mechanisms.",
+          "credit": "Nanomaterials 2023, 13(12), 1880; <a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.3390/nano13121880\">https://doi.org/10.3390/nano13121880</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:DNA_methylation_and_demethylation_molecular_mechanisms.png"
+        },
+        {
+          "title": "File:RNA-directed DNA Methylation (RdDM).png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:M%C3%A9gaspopi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mégaspopi (page does not exist)\">A. Koetz</a>",
+          "description": "RNA-directed DNA Methylation (RdDM) éteignant des éléments transposables des cellules sub-épidermiques pendant la phase pré-méiotique de la mégasporogenèse chez Arabidopis thaliana",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:RNA-directed_DNA_Methylation_(RdDM).png"
+        },
+        {
+          "title": "File:CpG methylation in mouse development.png",
+          "author": "Heather J. Lee, Timothy A. Hore, Wolf Reik",
+          "description": "<b>Global CpG Methylation Levels in the Mouse Germline, Somatic Tissues, and ESCs.</b>\nThe mouse germline undergoes two major waves of demethylation, the first in the early embryo where the paternal genome (blue) is actively demethylated prior to and during replication. Both the paternal and maternal (red) genomes passively lose methylation after this until the blastocyst stage (E3.5). The second wave of demethylation occurs in the primordial germ cells between E6.5 and E13.5 as they emerge from the epiblast. Methylation is then re-established in a sex-specific manner after E13.5 and the nongrowing (NG) oocyte stage, in males and females, respectively, eventually giving rise to mature gametic patterns. Naive and primed ESCs can be cultured from the ICM or be interchanged with each other (dashed line), by growth in either serum or 2i media, respectively. Only naive ESCs display low methylation (c. 30%) that corresponds to in vivo pluripotent tissues (shaded boxes on the far right). Erased cells display less than 10% methylation, whereas somatic tissues (derived from the E6.5 epiblast) show consistently high methylation around 70%–85%. The placenta is relatively demethylated compared to somatic tissues and is derived from the blastocyst trophectoderm (E3.5). In order to compare between genome-wide (Ficz et al., 2013; Hon et al., 2013; Kobayashi et al., 2012; Seisenberger et al., 2012; Shirane et al., 2013) and reduced representation bisulfite sequencing data sets (Smallwood et al., 2011; Smith et al., 2012), 100 kb probes not overlapping CpG islands were analyzed as previously (Ficz et al., 2013).",
+          "credit": "<cite style=\"font-style:normal\"> (2014). \"Reprogramming the Methylome: Erasing Memory and Creating Diversity\". <i>Cell Stem Cell</i> <b>14</b> (6): 710-719. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1016/j.stem.2014.05.008\">10.1016/j.stem.2014.05.008</a>.</cite>",
+          "license": "cc-by-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:CpG_methylation_in_mouse_development.png"
+        },
+        {
+          "title": "File:Beck–Fahrner syndrome or TET3 deficiency (episignature).jpg",
+          "author": "Levy et al.",
+          "description": "DNA methylation profile or epigenetic signature (episignature) related to mutations in TET3 gene for Beck–Fahrner syndrome.",
+          "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/figure/Fig2/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/figure/Fig2/</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Beck–Fahrner_syndrome_or_TET3_deficiency_(episignature).jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "LinAge2: providing actionable insights and benchmarking with epigenetic clocks",
+    "authors": [
+      "Fong, Sheng",
+      "Denisov, Kirill A.",
+      "Nefedova, Anastasiia A.",
+      "Kennedy, Brian K.",
+      "Gruber, Jan"
+    ],
+    "date": "2025-04-23T14:25:19Z",
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Biological aging is marked by a decline in resilience at the cellular and systemic levels, driving an exponential increase in mortality risk. Here, we evaluate several clinical and epigenetic clocks for their ability to predict mortality, demonstrating that clocks trained on survival and functional aging outperform those trained on chronological age. We present an enhanced clinical clock that predicts mortality more accurately and provides actionable insights for guiding personalized interventions. These findings highlight the potential of mortality-predicting clocks to inform clinical decision-making and promote strategies for healthy longevity.</jats:p>",
+    "url": "https://doi.org/10.1038/s41514-025-00221-4",
+    "journal": "npj Aging",
+    "keywords": [
+      "biological aging",
+      "epigenetic clocks",
+      "mortality prediction"
+    ],
+    "caption": "🔍 Discover the future of personalized health with LinAge2! This groundbreaking study explores enhanced biological aging clocks that predict mortality more accurately than traditional chronological age markers. 🕰️ By focusing on survival and functional aging, these clocks offer actionable insights for personalized interventions, paving the way for healthier, longer lives. 🌱\n\nIn the world of neuroscience, understanding biological aging is crucial as it impacts cognitive decline and neurodegenerative diseases. LinAge2's advancements could lead to early detection and targeted strategies to maintain brain health as we age. 🧠✨\n\nEmbrace the potential of epigenetic clocks and their role in revolutionizing clinical decision-making and promoting longevity. #Aging #Neuroscience #Longevity #HealthInnovation #Epigenetics #HealthyAging",
+    "images": [
+      [
+        {
+          "title": "File:Rust Mite, Aceria anthocoptes.jpg",
+          "author": "<div class=\"fn value\">\nPhoto by Eric Erbe; digital colorization by Chris Pooley (USDA, ARS, EMU).<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup></div>",
+          "description": "Electron scan micrography of <i>Aceria anthocoptes</i>.",
+          "credit": "This image was released by the <a href=\"https://en.wikipedia.org/wiki/Agricultural_Research_Service\" class=\"extiw\" title=\"en:Agricultural Research Service\">Agricultural Research Service</a>, the research agency of the <a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture\" class=\"extiw\" title=\"en:United States Department of Agriculture\">United States Department of Agriculture</a>, with the ID <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ars.usda.gov/is/graphics/photos/oct00/K9077-23.htm\">K9077-23</a> <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Category:Media_created_by_the_United_States_Agricultural_Research_Service_with_known_IDs&amp;filefrom=K9077-23#mw-category-media\"><small>(next)</small></a>.",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Rust_Mite,_Aceria_anthocoptes.jpg"
+        }
+      ],
+      [],
+      []
+    ]
+  },
+  {
+    "title": "The role of inhibitory and excitatory neurometabolites in age-related differences in action selection",
+    "authors": [
+      "Rodríguez-Nieto, Geraldine",
+      "Rasooli, Amirhossein",
+      "Li, Hong",
+      "Sunaert, Stefan",
+      "Mantini, Dante",
+      "Mikkelsen, Mark",
+      "Edden, Richard A. E.",
+      "Chalavi, Sima",
+      "Swinnen, Stephan P."
+    ],
+    "date": "2025-03-13T23:12:22Z",
+    "abstract": [
+      ""
+    ],
+    "url": "https://doi.org/10.1038/s41514-025-00204-5",
+    "journal": "npj Aging",
+    "keywords": [
+      "aging",
+      "action selection",
+      "neurochemical processes"
+    ],
+    "caption": "🧠✨ Aging gracefully involves more than just physical changes—our brains adapt too! Recent research highlights how neurometabolites, like GABA and glutamate, play a crucial role in action selection as we age. By using magnetic resonance spectroscopy, scientists observed that older adults show different patterns of neurochemical activity during tasks requiring quick decision-making compared to younger individuals. This study reveals that while both young and older adults experience changes in neurometabolites, these changes impact their task performance differently. Understanding these shifts can help improve cognitive and motor functions as we age, enhancing quality of life. \n\nStay curious about the brain's incredible adaptability! 🌟 #Neuroscience #Aging #BrainHealth #CognitiveFunction #Neuroplasticity",
+    "images": [
+      [
+        {
+          "title": "File:Jēkabs Kazaks - Three Old Ladies - Google Art Project.jpg",
+          "author": "<div class=\"fn value\">\nJēkabs Kazaks (1895 - 1920) – Creator (Latvian)<br> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/artist/j%C4%93kabs-kazaks/28866169/\">Details on Google Art Project</a></div>",
+          "description": null,
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/lQFiF6ncmU47OA\">lQFiF6ncmU47OA at Google Cultural Institute</a> maximum zoom level",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Jēkabs_Kazaks_-_Three_Old_Ladies_-_Google_Art_Project.jpg"
+        },
+        {
+          "title": "File:Geological time spiral.png",
+          "author": "<a href=\"https://en.wikipedia.org/wiki/United_States_Geological_Survey\" class=\"extiw\" title=\"en:United States Geological Survey\">United States Geological Survey</a>",
+          "description": "A diagram of the geological time scale",
+          "credit": "Graham, Joseph, Newman, William, and Stacy, John, 2008, The geologic time spiral—A path to the past (ver. 1.1): U.S. Geological Survey General Information Product 58, poster, 1 sheet. Available online at <a rel=\"nofollow\" class=\"external free\" href=\"https://pubs.usgs.gov/gip/2008/58/\">http://pubs.usgs.gov/gip/2008/58/</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Geological_time_spiral.png"
+        },
+        {
+          "title": "File:Common blackbird (Turdus merula) chicks 2 days old.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Romate\" title=\"User:Romate\">Romate</a>",
+          "description": "<a href=\"https://en.wikipedia.org/wiki/Common_blackbird\" class=\"extiw\" title=\"w:Common blackbird\">Common blackbird</a> (<i>Turdus merula</i>) chicks 2 days old.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Common_blackbird_(Turdus_merula)_chicks_2_days_old.jpg"
+        },
+        {
+          "title": "File:Alexandre Lacauchie - Gilbert Duprez as Gaston in Verdi's Jérusalem.jpg",
+          "author": "Alexandre Lacauchie (active 1833–1849); Restored by <a href=\"//commons.wikimedia.org/wiki/User:Adam_Cuerden\" title=\"User:Adam Cuerden\">Adam Cuerden</a>",
+          "description": "Gilbert Duprez (1806-1896) as Gaston in Giuseppe Verdi's <i>Jérusalem</i> at the Salle Le Peletier in Paris in 1847.",
+          "credit": "Bibliothèque nationale de France",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alexandre_Lacauchie_-_Gilbert_Duprez_as_Gaston_in_Verdi's_Jérusalem.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Selection Pressure Example.png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ginamisra&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ginamisra (page does not exist)\">Ginamisra</a>",
+          "description": "A simplified example of a selection pressure in action. This example shows how predation can be a selection pressure. This image also attempts to explain that the traits being selected for were already present in the population, rather than induced, by the pressure.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Selection_Pressure_Example.png"
+        },
+        {
+          "title": "File:Diploma Selection 2794.jpg",
+          "author": "Zdeněk Bierhanzl",
+          "description": "Diploma Selection, a show of fifteen fashion designers, graduates of art schools from various European countries, took place as part of Designblok 2021. Prague, Czech Republic, October 9, 2021.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Diploma_Selection_2794.jpg"
+        },
+        {
+          "title": "File:Diploma Selection 2159.jpg",
+          "author": "Zdeněk Bierhanzl",
+          "description": "Diploma Selection, a show of fifteen fashion designers, graduates of art schools from various European countries, took place as part of Designblok 2021. Prague, Czech Republic, October 9, 2021.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Diploma_Selection_2159.jpg"
+        }
+      ],
+      []
+    ]
+  },
+  {
+    "title": "Predicting all-cause mortality with machine learning among Brazilians aged 50 and over: results from The Brazilian Longitudinal Study of Ageing (ELSI-Brazil)",
+    "authors": [
+      "Delpino, Felipe Mendes",
+      "Chiavegatto Filho, Alexandre Dias Porto",
+      "Torres, Juliana Lustosa",
+      "Bof de Andrade, Fabíola",
+      "Lima-Costa, Maria Fernanda",
+      "Nunes, Bruno Pereira"
+    ],
+    "date": "2025-03-29T16:21:47Z",
+    "abstract": [
+      ""
+    ],
+    "url": "https://doi.org/10.1038/s41514-025-00210-7",
+    "journal": "npj Aging",
+    "keywords": [
+      "machine learning",
+      "all-cause mortality",
+      "aging populations"
+    ],
+    "caption": "🔍 Exciting advancements in neuroscience and aging! A recent study from Brazil has harnessed the power of machine learning to predict all-cause mortality among those aged 50 and over. By analyzing data from over 9,000 participants, researchers identified key predictors like age, sex, BMI, medication use, and physical activity. The Random Forest algorithm stood out with an impressive AUC of 0.92, showcasing its potential in transforming healthcare for aging populations. 🌟 Integrating these insights into healthcare systems could revolutionize policy planning and targeted interventions, paving the way for healthier, longer lives. \n\nStay tuned as we explore how technology continues to shape the future of health and aging. 💡\n\n#Neuroscience #MachineLearning #HealthyAging #Innovation #Brazil #HealthTech",
+    "images": [
+      [
+        {
+          "title": "File:Scikit-learn machine learning decision tree.png",
+          "author": "scikit-learn.org",
+          "description": "Scikit-learn is an organization promoting education around machine learning. This machine learning decision tree illustrates which techniques are appropriate to use in various situations. Their website requests that anyone reusing their content cite this academic paper as follows:\n<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf\">Scikit-learn: Machine Learning in Python</a>, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.\n</p>\nDate of this image's publication is unknown, but between 2011-2019.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html\">https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html</a>",
+          "license": null,
+          "url": "https://commons.wikimedia.org/wiki/File:Scikit-learn_machine_learning_decision_tree.png"
+        },
+        {
+          "title": "File:Machine Learning cookies.jpg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Syced\" title=\"User:Syced\">Syced</a>",
+          "description": "<style data-mw-deduplicate=\"TemplateStyles:r972125160\">.mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:inherit;box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important}</style><table class=\"plainlinks messagebox mbox-message\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Wikidata-logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png\" decoding=\"async\" width=\"30\" height=\"17\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x\" data-file-width=\"1050\" data-file-height=\"590\"></a></span></td><td class=\"mbox-text\"><a href=\"https://www.wikidata.org/wiki/Wikidata:Main_page\" class=\"extiw\" title=\"wikidata:Wikidata:Main page\">Wikidata</a> has <a href=\"https://www.wikidata.org/wiki/Q30922481\" class=\"extiw\" title=\"d:Q30922481\">entry Shibuya Stream <small>(Q30922481)</small></a> with data related to this item.</td></tr></tbody></table>",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Machine_Learning_cookies.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Forest plots and pooled estimates for hazard ratios of social isolation for all-cause mortality.png",
+          "author": "<p>Authors of the study:\n</p>\n<pre>   Ryo Naito ,\n   Martin McKee,\n   Darryl Leong,\n   Shrikant Bangdiwala,\n   Sumathy Rangarajan,\n   Shofiqul Islam,\n</pre>\n    Salim Yusuf",
+          "description": "\"The random effects weighted average hazard ratios of social isolation for all-cause mortality is 1.33 (95% CI); 1.26–1.41) with substantial heterogeneity (heterogeneity: Chi² = 112.51, P &lt; 0.00001, I² = 76%).\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280308\">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280308</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Forest_plots_and_pooled_estimates_for_hazard_ratios_of_social_isolation_for_all-cause_mortality.png"
+        },
+        {
+          "title": "File:Adjusted HRs for All-Cause Mortality by Occupational Sitting Status Across 5 PAI Levels.png",
+          "author": "Authors of the study: Wayne Gao, PhD; Mattia Sanna, PhD; Yea-Hung Chen, PhD; Min-Kuang Tsai, PhD; Chi-Pang Wen, MD, PhD",
+          "description": "From the study \"Occupational Sitting Time, Leisure Physical Activity, and All-Cause and Cardiovascular Disease Mortality\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2814094\">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2814094</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Adjusted_HRs_for_All-Cause_Mortality_by_Occupational_Sitting_Status_Across_5_PAI_Levels.png"
+        },
+        {
+          "title": "File:Forest plots and pooled estimates hazard ratios of social isolation for all-cause mortality are shown separately for different social isolation assessment tools.png",
+          "author": "<p>Authors of the study:\n</p>\n<pre>   Ryo Naito ,\n   Martin McKee,\n   Darryl Leong,\n   Shrikant Bangdiwala,\n   Sumathy Rangarajan,\n   Shofiqul Islam,\n</pre>\n    Salim Yusuf",
+          "description": "\"The hazard ratio among the studies using the Berkman-Syme Social Network Index to assess social isolation is 1.35 (95% CI; 1.24–1.47) with substantial heterogeneity (heterogeneity: Chi² = 39.10, P &lt; 0.0001, I² = 74%) whereas that among the remainders is 1.33 (95% CI; 1.23–1.44) with substantial heterogeneity (heterogeneity: Chi² = 60.22, P &lt; 0.00001, I² = 73%).\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280308\">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280308</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Forest_plots_and_pooled_estimates_hazard_ratios_of_social_isolation_for_all-cause_mortality_are_shown_separately_for_different_social_isolation_assessment_tools.png"
+        },
+        {
+          "title": "File:Relative risk and 95% CI of all cause-mortality associated with 25 g per day increase in olive oil consumption.jpg",
+          "author": "Authors of the study:     Miguel A. Martínez-González     Carmen Sayón-Orea     Vanessa Bullón-Vela     Maira Bes-Rastrollo     Fernando Rodríguez-Artalejo     María José Yusta-Boyo     Marta García-Solano",
+          "description": "\"Abbreviations: RR, relative risk; CI, confidence interval; RCT: randomized controlled trial. Buckland G, 2012: Cancer mortality = a. Donat-Vargas C, 2021: ENRICA Study = c. ∗These 5 studies did not quantify the consumption of olive oil in g/d and we assumed 25 g/d as the difference between extreme categories. When these 5 studies were removed, the RR for the subgroup of cohort studies assessing all-cause mortality was 0.87 (0.81–0.93) and the overall RR was 0.87 (0.82–0.93).\"\n<hr>\n<p>\"A 16% reduced risk of CVD (relative risk [RR]: 0.84; 95% confidence interval [CI]: 0.76 to 0.94), standardized for every additional olive oil consumption of 25 g/d was found. No significant association with cancer risk was observed (RR: 0.94; 95% CI: 0.86 to 1.03, per 25 g/d). Olive oil consumption was associated with a 22% lower relative risk of T2D (RR: 0.78; 95% CI: 0.69 to 0.87, per 25 g/d) without evidence of heterogeneity. Similarly, it was inversely associated with all-cause mortality (RR: 0.89; 95% CI: 0.85 to 0.93, per 25 g/d). Only the results for T2D were homogeneous. Specific sources of heterogeneity for the other 3 outcomes were not always apparent.\"\n</p>\n\"Exploratory meta-regression analyses were conducted using the “metareg” command. Covariates explored in the meta-regression analyses were geographical origin (Mediterranean and non-Mediterranean countries), number of participants (&lt;10,000 vs ≥ 10,000), length of the follow-up period (&lt;10 vs ≥ 10 years), exposure assessment (olive oil quantified vs olive oil in categories), mean intake of olive oil (≥12  g/d vs &lt; 12 g/d).\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00355-7/fulltext\">https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00355-7/fulltext</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Relative_risk_and_95%_CI_of_all_cause-mortality_associated_with_25_g_per_day_increase_in_olive_oil_consumption.jpg"
+        },
+        {
+          "title": "File:Sub-group analyses for studies of olive oil intake and all-cause mortality.png",
+          "author": "Authors of the study:     Miguel A. Martínez-González     Carmen Sayón-Orea     Vanessa Bullón-Vela     Maira Bes-Rastrollo     Fernando Rodríguez-Artalejo     María José Yusta-Boyo     Marta García-Solano",
+          "description": "From the supplementary info file\n<hr>\n<p>\"A 16% reduced risk of CVD (relative risk [RR]: 0.84; 95% confidence interval [CI]: 0.76 to 0.94), standardized for every additional olive oil consumption of 25 g/d was found. No significant association with cancer risk was observed (RR: 0.94; 95% CI: 0.86 to 1.03, per 25 g/d). Olive oil consumption was associated with a 22% lower relative risk of T2D (RR: 0.78; 95% CI: 0.69 to 0.87, per 25 g/d) without evidence of heterogeneity. Similarly, it was inversely associated with all-cause mortality (RR: 0.89; 95% CI: 0.85 to 0.93, per 25 g/d). Only the results for T2D were homogeneous. Specific sources of heterogeneity for the other 3 outcomes were not always apparent.\"\n</p>\n\"Exploratory meta-regression analyses were conducted using the “metareg” command. Covariates explored in the meta-regression analyses were geographical origin (Mediterranean and non-Mediterranean countries), number of participants (&lt;10,000 vs ≥ 10,000), length of the follow-up period (&lt;10 vs ≥ 10 years), exposure assessment (olive oil quantified vs olive oil in categories), mean intake of olive oil (≥12  g/d vs &lt; 12 g/d).\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00355-7/fulltext\">https://www.clinicalnutritionjournal.com/article/S0261-5614(22)00355-7/fulltext</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Sub-group_analyses_for_studies_of_olive_oil_intake_and_all-cause_mortality.png"
+        }
+      ],
+      [
+        {
+          "title": "File:An Aging population. - geograph.org.uk - 5715230.jpg",
+          "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/8272\">Bob Harvey</a> <span class=\"mw-valign-text-top\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:An_Aging_population._-_geograph.org.uk_-_5715230.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "description": "An Aging population. <span class=\"mw-valign-text-top\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:An_Aging_population._-_geograph.org.uk_-_5715230.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/5715230\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:An_Aging_population._-_geograph.org.uk_-_5715230.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "license": "cc-by-sa-2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:An_Aging_population._-_geograph.org.uk_-_5715230.jpg"
+        },
+        {
+          "title": "File:PCA of Mediterranean Bronze and Iron Age Populations.jpg",
+          "author": "Moots, Hannah M et al. (2023)",
+          "description": "PCA of Mediterranean Bronze and Iron Age Populations",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1101/2022.03.13.483276\">https://doi.org/10.1101/2022.03.13.483276</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:PCA_of_Mediterranean_Bronze_and_Iron_Age_Populations.jpg"
+        },
+        {
+          "title": "File:Information captured by ADAM robot's perception system.jpg",
+          "author": "Authors of the study: Alicia Mora, Adrian Prados, Alberto Mendez, Gonzalo Espinoza, Pavel Gonzalez, Blanca Lopez, Victor Muñoz, Luis Moreno, Santiago Garrido, Ramon Barber",
+          "description": "\"Information captured by the perception system. The main sources of information are the RGB image and the corresponding depth values from the RGBD sensor and the 3D spatial information from the LiDAR sensor, which covers a full room.\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full\">https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Information_captured_by_ADAM_robot's_perception_system.jpg"
+        },
+        {
+          "title": "File:General scheme of ADAM elements – ADAM elderly care robot.jpg",
+          "author": "Authors of the study: Alicia Mora, Adrian Prados, Alberto Mendez, Gonzalo Espinoza, Pavel Gonzalez, Blanca Lopez, Victor Muñoz, Luis Moreno, Santiago Garrido, Ramon Barber",
+          "description": "\"General scheme of ADAM elements from back and front view.\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full\">https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:General_scheme_of_ADAM_elements_–_ADAM_elderly_care_robot.jpg"
+        },
+        {
+          "title": "File:Visualization of the ADAM robot model in simulation.jpg",
+          "author": "Authors of the study: Alicia Mora, Adrian Prados, Alberto Mendez, Gonzalo Espinoza, Pavel Gonzalez, Blanca Lopez, Victor Muñoz, Luis Moreno, Santiago Garrido, Ramon Barber",
+          "description": "\"Visualization of the ADAM model in simulation, where the reference systems of the base and arms can be seen. The reference frame transformations between them are schematically represented.\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full\">https://www.frontiersin.org/articles/10.3389/fnbot.2024.1337608/full</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Visualization_of_the_ADAM_robot_model_in_simulation.jpg"
+        }
+      ]
+    ]
+  }
+]

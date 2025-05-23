@@ -1,0 +1,485 @@
+[
+  {
+    "title": "Estimated pulse wave velocity associated with cognitive phenotypes in a rural older population in China: A cohort study",
+    "authors": [
+      "Li, Jiahui",
+      "Ren, Yifei",
+      "Wang, Lidan",
+      "Zou, Xinrui",
+      "Ding, Xueran",
+      "Hou, Tingting",
+      "Zhang, Qinghua",
+      "Tang, Shi",
+      "Han, Xiaojuan",
+      "Song, Lin",
+      "Liang, Yajun",
+      "Wang, Yongxiang",
+      "Cong, Lin",
+      "Du, Yifeng",
+      "Qiu, Chengxuan"
+    ],
+    "date": "2025-01-17T13:25:39Z",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>INTRODUCTION</jats:title><jats:p>To examine the longitudinal association between estimated pulse wave velocity (ePWV) and cognitive phenotypes in a rural Chinese older population.</jats:p></jats:sec><jats:sec><jats:title>METHODS</jats:title><jats:p>This population‐based study included 1857 dementia‐free participants (age ≥60 years) who were examined in 2014 and followed in 2018. ePWV was calculated using age and mean blood pressure (MBP). Cognitive function was assessed using the Mini‐Mental State Examination (MMSE) and neuropsychological tests. Dementia was diagnosed following the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM‐IV) criteria. Data were analyzed using Cox proportional‐hazards models, linear regression models, and restricted cubic spline (RCS) curves.</jats:p></jats:sec><jats:sec><jats:title>RESULTS</jats:title><jats:p>Per 1‐m/s increase in ePWV was associated with an adjusted hazard ratio (HR) (95% confidence interval [CI]) of 1.51(1.30–1.75) for dementia and 1.58(1.33–1.89) for Alzheimer's disease (AD), and with an MMSE score decline (adjusted <jats:italic>β</jats:italic>‐coefficient = −0.36; 95% CI = −0.52 to −0.21). A nonlinear association was observed between baseline ePWV and follow‐up cognitive scores.</jats:p></jats:sec><jats:sec><jats:title>DISCUSSION</jats:title><jats:p>A higher ePWV is associated with an increased risk of dementia, AD, accelerated cognitive decline, and poorer cognitive performance in older adults.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p><jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>An increased estimated pulse wave velocity (ePWV) was associated with incident dementia, Alzheimer's disease, and accelerated cognitive decline in a rural Chinese older population.</jats:p></jats:list-item>\n<jats:list-item><jats:p>A higher ePWV at baseline was associated with lower scores of global cognition and multiple cognitive domains at the 4‐year follow‐up.</jats:p></jats:list-item>\n<jats:list-item><jats:p>An increased ePWV may be a risk factor for dementia and accelerated cognitive deterioration in aging.</jats:p></jats:list-item>\n</jats:list></jats:p></jats:sec>",
+    "url": "https://doi.org/10.1002/alz.14491",
+    "journal": "Alzheimer's &amp; Dementia",
+    "keywords": [
+      "pulse wave velocity",
+      "cognitive phenotypes",
+      "rural older population"
+    ],
+    "caption": "🧠✨ New research highlights the link between vascular health and cognitive function in older adults living in rural China. This study found that estimated pulse wave velocity (PWV), a measure of arterial stiffness, is associated with cognitive phenotypes. As we age, maintaining vascular health might be key to preserving cognitive abilities. This finding is especially relevant in the field of neuroscience, as it underscores the importance of cardiovascular health in preventing cognitive decline and conditions like Alzheimer's. Let's take care of our hearts to protect our minds! ❤️🧠\n\n#Neuroscience #CognitiveHealth #HeartHealth #Aging #AlzheimersPrevention #BrainHealth #ResearchInsights",
+    "images": [
+      [
+        {
+          "title": "File:Pwv measurement fig.svg",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Peterhcharlton\" title=\"User:Peterhcharlton\">Peterhcharlton</a>",
+          "description": "This figure shows three PWV measurement techniques: (a) between two sites using simultaneously acquired pulse waves; (b) between two sites using synchronous pulse waves gated by an ECG signal; and (c) using multiple pulse waves at a single site.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Pwv_measurement_fig.svg"
+        },
+        {
+          "title": "File:Arterial pulse waves.jpg",
+          "author": "Peter H Charlton",
+          "description": "Blood pressure (P), flow velocity (U), luminal area (A), and photoplethysmogram (PPG) pulse waves at common measurement sites around the body. These pulse waves were simulated for a young, healthy subject.",
+          "credit": "Charlton PH et al., 'Modeling arterial pulse waves in healthy aging: a database for in silico evaluation of hemodynamics and pulse wave indexes', American Journal of Physiology-Heart and Circulatory Physiology, 317(5), p.H1069. DOI: <a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1152/ajpheart.00218.2019\">https://doi.org/10.1152/ajpheart.00218.2019</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Arterial_pulse_waves.jpg"
+        }
+      ],
+      [],
+      [
+        {
+          "title": "File:Population pyramid cambodia 2019.png",
+          "author": "National Institute of Statistics, Ministry of Planning in Cambodia",
+          "description": "The pyramid indicates significant differences in the age structure\nbetween urban and rural areas in Cambodia. The rural areas tend to have relatively more people in the younger and older age groups.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://nis.gov.kh/nis/Census2019/Final%20General%20Population%20Census%202019-English.pdf\">http://nis.gov.kh/nis/Census2019/Final%20General%20Population%20Census%202019-English.pdf</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Population_pyramid_cambodia_2019.png"
+        },
+        {
+          "title": "File:US Rural Population during 1910 - West, retouched.png",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Accountalive\" title=\"User:Accountalive\">Accountalive</a>",
+          "description": "Areas in white have a population density of under 2 per square mile – and thus represent frontier territory<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>.\nUnlike in the <a href=\"//commons.wikimedia.org/wiki/File:Distribution_of_US_Rural_Population_during_1900.pdf\" title=\"File:Distribution of US Rural Population during 1900.pdf\">previous census in 1900</a>, the west coast and the east are now connected by inhabited corridors. The frontier line has disappeared. The northern-most corridor follows the path of the Northern Pacific Railway. A second corridor just north of the Great Salt Lake follows mostly the Oregon Trail. To the south, a third, not quite \"completed\" corridor follows parts of the Atlantic and Pacific Railroad.",
+          "credit": "<a href=\"//commons.wikimedia.org/wiki/File:Distribution_of_US_Rural_Population_during_1900.pdf\" title=\"File:Distribution of US Rural Population during 1900.pdf\">File:Distribution_of_US_Rural_Population_during_1900.pdf</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:US_Rural_Population_during_1910_-_West,_retouched.png"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Tau pathology is associated with postsynaptic metabotropic glutamate receptor 5 (mGluR5) in early Alzheimer's disease in a sex‐specific manner",
+    "authors": [
+      "Wang, Yan",
+      "Wang, Jie",
+      "Chen, Xing",
+      "Lin, Zengping",
+      "You, Zhiwen",
+      "He, Kun",
+      "Guo, Tengfei",
+      "Zhao, Jun",
+      "Huang, Qi",
+      "Ni, Ruiqing",
+      "Guan, Yihui",
+      "Li, Binyin",
+      "Xie, Fang"
+    ],
+    "date": "2025-02-26T08:56:38Z",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>INTRODUCTION</jats:title><jats:p>To investigate the associations of metabotropic glutamate receptor 5 (mGluR5) with tau deposition and cognitive ability in patients with early Alzheimer's disease (AD).</jats:p></jats:sec><jats:sec><jats:title>METHODS</jats:title><jats:p>Twenty‐six cognitively impaired (CI) and 14 cognitively unimpaired (CU) individuals underwent mGluR5 positron emission tomography (PET) ([<jats:sup>18</jats:sup>F]PSS232), amyloid PET ([<jats:sup>18</jats:sup>F]florbetapir), and tau PET ([<jats:sup>18</jats:sup>F]MK6240), and neuropsychological assessment. The relationships among mGluR5 availability, tau deposition, and neuropsychological assessment were analyzed using Spearman's correlation and mediation analyses.</jats:p></jats:sec><jats:sec><jats:title>RESULTS</jats:title><jats:p>CI patients had lower mGluR5 in the hippocampus than CU (standardized uptake value ratio [SUVr]: 2.03 ± 0.25 vs 1.79 ± 0.17, <jats:italic>p</jats:italic> = 0.003). Hippocampal mGluR5 was negatively associated with hippocampal tau deposition (<jats:italic>r</jats:italic> = −.46, <jats:italic>p</jats:italic> = 0.003) and positively associated with cognitive performance, but only in women. Hippocampal tau deposition mediated the effect of mGluR5 on cognitive performance.</jats:p></jats:sec><jats:sec><jats:title>DISCUSSION</jats:title><jats:p>Reduced hippocampal mGluR5 is negatively related with tau deposition in most cortical regions and positively associated with cognitive performance, making it a promising biomarker for AD diagnosis and therapy.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p><jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>Cognitively impaired (CI) patients exhibited lower metabotropic glutamate receptor 5 (mGluR5) availability in the hippocampus than cognitively unimpaired (CU) subjects.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Hippocampal mGluR5 availability was negatively associated with tau deposition in widespread cortex.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Hippocampal mGluR5 availability was positively associated with cognitive performance.</jats:p></jats:list-item>\n<jats:list-item><jats:p>The close association of mGluR5 with tau and cognition performance exists only in females.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Tau pathology mediated the relationship between mGluR5 availability and cognition.</jats:p></jats:list-item>\n</jats:list></jats:p></jats:sec>",
+    "url": "https://doi.org/10.1002/alz.70004",
+    "journal": "Alzheimer's &amp; Dementia",
+    "keywords": [
+      "Alzheimer's disease",
+      "tau pathology",
+      "sex-specific"
+    ],
+    "caption": "🧠 Exciting new research highlights a potential breakthrough in understanding Alzheimer's disease! Scientists have discovered that tau pathology, a hallmark of Alzheimer's, is linked to the postsynaptic metabotropic glutamate receptor 5 (mGluR5) in a sex-specific way. This could open new doors for targeted treatments, especially in the early stages of the disease. Understanding these pathways is crucial as it may help develop sex-specific therapies, offering more personalized and effective approaches to combat this challenging condition. This study underscores the importance of considering sex differences in neurological research. \n\nStay tuned as science continues to unravel the complexities of the brain! 🧬✨\n\n#AlzheimersResearch #Neuroscience #BrainHealth #InnovationsInScience #Neurobiology #HealthRevolution",
+    "images": [
+      [
+        {
+          "title": "File:Alzheimer's disease brain comparison.jpg",
+          "author": "<ul><li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Garrondo\" title=\"User:Garrondo\">Garrondo</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Garrondo\" title=\"User talk:Garrondo\">talk</a>)</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li></ul>",
+          "description": "Diagram of a normal brain",
+          "credit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a></li></ul>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alzheimer's_disease_brain_comparison.jpg"
+        },
+        {
+          "title": "File:Histopathology of granulovacuolar degeneration in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of granulovacuolar degeneration in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_granulovacuolar_degeneration_in_Alzheimer's_disease_-_annotated.jpg"
+        },
+        {
+          "title": "File:Alzheimer's disease brain comparison-zh.jpg",
+          "author": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" title=\"File:Alzheimer's disease brain comparison.jpg\">File:Alzheimer's disease brain comparison.jpg</a>: *derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Garrondo\" title=\"User:Garrondo\">Garrondo</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Garrondo\" title=\"User talk:Garrondo\">talk</a>)</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li></ul>",
+          "description": "Diagram of a normal brain",
+          "credit": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" title=\"File:Alzheimer's disease brain comparison.jpg\">Alzheimer's disease brain comparison.jpg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alzheimer%27s_disease_brain_comparison.jpg/60px-Alzheimer%27s_disease_brain_comparison.jpg\" decoding=\"async\" width=\"50\" height=\"23\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alzheimer%27s_disease_brain_comparison.jpg/120px-Alzheimer%27s_disease_brain_comparison.jpg 1.5x\" data-file-width=\"3984\" data-file-height=\"1800\"></a></span><br>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alzheimer's_disease_brain_comparison-zh.jpg"
+        },
+        {
+          "title": "File:Histopathology of neurofibrillary tangles in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of neurofibrillary tangles in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_neurofibrillary_tangles_in_Alzheimer's_disease_-_annotated.jpg"
+        },
+        {
+          "title": "File:Histopathology of amyloid plaque in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of amyloid plaque in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_amyloid_plaque_in_Alzheimer's_disease_-_annotated.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Accuracy of the Phosphorylated Tau 217 (p-Tau217) Immunoassay in Detecting Amyloid β (Aβ) Positivity and Tau (T) Positivity and Discriminating A+T− From A+T+ Individuals.png",
+          "author": "Authors of the study: Nicholas J. Ashton, PhD1,2,3,4; Wagner S. Brum1,5; Guglielmo Di Molfetta, MSc1; Andrea L. Benedet, PhD1; Burak Arslan, MD1; Erin Jonaitis, PhD6,7,8; Rebecca E. Langhough, PhD6,7,8; Karly Cody, PhD7; Rachael Wilson, PhD7,8; Cynthia M. Carlsson, PhD6,7,8,9; Eugeen Vanmechelen, PhD10; Laia Montoliu-Gaya, PhD1; Juan Lantero-Rodriguez, PhD1; Nesrine Rahmouni, MSc11,12; Cecile Tissot, PhD11,12; Jenna Stevenson, PhD11,12; Stijn Servaes, PhD11,12; Joseph Therriault, PhD11,12; Tharick Pascoal, MD, PhD13,14; Alberto Lleó, MD, PhD15,16; Daniel Alcolea, MD, PhD15,16; Juan Fortea, MD, PhD15,16; Pedro Rosa-Neto, MD, PhD11,12; Sterling Johnson, MD, PhD6,7; Andreas Jeromin, PhD17; Kaj Blennow, MD, PhD1,18; Henrik Zetterberg, MD, PhD1,7,18,19,20,21",
+          "description": "\"Receiver operating characteristics (ROC) curves for p-tau217 in detecting Aβ positivity and tau positivity and to differentiating Aβ-positive and tau-positive individuals (A+T+) from Aβ-positive and tau-negative (A+T−). For each ROC curve, the area under the curve is reported alongside 95% CI. For WRAP and TRIAD, Aβ and tau were indexed by positron emission tomography. In SPIN, A was indexed by cerebrospinal fluid (CSF) Aβ42/40 and T by CSF p-tau181.\"",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://jamanetwork.com/journals/jamaneurology/fullarticle/2813751\">https://jamanetwork.com/journals/jamaneurology/fullarticle/2813751</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Accuracy_of_the_Phosphorylated_Tau_217_(p-Tau217)_Immunoassay_in_Detecting_Amyloid_β_(Aβ)_Positivity_and_Tau_(T)_Positivity_and_Discriminating_A+T−_From_A+T+_Individuals.png"
+        }
+      ],
+      []
+    ]
+  },
+  {
+    "title": "A head‐to‐head comparison of plasma biomarkers to detect Alzheimer's disease in a memory clinic",
+    "authors": [
+      "Anastasi, Federica",
+      "Fernández‐Lebrero, Aida",
+      "Ashton, Nicholas J.",
+      "Ortiz‐Romero, Paula",
+      "Torres‐Torronteras, Javier",
+      "González‐Escalante, Armand",
+      "Milà‐Alomà, Marta",
+      "Contador, José",
+      "García‐Escobar, Greta",
+      "Manero‐Borràs, Rosa María",
+      "Navalpotro‐Gómez, Irene",
+      "Jiménez‐Moyano, Esther",
+      "Sahajan, Aparna",
+      "Hao, Qinyu",
+      "Zhang, Bingqing",
+      "Jeromin, Andreas",
+      "Le Bastard, Nathalie",
+      "Nadal, Alicia",
+      "Mousavi, Tahmine",
+      "Kollmorgen, Gwendlyn",
+      "Carboni, Margherita",
+      "Grau‐Rivera, Oriol",
+      "Zetterberg, Henrik",
+      "del Campo, Marta",
+      "Blennow, Kaj",
+      "Puig‐Pijoan, Albert",
+      "Suárez‐Calvet, Marc"
+    ],
+    "date": "2025-02-26T05:55:20Z",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>INTRODUCTION</jats:title><jats:p>Blood‐based biomarkers for Alzheimer's disease (AD) have been widely studied, but direct comparisons of several biomarkers in clinical settings remain limited.</jats:p></jats:sec><jats:sec><jats:title>METHODS</jats:title><jats:p>In this cross‐sectional study, plasma biomarkers from 197 participants in the BIODEGMAR cohort (Hospital del Mar, Barcelona) were analyzed. Participants were classified based on AD cerebrospinal fluid (CSF) core biomarkers. We assessed the ability of plasma p‐tau181, p‐tau217, p‐tau231, t‐tau, and Aβ42/40 to classify Aβ pathology status.</jats:p></jats:sec><jats:sec><jats:title>RESULTS</jats:title><jats:p>Plasma p‐tau biomarkers had a greater diagnostic performance and larger effect sizes compared to t‐tau and Aβ42/40 assays in detecting Aβ pathology. Among them, plasma p‐tau217 consistently outperformed the others, demonstrating superior area under the curves. Furthermore, p‐tau217 showed the strongest correlation between plasma and CSF levels, underscoring its potential as a reliable surrogate for CSF biomarkers.</jats:p></jats:sec><jats:sec><jats:title>DISCUSSION</jats:title><jats:p>Several plasma biomarkers, targeting different epitopes and using different platforms, demonstrated high performance in detecting AD in a memory clinic setting.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p><jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>Plasma p‐tau biomarkers demonstrated higher diagnostic performance and larger effect sizes than t‐tau and Aβ42/40 assays in detecting Alzheimer's disease.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Among the p‐tau biomarkers, p‐tau217 assays consistently outperformed the others, providing superior classification of Aβ pathology status across different phosphorylation sites.</jats:p></jats:list-item>\n<jats:list-item><jats:p>p‐tau217 assays showed the strongest correlation between plasma and CSF levels, indicating its potential as a reliable surrogate for CSF biomarkers.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Several plasma p‐tau biomarkers can be used in a specialized memory clinic to accurately detect Alzheimer's disease.</jats:p></jats:list-item>\n</jats:list></jats:p></jats:sec>",
+    "url": "https://doi.org/10.1002/alz.14609",
+    "journal": "Alzheimer's &amp; Dementia",
+    "keywords": [
+      "Alzheimer's disease",
+      "memory clinic",
+      "plasma biomarkers"
+    ],
+    "caption": "🧠🔬 Exciting advancements in Alzheimer's research! A recent study has compared various plasma biomarkers to enhance early detection of Alzheimer's disease in memory clinics. This head-to-head comparison aims to refine diagnostic tools, potentially making Alzheimer's detection more accessible and less invasive. As we strive for breakthroughs in neuroscience, these findings could pave the way for earlier interventions and better patient outcomes. 🌟\n\nThe study underscores the importance of innovation in neurodegenerative disease diagnostics, highlighting the role of biomarkers in transforming Alzheimer's care. With continued research, we move closer to understanding and combating this challenging disease. Let's stay hopeful and informed as science progresses! 💡\n\n#AlzheimersAwareness #Neuroscience #Innovation #Biomarkers #BrainHealth #MemoryCare",
+    "images": [
+      [
+        {
+          "title": "File:Alzheimer's disease brain comparison.jpg",
+          "author": "<ul><li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Garrondo\" title=\"User:Garrondo\">Garrondo</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Garrondo\" title=\"User talk:Garrondo\">talk</a>)</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li></ul>",
+          "description": "Diagram of a normal brain",
+          "credit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a></li></ul>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alzheimer's_disease_brain_comparison.jpg"
+        },
+        {
+          "title": "File:Histopathology of granulovacuolar degeneration in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of granulovacuolar degeneration in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_granulovacuolar_degeneration_in_Alzheimer's_disease_-_annotated.jpg"
+        },
+        {
+          "title": "File:Alzheimer's disease brain comparison-zh.jpg",
+          "author": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" title=\"File:Alzheimer's disease brain comparison.jpg\">File:Alzheimer's disease brain comparison.jpg</a>: *derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Garrondo\" title=\"User:Garrondo\">Garrondo</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Garrondo\" title=\"User talk:Garrondo\">talk</a>)</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li></ul>",
+          "description": "Diagram of a normal brain",
+          "credit": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" title=\"File:Alzheimer's disease brain comparison.jpg\">Alzheimer's disease brain comparison.jpg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alzheimer%27s_disease_brain_comparison.jpg/60px-Alzheimer%27s_disease_brain_comparison.jpg\" decoding=\"async\" width=\"50\" height=\"23\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alzheimer%27s_disease_brain_comparison.jpg/120px-Alzheimer%27s_disease_brain_comparison.jpg 1.5x\" data-file-width=\"3984\" data-file-height=\"1800\"></a></span><br>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alzheimer's_disease_brain_comparison-zh.jpg"
+        },
+        {
+          "title": "File:Histopathology of neurofibrillary tangles in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of neurofibrillary tangles in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_neurofibrillary_tangles_in_Alzheimer's_disease_-_annotated.jpg"
+        },
+        {
+          "title": "File:Histopathology of amyloid plaque in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of amyloid plaque in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_amyloid_plaque_in_Alzheimer's_disease_-_annotated.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:The Hull Memory Clinic, on............. - geograph.org.uk - 3761185.jpg",
+          "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/48731\">Ian S</a> <span class=\"mw-valign-text-top\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:The_Hull_Memory_Clinic,_on............._-_geograph.org.uk_-_3761185.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "description": "The Hull Memory Clinic, on............. <span class=\"mw-valign-text-top\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:The_Hull_Memory_Clinic,_on............._-_geograph.org.uk_-_3761185.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "credit": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/3761185\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:The_Hull_Memory_Clinic,_on............._-_geograph.org.uk_-_3761185.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "license": "cc-by-sa-2.0",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Hull_Memory_Clinic,_on............._-_geograph.org.uk_-_3761185.jpg"
+        },
+        {
+          "title": "File:Ed Lynch at Burger King baseball clinic (cropped).jpg",
+          "author": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "description": "New York Mets pitcher Ed Lynch at Burger King baseball clinic held at Miami-Dade Community College.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.floridamemory.com/items/show/15247\">https://www.floridamemory.com/items/show/15247</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Ed_Lynch_at_Burger_King_baseball_clinic_(cropped).jpg"
+        },
+        {
+          "title": "File:Fond memories revisited at Hohenfels Health Clinic (5620022).jpg",
+          "author": "U.S. Army photo by <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dvidshub.net/portfolio/1132923\">Alain M. Polynice</a>",
+          "description": "United States Ambassador to Germany, Richard A. Grenell (center), is greeted by the command team of the U.S. Army Health Clinic Hohenfels, July 5, 2019, Hohenfels, Germany. Grenell, his partner, Matt Lashey (right), and 13 members of Lashey’s family paid a visit to the Hohenfels Health Clinic where Lashey’s brother, Ben, was born in 1974 when the clinic was an Army field hospital. (U.S. Army photo by Staff Sgt. Kiara Flowers)",
+          "credit": "<table cellspacing=\"8\" cellpadding=\"0\" class=\"layouttemplate sourcetemplate\" style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f6f7f5); color: var(--color-base, #202122); border: var(--border-subtle, 1px solid #555555);\" dir=\"ltr\" lang=\"en\">\n\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Emblem_of_the_United_States_Department_of_the_Army.svg/120px-Emblem_of_the_United_States_Department_of_the_Army.svg.png\" decoding=\"async\" width=\"80\" height=\"80\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Emblem_of_the_United_States_Department_of_the_Army.svg/250px-Emblem_of_the_United_States_Department_of_the_Army.svg.png 2x\" data-file-width=\"900\" data-file-height=\"900\"></span></span>\n</td>\n<td align=\"center\">\n<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=ID-USMil 1%3D190705-A-QQ596-0002 2%3DArmy url%3Dhttps%3A%2F%2Fwww.dvidshub.net%2Fimage%2F5620022\"> </span>\nThis image was released by the United States Army with the <a href=\"//commons.wikimedia.org/wiki/Commons:VIRIN\" title=\"Commons:VIRIN\">ID</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dvidshub.net/image/5620022\">190705-A-QQ596-0002</a> <a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Category:Files_created_by_the_United_States_Army_with_known_IDs&amp;filefrom=190705-A-QQ596-0002#mw-category-media\"><small>(next)</small></a>.<br>\n<small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>\n</p>\n<hr>\n<p><span style=\"font-size:small;line-height:1.4\" class=\"plainlinks noprint\"><a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/ar\"><bdi class=\"language lang-ar\" lang=\"ar\">العربية</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/bn\"><bdi class=\"language lang-bn\" lang=\"bn\">বাংলা</bdi></a> <b>∙</b> \n<a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/jax\"><bdi class=\"language lang-jax\" lang=\"jax\">Bahaso Jambi</bdi></a> <b>∙</b> \n<a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/de\"><bdi class=\"language lang-de\" lang=\"de\">Deutsch</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/de-formal\"><bdi class=\"language lang-de-formal\" lang=\"de-formal\">Deutsch (Sie-Form)</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/en\"><bdi class=\"language lang-en\" lang=\"en\">English</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/es\"><bdi class=\"language lang-es\" lang=\"es\">español</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/eu\"><bdi class=\"language lang-eu\" lang=\"eu\">euskara</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/fa\"><bdi class=\"language lang-fa\" lang=\"fa\">فارسی</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/fr\"><bdi class=\"language lang-fr\" lang=\"fr\">français</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/it\"><bdi class=\"language lang-it\" lang=\"it\">italiano</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/ja\"><bdi class=\"language lang-ja\" lang=\"ja\">日本語</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/ko\"><bdi class=\"language lang-ko\" lang=\"ko\">한국어</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/mk\"><bdi class=\"language lang-mk\" lang=\"mk\">македонски</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/ml\"><bdi class=\"language lang-ml\" lang=\"ml\">മലയാളം</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/nds\"><bdi class=\"language lang-nds\" lang=\"nds\">Plattdüütsch</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/nl\"><bdi class=\"language lang-nl\" lang=\"nl\">Nederlands</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/pl\"><bdi class=\"language lang-pl\" lang=\"pl\">polski</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/ps\"><bdi class=\"language lang-ps\" lang=\"ps\">پښتو</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/pt\"><bdi class=\"language lang-pt\" lang=\"pt\">português</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/ru\"><bdi class=\"language lang-ru\" lang=\"ru\">русский</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/sl\"><bdi class=\"language lang-sl\" lang=\"sl\">slovenščina</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/sv\"><bdi class=\"language lang-sv\" lang=\"sv\">svenska</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/tr\"><bdi class=\"language lang-tr\" lang=\"tr\">Türkçe</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/uk\"><bdi class=\"language lang-uk\" lang=\"uk\">українська</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/zh-hans\"><bdi class=\"language lang-zh-hans\" lang=\"zh-hans\">简体中文</bdi></a> <b>∙</b> <a class=\"external text\" href=\"https://commons.wikimedia.org/wiki/Template:ID-USMil/zh-hant\"><bdi class=\"language lang-zh-hant\" lang=\"zh-hant\">繁體中文</bdi></a> <b>∙</b> <small class=\"plainlinks\"><a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:ID-USMil/lang&amp;action=edit\">+/−</a></small></span>\n</p>\n</td>\n<td><span class=\"mw-image-border\" typeof=\"mw:File\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/120px-Flag_of_the_United_States.svg.png\" decoding=\"async\" width=\"90\" height=\"47\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/250px-Flag_of_the_United_States.svg.png 1.5x\" data-file-width=\"1235\" data-file-height=\"650\"></span></span>\n</td></tr></tbody></table>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Fond_memories_revisited_at_Hohenfels_Health_Clinic_(5620022).jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:RanaGSJB et al 2010 Anal Bioanal Chem.jpg",
+          "author": "Rana GS &amp; Flora JW",
+          "description": "Potential role of Coagulation and the <a href=\"//commons.wikimedia.org/w/index.php?title=Complement_system&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Complement system (page does not exist)\">Complement system</a> in <a href=\"//commons.wikimedia.org/w/index.php?title=COPD&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"COPD (page does not exist)\">COPD</a>; a complex cascade of plasma proteins and platelet activation as molecular pertubations associated with patients suffering from Chronic Obstructive Pulmonary Disease (COPD).",
+          "credit": "Proteomic biomarkers in plasma that differentiate rapid and slow decline in lung function in adult cigarette smokers with chronic obstructive pulmonary disease (COPD)<sup id=\"cite_ref-RANAGS_et_al_2010_1-0\" class=\"reference\"><a href=\"#cite_note-RANAGS_et_al_2010-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>",
+          "license": "cc-by-sa-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:RanaGSJB_et_al_2010_Anal_Bioanal_Chem.jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "A brain DNA co‐methylation network analysis of psychosis in Alzheimer's disease",
+    "authors": [
+      "Kouhsar, Morteza",
+      "Weymouth, Luke",
+      "Smith, Adam R.",
+      "Imm, Jennifer",
+      "Bredemeyer, Claudia",
+      "Wedatilake, Yehani",
+      "Torkamani, Ali",
+      "Bergh, Sverre",
+      "Selbæk, Geir",
+      "Mill, Jonathan",
+      "Ballard, Clive",
+      "Sweet, Robert A.",
+      "Kofler, Julia",
+      "Creese, Byron",
+      "Pishva, Ehsan",
+      "Lunnon, Katie"
+    ],
+    "date": "2025-02-12T09:45:39Z",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>INTRODUCTION</jats:title><jats:p>The presence of psychosis in Alzheimer's disease (AD) is suggested to be associated with distinct molecular and neuropathological profiles in the brain.</jats:p></jats:sec><jats:sec><jats:title>METHODS</jats:title><jats:p>We assessed brain DNA methylation in AD donors with psychosis (AD+P) and without psychosis (AD−P) using the EPIC array. Weighted gene correlation network analysis identified modules of co‐methylated genes in a discovery cohort (PITT‐ADRC: <jats:italic>N</jats:italic> = 113 AD+P, <jats:italic>N</jats:italic> = 40 AD−P), with validation in an independent cohort (BDR: <jats:italic>N</jats:italic> = 79 AD+P, <jats:italic>N</jats:italic> = 117 AD−P), with Gene Ontology and cell‐type enrichment analysis. Genetic data were integrated to identify methylation quantitative trait loci (mQTLs), which were co‐localized with GWAS for related traits.</jats:p></jats:sec><jats:sec><jats:title>RESULTS</jats:title><jats:p>We replicated one AD+P associated module, which was enriched for synaptic pathways and in excitatory and inhibitory neurons. mQTLs in this module co‐localized with variants associated with schizophrenia and educational attainment.</jats:p></jats:sec><jats:sec><jats:title>DISCUSSION</jats:title><jats:p>This represents the largest epigenetic study of AD+P to date, identifying pleiotropic relationships between AD+P and related traits.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p><jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>DNA methylation was assessed in the prefrontal cortex in subjects with AD+P and AD−P.</jats:p></jats:list-item>\n<jats:list-item><jats:p>WGCNA identified six modules of co‐methylated loci associated with AD+P in a discovery cohort.</jats:p></jats:list-item>\n<jats:list-item><jats:p>One of the modules was replicated in an independent cohort.</jats:p></jats:list-item>\n<jats:list-item><jats:p>This module was enriched for synaptic genes and in excitatory and inhibitory neurons.</jats:p></jats:list-item>\n<jats:list-item><jats:p>mQTLs mapping to genes in the module co‐localized with GWAS loci for schizophrenia and educational attainment.</jats:p></jats:list-item>\n</jats:list></jats:p></jats:sec>",
+    "url": "https://doi.org/10.1002/alz.14501",
+    "journal": "Alzheimer's &amp; Dementia",
+    "keywords": [
+      "psychosis",
+      "Alzheimer's disease",
+      "DNA methylation"
+    ],
+    "caption": "🧠✨ New insights into Alzheimer's Disease! A recent study explores the DNA co-methylation networks in the brain, shedding light on the psychosis often associated with Alzheimer's. This research uncovers potential molecular mechanisms that could lead to new therapeutic strategies. Understanding these networks is crucial for developing treatments to improve the quality of life for those affected. As we continue to unravel the complexities of the brain, this study marks a step forward in the fight against neurodegenerative diseases. Stay tuned for more groundbreaking discoveries in neuroscience! #Alzheimers #Neuroscience #Research #BrainHealth 💡🔬",
+    "images": [
+      [
+        {
+          "title": "File:Psychosis and Schizo Spec Flag.png",
+          "author": "\"Glitch\" schizosupport",
+          "description": "Flag for the psychosis &amp; schizo-spectrum community.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.tumblr.com/schizosupport/713988692393541632/psychosis-and-schizo-spec-flag-time-my-dear?source=share\">https://www.tumblr.com/schizosupport/713988692393541632/psychosis-and-schizo-spec-flag-time-my-dear?source=share</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Psychosis_and_Schizo_Spec_Flag.png"
+        },
+        {
+          "title": "File:Dissociation-impact-in-psychosis.png",
+          "author": "Černis E, Freeman D, Ehlers A (2020) Describing the indescribable: A qualitative study of dissociative experiences in psychosis. PLoS ONE 15(2): e0229091. <a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1371/journal.pone.0229091\">https://doi.org/10.1371/journal.pone.0229091</a>",
+          "description": "Experiences of dissociation in people with psychosis who dissociate.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229091\">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229091</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dissociation-impact-in-psychosis.png"
+        },
+        {
+          "title": "File:Dissociation-psychosis-feels-like.png",
+          "author": "Černis E, Freeman D, Ehlers A (2020) Describing the indescribable: A qualitative study of dissociative experiences in psychosis. PLoS ONE 15(2): e0229091. <a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1371/journal.pone.0229091\">https://doi.org/10.1371/journal.pone.0229091</a>",
+          "description": "Experiences of dissociation in people with psychosis who dissociate.",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229091\">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229091</a>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Dissociation-psychosis-feels-like.png"
+        }
+      ],
+      [
+        {
+          "title": "File:Alzheimer's disease brain comparison.jpg",
+          "author": "<ul><li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Garrondo\" title=\"User:Garrondo\">Garrondo</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Garrondo\" title=\"User talk:Garrondo\">talk</a>)</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li></ul>",
+          "description": "Diagram of a normal brain",
+          "credit": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a></li></ul>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alzheimer's_disease_brain_comparison.jpg"
+        },
+        {
+          "title": "File:Histopathology of granulovacuolar degeneration in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of granulovacuolar degeneration in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_granulovacuolar_degeneration_in_Alzheimer's_disease_-_annotated.jpg"
+        },
+        {
+          "title": "File:Alzheimer's disease brain comparison-zh.jpg",
+          "author": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" title=\"File:Alzheimer's disease brain comparison.jpg\">File:Alzheimer's disease brain comparison.jpg</a>: *derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Garrondo\" title=\"User:Garrondo\">Garrondo</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Garrondo\" title=\"User talk:Garrondo\">talk</a>)</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:SEVERESLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:SEVERESLICE HIGH.JPG\">SEVERESLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:PRECLINICALSLICE_HIGH.JPG\" class=\"mw-redirect\" title=\"File:PRECLINICALSLICE HIGH.JPG\">PRECLINICALSLICE_HIGH.JPG</a>: ADEAR:  \"Alzheimer's Disease Education and Referral Center, a service of the National Institute on Aging.\"</li></ul>",
+          "description": "Diagram of a normal brain",
+          "credit": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" title=\"File:Alzheimer's disease brain comparison.jpg\">Alzheimer's disease brain comparison.jpg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Alzheimer%27s_disease_brain_comparison.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alzheimer%27s_disease_brain_comparison.jpg/60px-Alzheimer%27s_disease_brain_comparison.jpg\" decoding=\"async\" width=\"50\" height=\"23\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alzheimer%27s_disease_brain_comparison.jpg/120px-Alzheimer%27s_disease_brain_comparison.jpg 1.5x\" data-file-width=\"3984\" data-file-height=\"1800\"></a></span><br>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Alzheimer's_disease_brain_comparison-zh.jpg"
+        },
+        {
+          "title": "File:Histopathology of neurofibrillary tangles in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of neurofibrillary tangles in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_neurofibrillary_tangles_in_Alzheimer's_disease_-_annotated.jpg"
+        },
+        {
+          "title": "File:Histopathology of amyloid plaque in Alzheimer's disease - annotated.jpg",
+          "author": "<figure typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_(crop).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/250px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg\" decoding=\"async\" width=\"135\" height=\"159\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg/330px-Mikael_H%C3%A4ggstr%C3%B6m_at_pathology_in_2019_%28crop%29.jpg 2x\" data-file-width=\"1439\" data-file-height=\"1697\"></a><figcaption><a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a> <a href=\"//commons.wikimedia.org/wiki/Mikael_H%C3%A4ggstr%C3%B6m\" class=\"mw-redirect\" title=\"Mikael Häggström\">Author info</a><br> - <a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m#Reusing_images\" title=\"User:Mikael Häggström\">Reusing images</a><br>- Conflicts of interest:<br>  None</figcaption></figure>\n<a href=\"//commons.wikimedia.org/wiki/User:Mikael_H%C3%A4ggstr%C3%B6m\" title=\"User:Mikael Häggström\">Mikael Häggström</a>, <a href=\"https://en.wikipedia.org/wiki/Medical_Doctor\" class=\"extiw\" title=\"en:Medical Doctor\">M.D.</a><br><b>Consent note</b>: Consent from the patient or patient's relatives is regarded as redundant, because of absence of identifiable features (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/ori/committees/irb-clin/hipaa/hipaa-phi-identifiers\">List of HIPAA identifiers</a>) in the media and case information (<a rel=\"nofollow\" class=\"external text\" href=\"https://research.ucr.edu/media/34266/hipaa_case_reports.pdf\">See also HIPAA case reports guidance</a>).",
+          "description": "Histopathology of amyloid plaque in the <a href=\"https://en.wikipedia.org/wiki/hippocampus\" class=\"extiw\" title=\"en:hippocampus\">hippocampus</a> in <a href=\"https://en.wikipedia.org/wiki/Alzheimer%27s_disease\" class=\"extiw\" title=\"en:Alzheimer's disease\">Alzheimer's disease</a>. H&amp;E stain.",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc0",
+          "url": "https://commons.wikimedia.org/wiki/File:Histopathology_of_amyloid_plaque_in_Alzheimer's_disease_-_annotated.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:DNA methylation and demethylation molecular mechanisms.png",
+          "author": "Ana Valente,Luís Vieira,Maria João Silva and Célia Ventura",
+          "description": "Simplified schematic representation of DNA methylation and demethylation molecular mechanisms.",
+          "credit": "Nanomaterials 2023, 13(12), 1880; <a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.3390/nano13121880\">https://doi.org/10.3390/nano13121880</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:DNA_methylation_and_demethylation_molecular_mechanisms.png"
+        },
+        {
+          "title": "File:RNA-directed DNA Methylation (RdDM).png",
+          "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:M%C3%A9gaspopi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mégaspopi (page does not exist)\">A. Koetz</a>",
+          "description": "RNA-directed DNA Methylation (RdDM) éteignant des éléments transposables des cellules sub-épidermiques pendant la phase pré-méiotique de la mégasporogenèse chez Arabidopis thaliana",
+          "credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "license": "cc-by-sa-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:RNA-directed_DNA_Methylation_(RdDM).png"
+        },
+        {
+          "title": "File:CpG methylation in mouse development.png",
+          "author": "Heather J. Lee, Timothy A. Hore, Wolf Reik",
+          "description": "<b>Global CpG Methylation Levels in the Mouse Germline, Somatic Tissues, and ESCs.</b>\nThe mouse germline undergoes two major waves of demethylation, the first in the early embryo where the paternal genome (blue) is actively demethylated prior to and during replication. Both the paternal and maternal (red) genomes passively lose methylation after this until the blastocyst stage (E3.5). The second wave of demethylation occurs in the primordial germ cells between E6.5 and E13.5 as they emerge from the epiblast. Methylation is then re-established in a sex-specific manner after E13.5 and the nongrowing (NG) oocyte stage, in males and females, respectively, eventually giving rise to mature gametic patterns. Naive and primed ESCs can be cultured from the ICM or be interchanged with each other (dashed line), by growth in either serum or 2i media, respectively. Only naive ESCs display low methylation (c. 30%) that corresponds to in vivo pluripotent tissues (shaded boxes on the far right). Erased cells display less than 10% methylation, whereas somatic tissues (derived from the E6.5 epiblast) show consistently high methylation around 70%–85%. The placenta is relatively demethylated compared to somatic tissues and is derived from the blastocyst trophectoderm (E3.5). In order to compare between genome-wide (Ficz et al., 2013; Hon et al., 2013; Kobayashi et al., 2012; Seisenberger et al., 2012; Shirane et al., 2013) and reduced representation bisulfite sequencing data sets (Smallwood et al., 2011; Smith et al., 2012), 100 kb probes not overlapping CpG islands were analyzed as previously (Ficz et al., 2013).",
+          "credit": "<cite style=\"font-style:normal\"> (2014). \"Reprogramming the Methylome: Erasing Memory and Creating Diversity\". <i>Cell Stem Cell</i> <b>14</b> (6): 710-719. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1016/j.stem.2014.05.008\">10.1016/j.stem.2014.05.008</a>.</cite>",
+          "license": "cc-by-3.0",
+          "url": "https://commons.wikimedia.org/wiki/File:CpG_methylation_in_mouse_development.png"
+        },
+        {
+          "title": "File:Beck–Fahrner syndrome or TET3 deficiency (episignature).jpg",
+          "author": "Levy et al.",
+          "description": "DNA methylation profile or epigenetic signature (episignature) related to mutations in TET3 gene for Beck–Fahrner syndrome.",
+          "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/figure/Fig2/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/figure/Fig2/</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/\">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8576018/</a>",
+          "license": "cc-by-4.0",
+          "url": "https://commons.wikimedia.org/wiki/File:Beck–Fahrner_syndrome_or_TET3_deficiency_(episignature).jpg"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Dual‐stream algorithms for dementia detection: Harnessing structured and unstructured electronic health record data, a novel approach to prevalence estimation",
+    "authors": [
+      "Collyer, Taya A.",
+      "Liu, Ming",
+      "Beare, Richard",
+      "Andrew, Nadine E.",
+      "Ung, David",
+      "Carver, Alison",
+      "Ilomaki, Jenni",
+      "Bell, J. Simon",
+      "Thrift, Amanda G.",
+      "Rocca, Walter A.",
+      "St Sauver, Jennifer L.",
+      "Lu, Alicia",
+      "Siostrom, Kristy",
+      "Moran, Chris",
+      "Roberts, Helene",
+      "Chong, Trevor T.‐J.",
+      "Murray, Anne",
+      "Ravipati, Tanya",
+      "O'Bree, Bridget",
+      "Srikanth, Velandai K."
+    ],
+    "date": "2025-05-06T06:19:21Z",
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>INTRODUCTION</jats:title><jats:p>Identifying individuals with dementia is crucial for prevalence estimation and service planning, but reliable, scalable methods are lacking. We developed novel set algorithms using both structured and unstructured electronic health record (EHR) data, applying Diagnostic and Statistical Manual of Mental Disorders criteria for dementia case identification.</jats:p></jats:sec><jats:sec><jats:title>METHODS</jats:title><jats:p>Our cohort (<jats:italic>n</jats:italic> = 1082) included individuals aged ≥ 60 with dementia identified through specialist clinics and a comparison group without dementia. Clinicians from Australia and the United States informed predictor selection. We developed algorithms through a biostatistics stream for structured data and a natural language processing (NLP) stream for text, synthesizing results via logistic regression.</jats:p></jats:sec><jats:sec><jats:title>RESULTS</jats:title><jats:p>The final structured model retained 16 variables (area under the receiver operating characteristic curve [AUC] 0.853, specificity 72.2%, sensitivity 80.6%). NLP classifiers (logistic regression, support vector machine, and random forest models) performed comparably. The final, combined model outperformed all others (AUC = 0.951, <jats:italic>P</jats:italic> &lt; 0.001 for comparison to structured model).</jats:p></jats:sec><jats:sec><jats:title>DISCUSSION</jats:title><jats:p>Embedding text‐derived insights within algorithms trained on structured medical data significantly enhances dementia identification capacity.</jats:p></jats:sec><jats:sec><jats:title>Highlights</jats:title><jats:p><jats:list list-type=\"bullet\">\n<jats:list-item><jats:p>Algorithmic tools for detection of individuals with dementia are available; however, previous work has used heterogeneous case definitions which are not clinically meaningful, and has relied on proxies such as diagnostic codes or medications for case ascertainment.</jats:p></jats:list-item>\n<jats:list-item><jats:p>We used a novel, dual‐stream algorithmic development approach, simultaneously and separately modeling a clinically meaningful outcome (diagnosis of dementia according to specialized clinical impression) using structured and unstructured electronic health record datasets.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Our clinically grounded case definition supported the inclusion of key structured variables (such as dementia International Classification of Disease codes and medications) as modeling predictors rather than outcomes.</jats:p></jats:list-item>\n<jats:list-item><jats:p>Our algorithms, published in detail to support validation and replication, represent a major step forward in the use of routinely collected data for detection of diagnosed dementia.</jats:p></jats:list-item>\n</jats:list></jats:p></jats:sec>",
+    "url": "https://doi.org/10.1002/alz.70132",
+    "journal": "Alzheimer's &amp; Dementia",
+    "keywords": [
+      "dementia detection",
+      "electronic health records",
+      "prevalence estimation"
+    ],
+    "caption": "🔍🧠 Exciting advancements in dementia detection! Researchers have developed dual-stream algorithms that utilize both structured and unstructured electronic health record data to estimate dementia prevalence more accurately. This innovative approach is a game-changer for early detection, offering a more comprehensive understanding of patient data. As the prevalence of dementia continues to rise, harnessing technology to improve diagnosis is more crucial than ever. This method could lead to earlier interventions and better outcomes for those affected. 🌟\n\nStay tuned for more breakthroughs in neuroscience and healthcare! #DementiaAwareness #Neuroscience #HealthcareInnovation #AIinMedicine #BrainHealth",
+    "images": [
+      [],
+      [
+        {
+          "title": "File:Electronic Health Records flow chart.jpg",
+          "author": "uploaded by <a href=\"https://en.wikipedia.org/wiki/User:Library_046\" class=\"extiw\" title=\"en:User:Library 046\">Library 046</a> at en.wikipedia",
+          "description": "Electronic Health Records flow chart.jpg",
+          "credit": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www1.va.gov/vadodhealthitsharing/\">http://www1.va.gov/vadodhealthitsharing/</a>\n</p>\n<ul><li>Transferred from <a class=\"external text\" href=\"https://en.wikipedia.org\">en.wikipedia</a> by <a href=\"//commons.wikimedia.org/wiki/User:SreeBot\" title=\"User:SreeBot\">SreeBot</a></li></ul>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Electronic_Health_Records_flow_chart.jpg"
+        },
+        {
+          "title": "File:Terry Adirim 2021.png",
+          "author": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+          "description": "Terry Adirim, program executive director of the Veterans Affairs Electronic Health Record Modernization Integration Office",
+          "credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.wsj.com/articles/veterans-affairs-facilities-suffer-glitch-linked-to-electronic-health-records-system-11646782876\">https://www.wsj.com/articles/veterans-affairs-facilities-suffer-glitch-linked-to-electronic-health-records-system-11646782876</a>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Terry_Adirim_2021.png"
+        },
+        {
+          "title": "File:Electronic medical record.jpg",
+          "author": null,
+          "description": "An electronic medical record example",
+          "credit": "Oguntoye patients electronic medical record (free open source version)",
+          "license": null,
+          "url": "https://commons.wikimedia.org/wiki/File:Electronic_medical_record.jpg"
+        }
+      ],
+      [
+        {
+          "title": "File:Global Map of Male Circumcision Prevalence at Country Level.png",
+          "author": "<a href=\"//commons.wikimedia.org/wiki/User:Emilfaro\" title=\"User:Emilfaro\">Emilfaro</a>",
+          "description": "Global map of male circumcision prevalence at country level, as of December 2006.",
+          "credit": "<p>The World Health Organization <a rel=\"nofollow\" class=\"external text\" href=\"http://www.who.int/hiv/pub/malecircumcision/globaltrends/en/index.html\">report</a> of 14 December 2007. Male circumcision: global trends and determinants of prevalence, safety and acceptability. This report is the result of collaborative work between the London School of Hygiene and Tropical Medicine, the World Health Organization and the Joint United Nations Programme on HIV/AIDS (UNAIDS). Based on:\n</p>\n<ul><li>13. Demographic and health surveys. MEASURE DHS, 2006 (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.measuredhs.com\">http://www.measuredhs.com</a>, accessed 21 September 2006).</li>\n<li>53. Drain PK et al. Male circumcision, religion and infectious diseases: an ecologic analysis of 118 developing countries. BMC Infect Dis, 2006, 6(1):172.</li>\n<li>54. Williams BG et al. The potential impact of male circumcision on HIV in sub-Saharan Africa. PLoS Med, 2006, 3(7):262.</li>\n<li>55. International religious freedom report for 2004. U.S. Department of State (<a rel=\"nofollow\" class=\"external free\" href=\"https://2001-2009.state.gov/g/drl/rls/irf/2004/index.htm\">https://2001-2009.state.gov/g/drl/rls/irf/2004/index.htm</a>, accessed 21 September 2006).</li></ul>",
+          "license": "pd",
+          "url": "https://commons.wikimedia.org/wiki/File:Global_Map_of_Male_Circumcision_Prevalence_at_Country_Level.png"
+        }
+      ]
+    ]
+  }
+]
