@@ -148,59 +148,64 @@ def get_image_url(title, api_key=OPENAI_API_KEY, model="gpt-4o"):
     response = requests.post(url, headers=headers, json=data)
     return response.json()['output'][1]['content'][0]['text']
 
-def get_wikimedia(query, extensions= ('.jpg', '.jpeg', '.png', '.svg'), limit=5):
-    url = 'https://api.wikimedia.org/core/v1/commons/search/page'
-    headers = { # impersonate a browser to prevent 403 access forbidden errors
+def get_wikimedia(query, extensions=('.jpg', '.jpeg', '.png', '.svg'), limit=5):
+    search_url = 'https://api.wikimedia.org/core/v1/commons/search/page'
+    headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                       "AppleWebKit/537.36 (KHTML, like Gecko) "
                       "Chrome/113.0.0.0 Safari/537.36"
     }
     params = {
-        'q' : query,
-        'limit' : limit
+        'q': query,
+        'limit': limit
     }
-    res = requests.get(url, headers = headers, params = params, timeout=30)
-    res.raise_for_status()
-
-    res = requests.get(url, headers=headers, params=params, timeout=30)
+    res = requests.get(search_url, headers=headers, params=params, timeout=30)
     res.raise_for_status()
     pages = res.json().get("pages", [])
 
     results = []
-    for page in pages[:limit]:
+
+    for page in pages:
         title = page.get("title", "")
 
         if not title.startswith("File:") or not title.lower().endswith(extensions):
             continue
 
-        img_url = 'https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&format=json'
+        img_url = 'https://commons.wikimedia.org/w/api.php'
         img_params = {
-            'titles' : title
+            'action': 'query',
+            'titles': title,
+            'prop': 'imageinfo',
+            'iiprop': 'url|extmetadata',
+            'format': 'json'
         }
-        metadata = requests.get(img_url, headers = headers, params = img_params, timeout=30)
+
+        metadata = requests.get(img_url, headers=headers, params=img_params, timeout=30)
         metadata.raise_for_status()
         data = metadata.json()
 
-        # Navigate to the page object
         pages_dict = data.get("query", {}).get("pages", {})
-        page_info = next(iter(pages_dict.values()))  # safely get the first (and only) page
+        page_info = next(iter(pages_dict.values()))
 
-        # get metadata
         img_info = page_info.get("imageinfo", [{}])[0]
         extmetadata = img_info.get("extmetadata", {})
-        author =  extmetadata.get("Artist", {}).get("value")
+
+        author = extmetadata.get("Artist", {}).get("value")
         description = extmetadata.get("ImageDescription", {}).get("value")
-        credit =  extmetadata.get("Credit", {}).get("value")
+        credit = extmetadata.get("Credit", {}).get("value")
         license = extmetadata.get("License", {}).get("value")
+        image_url = img_info.get("url")
 
         link = f"https://commons.wikimedia.org/wiki/{title.replace(' ', '_')}"
+
         results.append({
             "title": title,
             "author": author,
-            "description" : description,
-            "credit" : credit,
-            "license" : license,
-            "url": link
+            "description": description,
+            "credit": credit,
+            "license": license,
+            "url": link,
+            "image_url": image_url 
         })
 
     return results
@@ -258,5 +263,3 @@ def make_content(isbn='1546-1726', start_date='2025-01-01', end_date=date.today(
             json.dump(processed_articles, f, ensure_ascii=False, indent=2)
     
     return processed_articles
-
-new_content = make_content(isbn='1545-4126', limit = 5, save=True) # only the first X articles 
